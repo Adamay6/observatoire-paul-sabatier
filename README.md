@@ -2,7 +2,9 @@
 
 Enquête indépendante sur l’évolution de l’offre de formation de l’Université de Toulouse. Le premier corpus porte sur une sélection de dossiers de la Faculté sciences et ingénierie (FSI), avec un suivi distinct de la rentrée 2026–2027 et de l’offre des premiers et deuxièmes cycles soumise à l’accréditation 2027–2031.
 
-L’application comprend un tableau de bord filtrable, un atlas des transformations, un explorateur par département, un comparateur avant/après, des fiches individuelles et une bibliothèque documentaire. Les indicateurs comptent des dossiers uniques. Les conclusions, cellules renseignées et relations ouvrent les notices des sources correspondantes.
+L’application comprend un tableau de bord, un graphique comparatif des fermetures et ouvertures, un atlas des transformations, un explorateur, un comparateur avant/après, des fiches et une bibliothèque documentaire. Les indicateurs comptent des dossiers uniques.
+
+Dans **Bilan**, choisissez une période, un département, un diplôme ou un stade, puis sélectionnez une barre pour ouvrir la liste des dossiers. Dans **Atlas** et **Dossiers**, les formations s’ouvrent en aperçu. Sur ordinateur, vous pouvez déplacer les fenêtres par leur titre, les repositionner avec la commande dédiée ou les réduire pour les rouvrir depuis la barre inférieure. Sur mobile, un panneau s’ouvre en bas de l’écran. La touche Échap ferme la fenêtre active.
 
 ## Lancer l’application
 

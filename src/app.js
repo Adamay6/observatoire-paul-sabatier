@@ -1,4 +1,6 @@
 import { renderAtlas } from './atlas.js';
+import { renderBalance } from './balance.js';
+import { createWorkspace } from './workspace.js';
 import {
   periods, degrees, types, proofs, stages, motives, kinds, fields, primaryKinds,
   formatDate, normalize, filterDossiers, metrics, counts, dossierRefs,
@@ -8,10 +10,12 @@ import { h, optionList, proofLabel, sourceRefs, caseHref, typeLabels, item } fro
 const main = document.querySelector('main');
 const header = document.querySelector('header');
 const footer = document.querySelector('footer');
-const nav = { tableau: 'Vue d’ensemble', atlas: 'Atlas', explorer: 'Dossiers', comparer: 'Comparer', sources: 'Sources', methode: 'Méthode' };
+const workspaceHost = document.querySelector('#workspace');
+const nav = { tableau: 'Vue d’ensemble', bilan: 'Bilan', atlas: 'Atlas', explorer: 'Dossiers', comparer: 'Comparer', sources: 'Sources', methode: 'Méthode' };
 let catalog;
 let byId;
 let bySource;
+let workspace;
 
 function brand() {
   return '<a class="brand" href="#tableau"><img width="40" height="40" src="./src/signet.svg" alt=""><span><strong>Observatoire des formations</strong><small>PAUL-SABATIER · TOULOUSE</small></span></a>';
@@ -29,6 +33,59 @@ function pageHead(label, title, description) {
   return `<div class="page-head"><p class="eyebrow">${h(label)}</p><h1>${h(title)}</h1><p>${h(description)}</p></div>`;
 }
 
+function panelButton(kind, entry, text, title = text, className = 'button outline') {
+  return `<button type="button" class="${h(className)}" data-panel="${h(kind)}" data-entry="${h(entry)}" aria-haspopup="dialog" aria-label="${h(title)}">${h(text)}</button>`;
+}
+
+function openPanel(options) {
+  workspace ??= createWorkspace(workspaceHost);
+  workspace.open(options);
+}
+
+function inspectDossier(d, trigger, node) {
+  const relations = node ? d.links?.filter(link => [link.from, link.to].includes(node.id)) || [] : [];
+  const trajectory = relations.map(link => {
+    const from = d.nodes.find(candidate => candidate.id === link.from);
+    const to = d.nodes.find(candidate => candidate.id === link.to);
+    return `<li><strong>${h(types[link.type])}</strong><span>${h(from.label)} → ${h(to.label)}</span>${sourceRefs(link.refs, bySource)}</li>`;
+  }).join('');
+  openPanel({ id: `dossier-${d.id}`, title: d.title, kind: 'Dossier · ' + degrees[d.degree], dockLabel: 'Dossier', trigger,
+    content: `<div class="panel-meta">${proofLabel(d.proof)}<span>${h(periods[d.period])}</span><span>${h(stages[d.stage])}</span></div>
+    ${node ? `<p class="panel-node"><strong>${h(node.label)}</strong> ${sourceRefs(node.refs, bySource)}</p>` : ''}
+    <p class="panel-finding">${item(d.finding, bySource)}</p>
+    ${trajectory ? `<section class="panel-section"><h3>Relations documentées</h3><ul class="atlas-relations">${trajectory}</ul></section>` : ''}
+    ${d.questions.length ? `<details class="panel-questions"><summary>Ce qui reste à établir</summary><ul>${d.questions.map(question => `<li>${h(question)}</li>`).join('')}</ul></details>` : ''}
+    <div class="panel-links">${panelButton('compare', d.id, 'Comparer avant / après', `Comparer ${d.title} avant et après`, 'button solid')}<a class="text-link" data-workspace-full href="${caseHref(d.id)}">Lire le dossier complet</a></div>`,
+  });
+}
+
+function handlePanelClick(event) {
+  if (event.defaultPrevented || event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+  if (event.target.closest('[data-workspace-full]')) workspace?.closeAll();
+  const trigger = event.target.closest('[data-panel]');
+  if (!trigger) return;
+  const id = trigger.dataset.entry;
+  const kind = trigger.dataset.panel;
+  if (kind === 'source' && bySource.has(id)) {
+    event.preventDefault();
+    const s = bySource.get(id);
+    openPanel({ id: `source-${id}`, title: s.title, kind: `${s.label} · ${kinds[s.kind]}`, dockLabel: 'Source', trigger,
+      content: `${sourceDetails(s)}<div class="panel-links"><a class="button solid" href="${h(s.url)}" target="_blank" rel="noopener noreferrer">Ouvrir l’original</a>
+      <a class="text-link" data-workspace-full href="#sources/${h(id)}">Voir dans la bibliothèque</a></div>`,
+    });
+  } else if (kind === 'compare' && byId.has(id)) {
+    event.preventDefault();
+    const d = byId.get(id);
+    openPanel({ id: `compare-${id}`, title: d.title, kind: 'Comparaison avant / après', dockLabel: 'Comparatif', wide: true, trigger,
+      content: `<div class="panel-meta">${proofLabel(d.proof)}<span>${h(periods[d.period])}</span></div>${comparison(d)}
+        <div class="panel-links"><a class="text-link" data-workspace-full href="#comparer?id=${encodeURIComponent(id)}">Ouvrir la page du comparateur</a></div>`,
+    });
+  } else if (kind === 'dossier' && byId.has(id)) {
+    event.preventDefault();
+    inspectDossier(byId.get(id), trigger);
+  }
+}
+
 function dashboard() {
   const grouped = Object.entries(periods).map(([period, label]) => ({ period, label, dossiers: catalog.dossiers.filter(d => d.period === period) }))
     .filter(group => group.dossiers.length);
@@ -36,8 +93,8 @@ function dashboard() {
   main.innerHTML = `<section class="hero" aria-labelledby="hero-title"><div class="frame hero-grid">
     <div class="hero-copy"><p class="eyebrow"><i></i> Enquête indépendante · Université de Toulouse</p>
     <h1 id="hero-title">Les formations<br>en mouvement<span>.</span></h1>
-    <p>Ce qui ferme, ce qui change, ce qui ouvre à la Faculté sciences et ingénierie. Un atlas pour remonter des décisions aux documents.</p>
-    <div class="actions"><a class="button copper" href="#atlas">Explorer l’atlas</a><a class="button inverse" href="#sources">Consulter les sources</a></div></div>
+    <p>Suivez les ouvertures, les fermetures et les transformations à la Faculté sciences et ingénierie, des décisions aux sources.</p>
+    <div class="actions"><a class="button hero-primary" href="#bilan">Comparer les ouvertures et fermetures</a><a class="button inverse" href="#atlas">Explorer l’atlas</a></div></div>
     <div class="hero-index" aria-label="Dossiers par période">
       <div class="index-head"><span>PÉRIODES DOCUMENTÉES</span><span>${catalog.dossiers.length} DOSSIERS</span></div>
       ${grouped.map(group => `<a class="index-row" href="#atlas?period=${group.period}"><span>${h(group.label)}</span>
@@ -47,6 +104,8 @@ function dashboard() {
   </div></section>
   <div class="frame dashboard">
     <div class="scope-line"><span><i></i> ${h(catalog.meta.scope)}</span><span>Actualisé le ${formatDate(catalog.meta.updated)}</span><a href="#sources">${catalog.sources.length} références documentaires</a></div>
+    <section aria-labelledby="dashboard-balance-title"><div class="section-title"><div><p class="eyebrow">Évolution de l’offre</p><h2 id="dashboard-balance-title">Fermetures et ouvertures</h2></div><a class="text-link" href="#bilan">Ouvrir le bilan</a></div>
+    <div id="dashboard-balance"></div></section>
     <section aria-labelledby="metrics-title" class="metric-section"><div class="section-title"><div><p class="eyebrow">État de l’enquête</p><h2 id="metrics-title">Ce que le corpus établit</h2></div><label class="metric-period">Période des indicateurs<select id="metric-period">${optionList(Object.fromEntries(grouped.map(group => [group.period, group.label])), '', 'Tout le corpus')}</select></label></div>
       <p class="metric-note">Les chiffres décrivent les dossiers recensés, y compris les décisions adoptées pour une rentrée future. <a href="#methode">Comment lire ces chiffres</a></p><div class="metrics" id="metrics-values" aria-live="polite"></div>
     </section>
@@ -64,15 +123,23 @@ function dashboard() {
   }
   metricPeriod.addEventListener('change', updateMetrics);
   updateMetrics();
+  renderBalance(document.querySelector('#dashboard-balance'), catalog.dossiers, inspectDossier);
   const preview = catalog.dossiers.filter(d => d.links?.length && d.period === '2027-31');
-  renderAtlas(document.querySelector('#atlas-preview'), (preview.length ? preview : catalog.dossiers.filter(d => d.nodes?.length)).slice(0, 2), bySource);
+  renderAtlas(document.querySelector('#atlas-preview'), (preview.length ? preview : catalog.dossiers.filter(d => d.nodes?.length)).slice(0, 2), inspectDossier);
+}
+
+function balance() {
+  main.innerHTML = `<div class="frame inner-page">${pageHead('Évolution de l’offre', 'Fermetures et ouvertures', 'Filtrez les dossiers de la FSI, puis sélectionnez une barre pour voir les formations qui la composent.')}
+    <div id="balance-view"></div></div>`;
+  renderBalance(document.querySelector('#balance-view'), catalog.dossiers, inspectDossier);
 }
 
 function caseRows(dossiers) {
   if (!dossiers.length) return '<p class="empty">Aucun dossier ne correspond aux critères sélectionnés.</p>';
-  return `<ul class="case-list">${dossiers.map(d => `<li><a class="case-row" href="${caseHref(d.id)}">
-    <span class="case-code">${h(d.short)}</span><span class="case-name"><strong>${h(d.title)}</strong><small>${h(degrees[d.degree])} · ${h(d.departments.join(' / ') || 'Département à préciser')}</small></span>
-    <span class="case-period">${h(periods[d.period])}</span><span class="case-state">${proofLabel(d.proof)}</span></a></li>`).join('')}</ul>`;
+  return `<ul class="case-list">${dossiers.map(d => `<li class="case-row"><span class="case-code">${h(d.short)}</span>
+    <span class="case-name"><a href="${caseHref(d.id)}">${h(d.title)}</a><small>${h(degrees[d.degree])} · ${h(d.departments.join(' / ') || 'Département à préciser')}</small></span>
+    <span class="case-period">${h(periods[d.period])}</span><span class="case-state">${proofLabel(d.proof)}</span>
+    ${panelButton('dossier', d.id, 'Aperçu', `Aperçu de ${d.title}`, 'button peek')}</li>`).join('')}</ul>`;
 }
 
 function atlas(params) {
@@ -87,7 +154,7 @@ function atlas(params) {
     const results = filterDossiers(catalog.dossiers, { period: period.value, type: type.value });
     const graphable = results.filter(d => d.nodes?.length);
     const unplotted = results.filter(d => !d.nodes?.length);
-    renderAtlas(plot, graphable, bySource);
+    renderAtlas(plot, graphable, inspectDossier);
     if (unplotted.length) plot.insertAdjacentHTML('beforeend', `<section class="unplotted"><h2>Dossiers sans trajectoire cartographiable</h2>${caseRows(unplotted)}</section>`);
     document.querySelector('#atlas-live').textContent = `${graphable.length} dossiers cartographiés, ${unplotted.length} autres dossiers.`;
   }
@@ -166,7 +233,7 @@ function dossier(d) {
     <div class="dossier-flags">${proofLabel(d.proof)}<span>Décision · ${h(stages[d.stage])}</span><span>${typeLabels(d.types)}</span></div>
     <div class="dossier-grid"><div>
     <section class="dossier-finding"><h2>Situation documentée</h2><p>${item(d.finding, bySource)}</p></section>
-    <section><div class="section-title"><h2>Offre et enseignements</h2><a class="text-link" href="#comparer?id=${encodeURIComponent(d.id)}">Ouvrir le comparateur</a></div>${comparison(d)}</section>
+    <section><div class="section-title"><h2>Offre et enseignements</h2>${panelButton('compare', d.id, 'Comparatif flottant')}</div>${comparison(d)}</section>
     <section><h2>Conséquences documentées</h2>${d.effects?.length ? `<ul class="evidence-list">${d.effects.map(effect => `<li>${item(effect, bySource)}</li>`).join('')}</ul>` : '<p class="missing">Donnée indisponible</p>'}</section>
     <section><h2>Historique</h2>${timeline.length ? `<ol class="timeline">${timeline.map(entry => `<li><time datetime="${h(entry.date)}">${formatDate(entry.date)}</time><p>${item(entry, bySource)}</p></li>`).join('')}</ol>` : '<p class="missing">Donnée indisponible</p>'}</section>
     </div><aside aria-label="Incertitudes et références">
@@ -176,15 +243,17 @@ function dossier(d) {
     </aside></div></div>`;
 }
 
+function sourceDetails(s) {
+  return `<p class="source-owner">${h(s.publisher)} · ${formatDate(s.date)}${s.updated ? ` · Mise à jour le ${formatDate(s.updated)}` : ''}</p>
+    <p class="locator"><strong>Repère</strong> ${h(s.locator)}</p><p>${h(s.note)}</p>
+    ${s.access ? `<p>${h(s.access)}</p>` : ''}<small>Consulté le ${formatDate(s.consulted)} · ${h(s.rights || 'Référence et lien vers l’original')}</small>`;
+}
+
 function sourceCard(s, current) {
   return `<article class="source-card${s.id === current ? ' selected-source' : ''}" id="ref-${h(s.id)}" tabindex="-1">
     <div class="source-meta"><span>${h(s.label)} · ${h(kinds[s.kind])}</span><span>${primaryKinds.has(s.kind) ? 'Primaire' : 'Complémentaire'}</span></div>
     <h2><a href="${h(s.url)}" target="_blank" rel="noopener noreferrer" aria-label="${h(s.title)} (nouvel onglet)">${h(s.title)}</a></h2>
-    <p class="source-owner">${h(s.publisher)} · ${formatDate(s.date)}${s.updated ? ` · Mise à jour le ${formatDate(s.updated)}` : ''}</p>
-    <p class="locator"><strong>Repère</strong> ${h(s.locator)}</p><p>${h(s.note)}</p>
-    ${s.access ? `<p>${h(s.access)}</p>` : ''}
-    <small>Consulté le ${formatDate(s.consulted)} · ${h(s.rights || 'Référence et lien vers l’original')}</small>
-  </article>`;
+    ${sourceDetails(s)}<div class="source-actions">${panelButton('source', s.id, 'Aperçu', `Aperçu de la source ${s.title}`, 'button peek')}</div></article>`;
 }
 
 function library(id) {
@@ -234,6 +303,7 @@ function navigate({ focus = true } = {}) {
   layout(route);
   document.title = `${nav[route] || byId.get(id)?.short || 'Dossier'} · Observatoire des formations`;
   if (route === 'tableau') dashboard();
+  else if (route === 'bilan') balance();
   else if (route === 'atlas') atlas(params);
   else if (route === 'explorer') explorer(params);
   else if (route === 'comparer') compare(params);
@@ -244,6 +314,15 @@ function navigate({ focus = true } = {}) {
   if (route === 'sources' && bySource.has(id)) return;
   if (focus) main.focus({ preventScroll: true });
   window.scrollTo(0, 0);
+}
+
+function followHash() {
+  if (workspace && window.matchMedia('(max-width: 760px)').matches) workspace.closeAll();
+  if (document.startViewTransition && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.startViewTransition(() => navigate());
+  } else {
+    navigate();
+  }
 }
 
 try {
@@ -260,7 +339,9 @@ try {
     main.focus();
     main.scrollIntoView();
   });
-  window.addEventListener('hashchange', () => navigate());
+  main.addEventListener('click', handlePanelClick);
+  workspaceHost.addEventListener('click', handlePanelClick);
+  window.addEventListener('hashchange', followHash);
   navigate({ focus: false });
 } catch (error) {
   console.error(error);

@@ -27,7 +27,7 @@ export function sourceRefs(refs, bySource) {
   if (!refs.length) return '';
   return `<span class="refs" aria-label="Références">${refs.map(id => {
     const source = bySource.get(id);
-    return `<a href="#sources/${h(id)}" title="${h(source.title)}" aria-label="Source · ${h(source.title)}">${h(source.label || id)}</a>`;
+    return `<a href="#sources/${h(id)}" data-panel="source" data-entry="${h(id)}" aria-haspopup="dialog" title="${h(source.title)}" aria-label="Source · ${h(source.title)}">${h(source.label || id)}</a>`;
   }).join('')}</span>`;
 }
 

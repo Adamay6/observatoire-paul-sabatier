@@ -172,7 +172,7 @@
     "departments": ["Biologie et Géosciences", "Mathématiques"],
     "mentions": ["Sciences de la vie", "Sciences et Humanités", "Professorat des écoles"],
     "period": "2026-27",
-    "types": ["transformation"],
+    "types": ["transformation", "creation"],
     "proof": "confirme",
     "stage": "appliquee",
     "finding": {

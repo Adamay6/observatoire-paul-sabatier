@@ -7,9 +7,14 @@ class Element {
   textContent = '';
   value = '';
   events = new Map();
+  children = new Map();
 
   addEventListener(event, callback) { this.events.set(event, callback); }
   insertAdjacentHTML(_position, markup) { this.innerHTML += markup; }
+  querySelector(selector) {
+    if (!this.children.has(selector)) this.children.set(selector, new Element());
+    return this.children.get(selector);
+  }
   focus() { this.focused = true; }
   scrollIntoView() {}
 }
@@ -40,6 +45,8 @@ test('les routes rendent les données, les filtres et les références de liaiso
   };
 
   assert.match(main.innerHTML, /Les formations<br>en mouvement/);
+  assert.match(main.innerHTML, /href="#bilan"/);
+  assert.match(element('#dashboard-balance').querySelector('.balance-totals').innerHTML, /9 fermetures/);
   assert.match(element('#metrics-values').innerHTML, /href="#explorer\?metric=closures"/);
   element('#metric-period').value = '2026-27';
   element('#metric-period').events.get('change')();
@@ -50,11 +57,12 @@ test('les routes rendent les données, les filtres et les références de liaiso
   element('#filter-form').events.get('input')();
   assert.match(element('#filter-count').textContent, /^1 dossier sur/);
   assert.match(element('#case-results').innerHTML, /href="#dossier\/ro"/);
+  assert.match(element('#case-results').innerHTML, /data-panel="dossier" data-entry="ro"/);
 
   go('#dossier/ro');
   assert.match(main.innerHTML, /Situation documentée/);
   assert.match(main.innerHTML, /href="#sources\/ca-2025-050"/);
-  assert.match(main.innerHTML, /href="#comparer\?id=ro"/);
+  assert.match(main.innerHTML, /data-panel="compare" data-entry="ro"/);
 
   go('#comparer?id=ro');
   element('#compare-case').value = 'ro';
@@ -72,4 +80,10 @@ test('les routes rendent les données, les filtres et les références de liaiso
   element('#atlas-period').events.get('change')();
   assert.match(element('#atlas-view').innerHTML, /edge-remplacement/);
   assert.doesNotMatch(element('#atlas-view').innerHTML, /edge-fusion/);
+
+  formData = { period: '2026-27', grouping: 'period' };
+  go('#bilan');
+  const totals = element('#balance-view').querySelector('.balance-totals').innerHTML;
+  assert.match(totals, /6 fermetures/);
+  assert.match(totals, /3 ouvertures/);
 });

@@ -34,7 +34,7 @@ Le niveau de preuve qualifie la conclusion du dossier. Le stade de décision ind
 | Rationalisation | La réduction de charge ou la rationalisation est un objectif explicite du changement identifié. |
 | Transformation | Les contenus ou la structure changent substantiellement selon les pièces. |
 | Renommage | Le changement de titre est explicite. Les modifications de contenu restent à vérifier lorsque la nouvelle maquette manque. |
-| Création | Une nouvelle entité est explicitement annoncée ou adoptée sans relation de succession établie. |
+| Création | Une nouvelle entité est explicitement annoncée ou adoptée au niveau indiqué, sans prédécesseur établi de même périmètre. Les passerelles entre anciens et nouveaux niveaux peuvent être décrites dans le même dossier. |
 | Transfert | Un déplacement entre mentions ou composantes est explicite. |
 | Non-ouverture | Pour une période et un public déterminés, la source précise l’absence de recrutement ou d’ouverture. |
 
