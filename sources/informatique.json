@@ -1,0 +1,172 @@
+[
+  {
+    "id": "fsi-io",
+    "title": "Licence parcours Ingénierie des organisations (IO)",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "fiche",
+    "date": "2022-04-27",
+    "updated": "2026-10-28",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/licence-parcours-ingenierie-des-organisations-io",
+    "locator": "Chapeau ; Présentation, rubrique « Connaissances » ; Et après ?, rubrique « Poursuite d’études »",
+    "note": "La fiche annonce l’arrêt du recrutement et la fermeture d’IO. Elle décrit le programme de L3, des UE partagées avec MIAGE et les poursuites d’études antérieurement présentées."
+  },
+  {
+    "id": "fsi-departement-informatique",
+    "title": "Département Informatique",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "institution",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/departement-informatique",
+    "locator": "« Pour découvrir les formations »",
+    "note": "Le département présente la licence MIASHS et le master Informatique dans son offre de formation."
+  },
+  {
+    "id": "fsi-csa",
+    "title": "Master parcours Computer science for aerospace (CSA)",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "fiche",
+    "date": "2022-04-27",
+    "updated": "2026-10-28",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/master-parcours-computer-science-for-aerospace-csa",
+    "locator": "Chapeau ; Présentation ; Programme ; Débouchés professionnels",
+    "note": "Sous la mention Informatique, la fiche indique l’absence d’ouverture aux inscriptions en 2026-2027 et présente le programme du parcours."
+  },
+  {
+    "id": "fsi-ima",
+    "title": "Master parcours Interactions de l'informatique et des mathématiques pour l'intelligence artificielle (IMA)",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "fiche",
+    "date": "2022-04-27",
+    "updated": "2026-10-28",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/master-parcours-interactions-de-linformatique-et-des-mathematiques-pour-lintelligence-artificielle-ima",
+    "locator": "Cursus de rattachement ; chapeau ; Présentation",
+    "note": "La fiche indique que le parcours commun à deux mentions n’est pas ouvert aux inscriptions en 2026-2027. Elle décrit la spécialisation et les mutualisations avec IAFA et MAPI3."
+  },
+  {
+    "id": "fsi-ro",
+    "title": "Master parcours Recherche opérationnelle optimisation (RO)",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "fiche",
+    "date": "2022-04-27",
+    "updated": "2026-10-28",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/master-parcours-recherche-operationnelle-optimisation-ro",
+    "locator": "Cursus de rattachement ; chapeau ; Présentation ; Programme",
+    "note": "La fiche indique la non-ouverture pour 2026-2027 et décrit le M2 commun aux deux mentions, ses partenaires et ses voies d’accès."
+  },
+  {
+    "id": "fsi-secil",
+    "title": "Master parcours Systèmes embarqués et connectés : infrastructures et logiciels (SECIL)",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "fiche",
+    "date": "2022-04-27",
+    "updated": "2026-10-28",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/master-parcours-systemes-embarques-et-connectes-infrastructures-et-logiciels-secil",
+    "locator": "Présentation, dont « Connaissances » ; Programme ; Et après ?",
+    "note": "La faculté décrit SECIL comme issu de la fusion de SIAME et d’iLoRD et présente un socle d’enseignement et deux mineures, SIAME et RSD."
+  },
+  {
+    "id": "ca-2021-011",
+    "title": "Adoption de la structure d’enseignement des Masters informatique, maths, FBE, NanoX et parcours dérogatoire accéléré en dentaire",
+    "publisher": "Université Toulouse III – Paul Sabatier · conseil d’administration",
+    "kind": "decision",
+    "date": "2021-02-01",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/2021-02-ca-011_1612865752864-pdf",
+    "locator": "Délibération 2021/02/CA-011 ; annexes « Comparaison des offres de formation 16-20 et 21-25 » et tableaux « M1 CSA », « M2 CSA » et « M1 IMA »",
+    "note": "Les annexes comparent les deux offres, retracent les deux antécédents de SECIL et détaillent les UE, crédits et volumes de plusieurs parcours."
+  },
+  {
+    "id": "cfvu-2024-133",
+    "title": "Approbation des attendus locaux, des critères généraux d’appréciation des dossiers et des capacités d’accueil Mon Master et en Licence, LP et Master PASS 2025-2026",
+    "publisher": "Université Toulouse III – Paul Sabatier · CFVU",
+    "kind": "decision",
+    "date": "2024-12-03",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2024-12-03-133-approbation-des-attendus-locaux-des-criteres-generaux-d-appreciation-des-dossiers-et-des-capacites-d-accueil-mon-master-et-en-licence-lp-et-master-pass-2025-2026-doc_1734687358300-pdf",
+    "locator": "Délibération 2024/12/CFVU-133 ; annexe « CAPACITÉ ACCUEIL MON MASTER SESSION 2025 », colonne « COL MONMASTER Formation Initiale »",
+    "note": "Le tableau donne des capacités en formation initiale pour la session Mon Master 2025. Les lignes doivent être lues par mention et par parcours, sans assimiler cette colonne à la capacité globale de la mention."
+  },
+  {
+    "id": "fsi-syllabus-m2-secil-2026",
+    "title": "Syllabus master, mention Informatique, M2 Systèmes Embarqués et Connectés : Infrastructures et Logiciels",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "annexe",
+    "date": "2026-11-03",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_INF_SECIL.pdf",
+    "locator": "Couverture (2026-2027) ; p. 5–6, « Tableau synthétique des UE de la formation » ; p. 11, UE Internet des objets",
+    "note": "Le syllabus 2026-2027 publie deux itinéraires de 60 ECTS, RSD et SIAME, et détaille des enseignements communs et spécifiques."
+  },
+  {
+    "id": "fsi-syllabus-m2-ro-2026",
+    "title": "Syllabus master, mention Informatique, M2 Recherche Opérationnelle Optimisation",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "annexe",
+    "date": "2026-11-10",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/syllabus/2627_SYL_M2_INF_MAT_RO.pdf",
+    "locator": "Couverture (2026-2027) ; p. 5–6, « Tableau synthétique des UE de la formation » ; p. 12 et 14, fiches Optimisation globale et Apprentissage artificiel",
+    "note": "La maquette publiée pour 2026-2027 détaille les enseignements du M2 RO. Le document ne dénombre pas les inscriptions ni les cours effectivement assurés."
+  },
+  {
+    "id": "enac-ingenieur-2026",
+    "title": "Ingénieur ENAC",
+    "publisher": "École nationale de l’aviation civile",
+    "kind": "institution",
+    "date": "2026-11-03",
+    "consulted": "2026-11-22",
+    "url": "https://formations.enac.fr/plugins/odf-web/odf/_content/program-47517.pdf",
+    "locator": "P. 16, « Enseignements spécifiques Master RO (Recherche Opérationnelle optimisation) »",
+    "note": "Le catalogue de la formation d’ingénieur ENAC décrit des blocs liés au master RO aux semestres 9 et 10 et qualifie ses informations d’indicatives."
+  },
+  {
+    "id": "ut-master-informatique",
+    "title": "Master mention Informatique",
+    "publisher": "Université de Toulouse",
+    "kind": "fiche",
+    "date": "2020-01-13",
+    "updated": "2026-02-25",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/decouvrir-nos-diplomes/master-mention-informatique",
+    "locator": "Présentation ; « Rentrée 2026 », capacité d’accueil globale d’accès à la mention",
+    "note": "La mention annonce une capacité globale de 184 places à la rentrée 2026, tous parcours et publics confondus, et présente le socle commun de première année."
+  },
+  {
+    "id": "ca-2025-050",
+    "title": "Capacités d’accueil TMM (« Trouver Mon Master ») 2026-2027",
+    "publisher": "Université de Toulouse · conseil d’administration",
+    "kind": "decision",
+    "date": "2025-12-15",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/2025-12-ca-050_1766137653271-pdf",
+    "locator": "Délibération 2025/12/CA-050 ; annexe « CAPACITES MON MASTER 2026 / 2027 », p. 3–5 du PDF, colonnes COL Mon Master et CAL Mon Master",
+    "note": "Le tableau distingue l’offre sur la plateforme et la capacité d’accueil. Il inscrit un COL de 0 et la non-ouverture rentrée 2026 pour CSA, IMA, RO, EGPR et ICSI. Il présente aussi les capacités de SECIL et de la mention MSI par parcours. La ligne ISSEE est publiée sous la mention Ingénierie de la santé."
+  },
+  {
+    "id": "fsi-syllabus-m1-iafa-2026",
+    "title": "Syllabus master, mention Informatique, M1 Intelligence Artificielle : Fondements et Applications",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "annexe",
+    "date": "2026-11-02",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M1_INF_IAFA.pdf",
+    "locator": "Couverture (2026-2027) ; p. 6, « Tableau synthétique des UE de la formation »",
+    "note": "Le syllabus présente le semestre de M1 IAFA dont les sous-UE KINX7AB1 (Théorie des langages) et KINX7AD1 (Parallélisme), qui ont les mêmes codes dans le syllabus SECIL."
+  },
+  {
+    "id": "fsi-syllabus-m1-secil-2026",
+    "title": "Syllabus master, mention Informatique, M1 Systèmes Embarqués et Connectés : Infrastructures et Logiciels",
+    "publisher": "Faculté sciences et ingénierie, Université de Toulouse",
+    "kind": "annexe",
+    "date": "2026-11-17",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M1_INF_SECIL.pdf",
+    "locator": "Couverture (2026-2027) ; p. 6, « Tableau synthétique des UE de la formation »",
+    "note": "Le syllabus présente le semestre de M1 SECIL dont les sous-UE KINX7AB1 (Théorie des langages) et KINX7AD1 (Parallélisme), qui ont les mêmes codes dans le syllabus IAFA."
+  }
+]

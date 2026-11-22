@@ -1,0 +1,214 @@
+[
+  {
+    "id": "egpr",
+    "title": "Expression génique et protéines recombinantes",
+    "short": "EGPR",
+    "degree": "master",
+    "departments": ["Biologie et Géosciences"],
+    "mentions": ["Biotechnologies"],
+    "period": "2026-27",
+    "types": ["fermeture"],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "L’Université classe EGPR parmi les fermetures de la rentrée 2026. Le département confirme l’absence de recrutement en 2026.",
+      "refs": ["ut-rentree-2026", "fsi-biotechnologies", "fsi-egpr", "ca-2025-050"]
+    },
+    "before": {
+      "title": {"text": "Expression génique et protéines recombinantes", "refs": ["fsi-egpr"]},
+      "tracks": {"text": "Parcours de la mention Biotechnologies", "refs": ["fsi-biotechnologies"]},
+      "seats": {"text": "13 places Mon Master en formation initiale, session 2025 (COL du parcours).", "refs": ["cfvu-2024-133"]},
+      "specialization": {"text": "Parcours de biotechnologies proposé notamment en alternance par apprentissage.", "refs": ["fsi-egpr"]},
+      "outcomes": {"text": "La fiche cite l’industrie pharmaceutique et cosmétique, la recherche et la poursuite d’études en doctorat.", "refs": ["fsi-egpr"]}
+    },
+    "after": {
+      "seats": {"text": "0 place Mon Master en 2026 (COL du parcours).", "refs": ["ca-2025-050"]},
+      "offer": {"text": "Pas d’ouverture aux inscriptions pour l’année 2026–2027.", "refs": ["fsi-egpr", "ut-rentree-2026"]}
+    },
+    "nodes": [{"id": "egpr-avant", "side": "before", "label": "Master Biotechnologies · EGPR", "refs": ["fsi-egpr"]}],
+    "history": [
+      {"date": "2000", "text": "La fiche situe la création de la formation en 2000, sous la forme d’un DESS.", "refs": ["fsi-egpr"]},
+      {"date": "2024-12-03", "text": "La CFVU approuve les capacités Mon Master de la session 2025, dont celle du parcours.", "refs": ["cfvu-2024-133"]},
+      {"date": "2025-12-15", "text": "Le tableau annexé à la délibération du CA donne zéro place Mon Master en 2026.", "refs": ["ca-2025-050"]},
+      {"date": "2026-10-28", "text": "La fiche FSI mise à jour mentionne la non-ouverture aux inscriptions en 2026–2027.", "refs": ["fsi-egpr"]}
+    ],
+    "questions": ["Quel motif propre au parcours figure dans le dossier de décision ?", "Quel calendrier s’applique aux promotions déjà engagées ?", "Un successeur ou une reprise d’UE est-il explicitement documenté pour la prochaine accréditation ?"]
+  },
+  {
+    "id": "icsi",
+    "title": "International chimie aux surfaces et interfaces",
+    "short": "ICSI",
+    "degree": "master",
+    "departments": ["Chimie"],
+    "mentions": ["Chimie"],
+    "period": "2026-27",
+    "types": ["fermeture"],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "L’Université classe ICSI parmi les fermetures de la rentrée 2026. La fiche du parcours indique une non-ouverture aux inscriptions en 2026–2027.",
+      "refs": ["ut-rentree-2026", "fsi-icsi", "ca-2025-050"]
+    },
+    "before": {
+      "title": {"text": "International chimie aux surfaces et interfaces", "refs": ["fsi-icsi"]},
+      "tracks": {"text": "Parcours de la mention Chimie.", "refs": ["syl-icsi-m1-2022"]},
+      "units": {"text": "Exemples du M1 2022–2023 : caractérisation, chimie des surfaces et procédés plasma, stage de recherche.", "refs": ["syl-icsi-m1-2022"]},
+      "ects": {"text": "60 ECTS en M1 dans le tableau 2022–2023, dont 24 pour le stage de recherche.", "refs": ["syl-icsi-m1-2022"]},
+      "hours": {"text": "440 h d’enseignement sur les deux années selon la description du parcours dans le syllabus 2022–2023.", "refs": ["syl-icsi-m1-2022"]},
+      "seats": {"text": "3 places Mon Master en formation initiale, session 2025 (COL du parcours).", "refs": ["cfvu-2024-133"]},
+      "specialization": {"text": "Bidiplomation. Première année à Toulouse, deuxième à l’Université de Montréal.", "refs": ["fsi-icsi"]},
+      "outcomes": {"text": "La fiche cite la recherche, le doctorat et les métiers d’ingénieur dans l’industrie.", "refs": ["fsi-icsi"]}
+    },
+    "after": {
+      "seats": {"text": "0 place Mon Master en 2026 (COL du parcours).", "refs": ["ca-2025-050"]},
+      "offer": {"text": "Pas d’ouverture aux inscriptions pour l’année 2026–2027.", "refs": ["fsi-icsi", "ut-rentree-2026"]}
+    },
+    "nodes": [{"id": "icsi-avant", "side": "before", "label": "Master Chimie · ICSI", "refs": ["syl-icsi-m1-2022"]}],
+    "history": [
+      {"date": "2022-08-30", "text": "Le syllabus du M1 documente la structure et la bidiplomation en 2022–2023.", "refs": ["syl-icsi-m1-2022"]},
+      {"date": "2024-12-03", "text": "La CFVU approuve les capacités Mon Master de la session 2025, dont celle du parcours.", "refs": ["cfvu-2024-133"]},
+      {"date": "2025-12-15", "text": "Le tableau annexé à la délibération du CA donne zéro place Mon Master en 2026.", "refs": ["ca-2025-050"]},
+      {"date": "2026-10-28", "text": "La fiche FSI mise à jour indique la non-ouverture aux inscriptions en 2026–2027.", "refs": ["fsi-icsi"]}
+    ],
+    "questions": ["Quel motif propre à ICSI est documenté dans le dossier de décision ?", "Quelles dispositions régissent la poursuite des promotions et le partenariat avec Montréal ?", "Qu’advient-il des UE historiques, notamment de celles que le syllabus indique comme partagées ?"]
+  },
+  {
+    "id": "cosya",
+    "title": "Conseil en systèmes de production végétale agroécologique",
+    "short": "CoSyA",
+    "degree": "licence-pro",
+    "departments": ["Biologie et Géosciences"],
+    "mentions": ["Productions végétales"],
+    "period": "2026-27",
+    "types": ["fermeture"],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "L’Université indique que le parcours CoSyA cesse d’être proposé à compter de la rentrée 2026.",
+      "refs": ["ut-rentree-2026", "ut-cosya"]
+    },
+    "before": {
+      "title": {"text": "Conseil en systèmes de production végétale agroécologique", "refs": ["ut-cosya"]},
+      "tracks": {"text": "Parcours de la mention Productions végétales, unique parcours présenté dans le syllabus de 2024–2025.", "refs": ["syl-cosya-2024"]},
+      "units": {"text": "Le programme 2024–2025 comprend des UE de conseil agricole, d’agroécologie, de communication, un projet tutoré et un stage.", "refs": ["syl-cosya-2024"]},
+      "ects": {"text": "60 ECTS en 2024–2025, calculés à partir des crédits du tableau des UE (30 par semestre).", "refs": ["syl-cosya-2024"]},
+      "hours": {"text": "Exemple en 2024–2025 : 54 h de TD pour l’UE Remise à niveau scientifique et technique.", "refs": ["syl-cosya-2024"]},
+      "seats": {"text": "24 places en 2025–2026 (capacité de la licence professionnelle).", "refs": ["cfvu-lp-fsi-2025"]},
+      "specialization": {"text": "Année de licence professionnelle ouverte à l’alternance, en partenariat avec le lycée agricole d’Auzeville.", "refs": ["syl-cosya-2024", "ut-cosya"]},
+      "outcomes": {"text": "La fiche présente notamment le conseil aux exploitations et les études en agriculture comme débouchés.", "refs": ["ut-cosya"]}
+    },
+    "after": {
+      "offer": {"text": "Parcours fermé à compter de la rentrée 2026 selon le catalogue de l’Université.", "refs": ["ut-cosya", "ut-rentree-2026"]}
+    },
+    "nodes": [{"id": "cosya-avant", "side": "before", "label": "Licence pro Productions végétales · CoSyA", "refs": ["syl-cosya-2024"]}],
+    "history": [
+      {"date": "2024-10-07", "text": "Le syllabus décrit le parcours et ses UE pour 2024–2025.", "refs": ["syl-cosya-2024"]},
+      {"date": "2025-02-11", "text": "Le tableau des capacités donne 24 places au parcours pour 2025–2026.", "refs": ["cfvu-lp-fsi-2025"]},
+      {"date": "2026-08-27", "text": "La fiche institutionnelle mise à jour confirme la fin de l’offre à compter de la rentrée 2026.", "refs": ["ut-cosya"]}
+    ],
+    "questions": ["Quel motif a été retenu pour la fermeture de CoSyA ?", "Quelles suites sont proposées aux candidats issus de la licence Sciences de la vie ?", "Les enseignements ou le partenariat avec le lycée agricole ont-ils été repris dans un autre cursus ?"]
+  },
+  {
+    "id": "uniteid",
+    "title": "UNITEID – Maladies infectieuses émergentes",
+    "short": "UNITEID",
+    "degree": "du",
+    "departments": ["Biologie et Géosciences"],
+    "period": "2026-27",
+    "types": ["creation"],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "La CFVU approuve l’ouverture du DU UNITEID le 4 novembre 2025. L’Université le présente dans les ouvertures de la rentrée 2026, avec la Faculté de Santé comme composante associée.",
+      "refs": ["cfvu-2025-11-147", "ut-rentree-2026"]
+    },
+    "after": {
+      "title": {"text": "Diplôme d’Université UNITEID – Maladies infectieuses émergentes", "refs": ["cfvu-2025-11-147"]},
+      "offer": {"text": "Ouverture annoncée à la rentrée 2026 au département Biologie et Géosciences.", "refs": ["ut-rentree-2026"]}
+    },
+    "nodes": [{"id": "uniteid-apres", "side": "after", "label": "DU UNITEID", "refs": ["cfvu-2025-11-147", "ut-rentree-2026"]}],
+    "history": [{"date": "2025-11-04", "text": "La CFVU approuve l’ouverture du diplôme.", "refs": ["cfvu-2025-11-147", "cfvu-avis-2025-11-04"]}],
+    "questions": ["Quelle maquette et quelles capacités sont propres à ce DU ?", "La première cohorte est-elle attestée par un document de mise en œuvre ?"]
+  },
+  {
+    "id": "issee",
+    "title": "Ingénierie de la santé spatiale et des environnements extrêmes",
+    "short": "ISSEE",
+    "degree": "master",
+    "departments": ["Électronique, énergie électrique, automatique"],
+    "mentions": ["Ingénierie de la santé"],
+    "period": "2026-27",
+    "types": ["creation"],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "La CFVU approuve l’ouverture du parcours ISSEE le 4 novembre 2025 au sein du master Ingénierie de la santé. L’ouverture est annoncée pour la rentrée 2026.",
+      "refs": ["cfvu-avis-2025-11-04", "ut-rentree-2026", "fsi-issee"]
+    },
+    "after": {
+      "title": {"text": "Ingénierie de la santé spatiale et des environnements extrêmes", "refs": ["fsi-issee"]},
+      "tracks": {"text": "Nouveau parcours du master Ingénierie de la santé, mention de l’offre du département EEA.", "refs": ["cfvu-avis-2025-11-04", "fsi-eea-orientation"]},
+      "units": {"text": "La présentation décrit un socle portant notamment sur le signal, les capteurs, l’imagerie et la physiologie, complété par des enseignements liés aux environnements extrêmes.", "refs": ["fsi-issee"]},
+      "seats": {"text": "15 places Mon Master en 2026 (COL du parcours).", "refs": ["ca-2025-050"]},
+      "specialization": {"text": "Spécialisation en ingénierie et santé des environnements extrêmes, dont le spatial. La fiche indique un M2 en anglais avec un stage obligatoire de six mois.", "refs": ["fsi-issee"]},
+      "outcomes": {"text": "Les débouchés annoncés incluent des métiers d’ingénierie d’application et de recherche.", "refs": ["fsi-issee"]},
+      "offer": {"text": "Ouverture annoncée à la rentrée 2026, avec le consortium UNIVERSEH.", "refs": ["ut-rentree-2026"]}
+    },
+    "nodes": [{"id": "issee-apres", "side": "after", "label": "Master Ingénierie de la santé · ISSEE", "refs": ["fsi-issee"]}],
+    "motives": [{"type": "pedagogie", "text": "La fiche inscrit cette ouverture dans l’offre interdisciplinaire d’UNIVERSEH et décrit son objectif de formation spécialisée entre ingénierie, santé et spatial.", "refs": ["fsi-issee", "ut-rentree-2026"]}],
+    "history": [
+      {"date": "2025-11-04", "text": "La CFVU approuve l’ouverture du parcours.", "refs": ["cfvu-avis-2025-11-04"]},
+      {"date": "2025-12-15", "text": "Le tableau annexé à la délibération du CA fixe 15 places Mon Master en 2026.", "refs": ["ca-2025-050"]},
+      {"date": "2026-09-11", "text": "La fiche mise à jour présente le parcours et les conditions d’admission.", "refs": ["fsi-issee"]},
+      {"date": "2026-09-29", "text": "La CFVU approuve les modalités de contrôle des connaissances et des compétences du M1 et du M2 pour 2026–2027.", "refs": ["cfvu-2026-09-160"]}
+    ],
+    "questions": ["Quels enseignements sont nouveaux ou partagés avec d’autres parcours ?", "La première cohorte est-elle attestée par un document de mise en œuvre ?"]
+  },
+  {
+    "id": "lpe-transition",
+    "title": "Transition vers la licence Professorat des écoles",
+    "short": "PPE · PPPE · LPE",
+    "degree": "licence",
+    "departments": ["Biologie et Géosciences", "Mathématiques"],
+    "mentions": ["Sciences de la vie", "Sciences et Humanités", "Professorat des écoles"],
+    "period": "2026-27",
+    "types": ["transformation"],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "La licence Professorat des écoles ouvre en L1 à la rentrée 2026. L’Université publie un calendrier transitoire pour le PPE et le PPPE. Le cadre national prévoit une passerelle pour la promotion PPPE de L1 inscrite en 2025–2026.",
+      "refs": ["ut-rentree-2026", "fsi-lpe", "arrete-cadre-lpe", "arrete-accreditation-lpe"]
+    },
+    "before": {
+      "title": {"text": "Pluridisciplinaire professorat des écoles (PPE) et Parcours préparatoire professorat des écoles (PPPE).", "refs": ["fsi-ppe", "ut-pppe"]},
+      "tracks": {"text": "PPE dans la mention Sciences de la vie (Biologie et Géosciences), PPPE dans la mention Sciences et Humanités (Mathématiques).", "refs": ["fsi-ppe", "ut-rentree-2026", "fsi-dept-biologie-geosciences", "fsi-dept-mathematiques"]},
+      "specialization": {"text": "Le PPE recrute principalement en L3 à partir du niveau L2 ou équivalent. Le PPPE est un parcours de licence préparatoire au professorat des écoles.", "refs": ["fsi-ppe", "ut-pppe"]}
+    },
+    "after": {
+      "title": {"text": "Licence mention Professorat des écoles (LPE).", "refs": ["fsi-lpe"]},
+      "tracks": {"text": "Le parcours PE ouvre progressivement, en L1 en 2026, en L2 en 2027 et en L3 en 2028. Le parcours Réorientation est annoncé en L3 à la rentrée 2028.", "refs": ["ut-rentree-2026", "fsi-lpe"]},
+      "units": {"text": "Le cadre national prévoit quatre blocs, dont les savoirs disciplinaires, la pédagogie et la construction du projet professionnel.", "refs": ["arrete-cadre-lpe"]},
+      "ects": {"text": "180 ECTS pour la licence selon le cadre national.", "refs": ["arrete-cadre-lpe", "fsi-lpe"]},
+      "hours": {"text": "Au moins 1 570 h d’enseignement et 10 semaines de stage selon le cadre national. La fiche indique 550 h pour la L3 du parcours Réorientation.", "refs": ["arrete-cadre-lpe", "fsi-lpe"]},
+      "seats": {"text": "72 places d’accès à la mention en capacité globale pour la rentrée 2026.", "refs": ["fsi-lpe"]},
+      "outcomes": {"text": "La fiche indique l’accès au master Enseignement et éducation, parcours Professorat des écoles, pour les personnes qui valident la licence et réussissent le CRPE.", "refs": ["fsi-lpe"]},
+      "offer": {"text": "L3 PPE accessible sur candidature jusqu’en 2027. Selon le calendrier de rentrée, L2 et L3 PPPE accessibles en 2026, puis L3 seule en 2027 avant l’arrêt définitif annoncé pour 2028.", "refs": ["ut-rentree-2026", "fsi-ppe"]}
+    },
+    "nodes": [
+      {"id": "pppe-avant", "side": "before", "label": "Licence Sciences et Humanités · PPPE", "refs": ["ut-pppe", "ut-rentree-2026"]},
+      {"id": "lpe-apres", "side": "after", "label": "Licence Professorat des écoles · PE", "refs": ["fsi-lpe"]}
+    ],
+    "links": [{"from": "pppe-avant", "to": "lpe-apres", "type": "transformation", "refs": ["arrete-cadre-lpe", "ut-rentree-2026"]}],
+    "motives": [{"type": "reglement", "text": "La mise en place de la nouvelle mention relève du cadre national applicable à la rentrée 2026 et d’une co-accréditation incluant l’Université de Toulouse.", "refs": ["arrete-cadre-lpe", "arrete-accreditation-lpe"]}],
+    "effects": [
+      {"text": "Les étudiants de L1 PPPE en 2025–2026 peuvent s’inscrire en deuxième année de LPE à la rentrée 2026 après validation, ou en première année en cas de non-validation, selon l’arrêté national.", "refs": ["arrete-cadre-lpe"]},
+      {"text": "Le chapeau de la fiche PPPE annonce une fin de l’offre dès 2026. Le calendrier de rentrée publié par la même université précise que des candidatures restent possibles dans les années supérieures jusqu’en 2027.", "refs": ["ut-pppe", "ut-rentree-2026"]}
+    ],
+    "history": [
+      {"date": "2025-09-18", "text": "Publication du cadre national et des dispositions transitoires.", "refs": ["arrete-cadre-lpe"]},
+      {"date": "2026-02-18", "text": "Publication de l’arrêté d’accréditation qui inclut l’Université de Toulouse.", "refs": ["arrete-accreditation-lpe"]},
+      {"date": "2026-10-30", "text": "La fiche FSI mise à jour présente le calendrier d’ouverture et les deux parcours.", "refs": ["fsi-lpe"]}
+    ],
+    "questions": ["Comment la passerelle nationale PPPE vers la L2 LPE a-t-elle été organisée localement en 2026, avant l’ouverture générale de la L2 annoncée pour 2027 ?", "Quels volumes et quelles UE du PPE et du PPPE se retrouvent dans la nouvelle mention ?", "Quelles sont les capacités résiduelles des L2 et L3 par parcours ?"]
+  }
+]

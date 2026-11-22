@@ -1,0 +1,614 @@
+[
+  {
+    "id": "msi-management",
+    "title": "Management des systèmes d’information → Management",
+    "short": "MSI → Management",
+    "degree": "master",
+    "departments": [
+      "Gestion"
+    ],
+    "mentions": [
+      "Management des systèmes d’information",
+      "Management"
+    ],
+    "period": "2027-31",
+    "types": [
+      "remplacement"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’Université soumet la mention Management en remplacement de la mention Management des systèmes d’information pour 2027–2031. Le changement s’effectue au niveau de la mention et le projet prévoit d’y réunir les quatre parcours existants.",
+      "refs": [
+        "cfvu-2026-33",
+        "ca-2026-104",
+        "ca-2026-128"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Management des systèmes d’information",
+        "refs": [
+          "ut-fiche-msi"
+        ]
+      },
+      "tracks": {
+        "text": "Management de l’entreprise en réseau (MER), Entrepreneuriat et management des petites et moyennes organisations (EMPMO), Management international du transport aérien et du tourisme (MITAT), Management responsable, social et écologique (MRSE).",
+        "refs": [
+          "ut-fiche-msi"
+        ]
+      },
+      "seats": {
+        "text": "Capacités Mon Master 2026–2027, dans l’ordre COL puis CAL : MER 22 et 24, EMPMO 21 et 30, MITAT 5 et 6, MRSE 11 et 12. Les deux colonnes correspondent à des mesures distinctes.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      "specialization": {
+        "text": "Gouvernance et pilotage des systèmes d’information, stratégie numérique et management de projet.",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      }
+    },
+    "after": {
+      "title": {
+        "text": "Management",
+        "refs": [
+          "cfvu-2026-33",
+          "ca-2026-128"
+        ]
+      },
+      "tracks": {
+        "text": "L’annexe prévoit de conserver la spécificité des quatre parcours sous la mention Management.",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      },
+      "specialization": {
+        "text": "Pilotage des organisations, management, stratégie et conduite du changement. Le projet prévoit aussi de renforcer les compétences transversales de décision et de travail en équipe.",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      },
+      "offer": {
+        "text": "Mention soumise à l’accréditation 2027–2031. Le tableau de dépôt la décrit comme une reconduction avec modification.",
+        "refs": [
+          "ca-2026-104",
+          "ca-2026-128"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "msi-before",
+        "side": "before",
+        "label": "Management des systèmes d’information",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      },
+      {
+        "id": "management-after",
+        "side": "after",
+        "label": "Management",
+        "refs": [
+          "cfvu-2026-33",
+          "ca-2026-128"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "from": "msi-before",
+        "to": "management-after",
+        "type": "remplacement",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      }
+    ],
+    "motives": [
+      {
+        "type": "pedagogie",
+        "text": "L’annexe indique qu’au moins deux parcours s’inscrivaient difficilement dans les blocs de compétences de la mention MSI. Le projet recherche une meilleure cohérence pédagogique tout en conservant les spécialités.",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      },
+      {
+        "type": "institution",
+        "text": "Le dossier signale un déficit de lisibilité des quatre parcours. Il cherche une mention plus large pour rendre l’offre plus lisible et attirer de nouveaux profils.",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "text": "Le projet élargit le cadrage de la mention et prévoit le maintien de quatre parcours. Les conséquences sur les UE, les volumes et les capacités à venir restent à documenter.",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-03-17",
+        "text": "Avis favorable de la CFVU sur le remplacement de la mention.",
+        "refs": [
+          "cfvu-2026-33"
+        ]
+      },
+      {
+        "date": "2026-04-13",
+        "text": "Le conseil d’administration se prononce sur la mention soumise à accréditation.",
+        "refs": [
+          "ca-2026-104"
+        ]
+      },
+      {
+        "date": "2026-07-06",
+        "text": "Le dossier global de l’offre 2027–2031 fait apparaître la mention Management dans le tableau FRESQ.",
+        "refs": [
+          "ca-2026-128"
+        ]
+      }
+    ],
+    "questions": [
+      "Quelles maquettes, capacités d’accueil et conditions de poursuite sont prévues pour chacun des quatre parcours ?",
+      "Quels enseignements sont maintenus, regroupés ou modifiés ?",
+      "Quel arrêté et quelle annexe ministérielle couvriront cette mention ?"
+    ]
+  },
+  {
+    "id": "meca-iss",
+    "title": "Méca-ISS · Ingénierie pour le soin et la santé",
+    "short": "Méca-ISS",
+    "degree": "licence",
+    "departments": [
+      "Mécanique"
+    ],
+    "mentions": [
+      "Mécanique"
+    ],
+    "period": "2027-31",
+    "types": [
+      "fermeture"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’annexe du département de Mécanique approuvée en CFVU indique l’arrêt du parcours Méca-ISS pour l’offre 2027–2031. Elle situe ce parcours en L2 et L3 dans la période de référence.",
+      "refs": [
+        "cfvu-2026-99"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Génie mécanique pour le soin et la santé (Méca-ISS)",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      },
+      "tracks": {
+        "text": "Parcours de la mention Mécanique, répertorié en deuxième et troisième années.",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      },
+      "specialization": {
+        "text": "Applications biomédicales et mécanique du vivant.",
+        "refs": [
+          "fsi-fiche-meca-iss"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche cite notamment Physique et mécanique du vivant parmi les poursuites possibles en master.",
+        "refs": [
+          "fsi-fiche-meca-iss"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "L’arrêt du parcours figure dans l’offre départementale approuvée pour la demande d’accréditation 2027–2031.",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "meca-iss-before",
+        "side": "before",
+        "label": "Méca-ISS · L2 et L3",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve l’offre 2027–2031 du département de Mécanique. L’arrêt de Méca-ISS figure dans l’annexe licence.",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "text": "La fiche de catalogue du parcours est encore consultable et mentionne PMV parmi les poursuites d’études possibles.",
+        "refs": [
+          "fsi-fiche-meca-iss"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel calendrier s’applique aux étudiantes et étudiants déjà inscrits en L2 ou en L3 ?",
+      "Des UE biomédicales de Méca-ISS sont-elles conservées ailleurs ?",
+      "Y a-t-il un successeur identifié ou un motif individuel documenté ?"
+    ]
+  },
+  {
+    "id": "pmv-mecanique",
+    "title": "Physique et mécanique du vivant · mention Mécanique",
+    "short": "PMV",
+    "degree": "master",
+    "departments": [
+      "Mécanique",
+      "Physique"
+    ],
+    "mentions": [
+      "Mécanique",
+      "Physique fondamentale et applications"
+    ],
+    "period": "2027-31",
+    "types": [
+      "fermeture"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "La CFVU approuve l’offre du département de Mécanique pour 2027–2031, dont l’annexe indique l’arrêt de Physique et mécanique du vivant au sein de cette mention. Le catalogue donne aussi un rattachement à Physique fondamentale et applications, dont le devenir reste à vérifier.",
+      "refs": [
+        "cfvu-2026-99",
+        "ut-fiche-pmv-physique"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Physique et mécanique du vivant (PMV)",
+        "refs": [
+          "ut-fiche-pmv-meca"
+        ]
+      },
+      "tracks": {
+        "text": "M1 et M2 dans le tableau Mécanique de référence. Le catalogue présente aussi le parcours sous Physique fondamentale et applications.",
+        "refs": [
+          "cfvu-2026-99",
+          "ut-fiche-pmv-physique"
+        ]
+      },
+      "seats": {
+        "text": "Capacités Mon Master 2026–2027, dans l’ordre COL puis CAL : 11 et 13 pour Mécanique, 18 et 18 pour Physique fondamentale et applications. Le tableau donne une ligne par mention.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      "specialization": {
+        "text": "Mécanique et physique appliquées à la modélisation et à la compréhension des phénomènes du vivant.",
+        "refs": [
+          "ut-fiche-pmv-meca"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "Arrêt dans la mention Mécanique selon l’annexe 2027–2031. Le statut après 2026 dans l’autre mention fait l’objet d’une vérification distincte.",
+        "refs": [
+          "cfvu-2026-99",
+          "cfvu-2026-100",
+          "ut-fiche-pmv-physique"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "pmv-mecanique-before",
+        "side": "before",
+        "label": "PMV · mention Mécanique",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "L’offre départementale approuvée mentionne l’arrêt du parcours PMV au sein de la mention Mécanique.",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "text": "Les deux fiches de catalogue du parcours sont mises à jour, avec rattachement respectivement à Mécanique et à Physique fondamentale et applications.",
+        "refs": [
+          "ut-fiche-pmv-meca",
+          "ut-fiche-pmv-physique"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel est le devenir de PMV dans la mention Physique fondamentale et applications ?",
+      "Quelles règles s’appliqueront au M2 partagé entre les deux mentions et aux cohortes déjà engagées ?",
+      "Quelles UE appliquées au vivant seront maintenues et quels motifs ont conduit à la décision dans la mention Mécanique ?"
+    ]
+  },
+  {
+    "id": "gh-pebco",
+    "title": "Génie de l’habitat → Performance énergétique des bâtiments et confort des occupants",
+    "short": "GH → PEBCO",
+    "degree": "licence",
+    "departments": [
+      "Mécanique"
+    ],
+    "mentions": [
+      "Génie civil"
+    ],
+    "period": "2027-31",
+    "types": [
+      "renommage"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "Le tableau des licences du département de Mécanique indique un changement d’intitulé du parcours de L3 Génie de l’habitat. Le parcours se présente sous le nom Performance énergétique des bâtiments et confort des occupants dans la future offre de la mention Génie civil.",
+      "refs": [
+        "cfvu-2026-99",
+        "fsi-syllabus-gc-gh-2627"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Génie de l’habitat (GH)",
+        "refs": [
+          "cfvu-2026-99",
+          "fsi-syllabus-gc-gh-2627"
+        ]
+      },
+      "specialization": {
+        "text": "Spécialisation en L3 sur l’efficacité énergétique du bâtiment, notamment les équipements et l’isolation.",
+        "refs": [
+          "fsi-syllabus-gc-gh-2627"
+        ]
+      }
+    },
+    "after": {
+      "title": {
+        "text": "Performance énergétique des bâtiments et confort des occupants (PEBCO)",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      },
+      "specialization": {
+        "text": "Parcours de L3 de la mention Génie civil dans la liste 2027–2031.",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "gh-before",
+        "side": "before",
+        "label": "Génie de l’habitat · L3",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      },
+      {
+        "id": "pebco-after",
+        "side": "after",
+        "label": "Performance énergétique des bâtiments et confort des occupants · L3",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "from": "gh-before",
+        "to": "pebco-after",
+        "type": "renommage",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve la liste de parcours du département de Mécanique, dont ce changement d’intitulé.",
+        "refs": [
+          "cfvu-2026-99"
+        ]
+      }
+    ],
+    "questions": [
+      "La nouvelle maquette conserve-t-elle les mêmes UE, les mêmes volumes horaires et les mêmes conditions d’accès ?",
+      "Quelle est la date de première mise en œuvre de l’intitulé PEBCO ?"
+    ]
+  },
+  {
+    "id": "master-intelligence-artificielle",
+    "title": "Master Intelligence artificielle",
+    "short": "Intelligence artificielle",
+    "degree": "master",
+    "departments": [],
+    "mentions": [
+      "Intelligence artificielle"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "Le dossier de l’Université porte une demande de création de la mention Intelligence artificielle pour 2027–2031. La CFVU se prononce favorablement sur une ouverture à la rentrée 2027.",
+      "refs": [
+        "cfvu-2026-34",
+        "cfvu-2026-35",
+        "ca-2026-128"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Intelligence artificielle",
+        "refs": [
+          "ca-2026-105",
+          "ca-2026-128"
+        ]
+      },
+      "tracks": {
+        "text": "Le parcours international d’IA de confiance fait l’objet d’un acte distinct du conseil d’administration.",
+        "refs": [
+          "ca-2026-106"
+        ]
+      },
+      "specialization": {
+        "text": "ANITI annonce un parcours consacré aux technologies d’IA de confiance, avec une approche multidisciplinaire et des projets en lien avec ses partenaires.",
+        "refs": [
+          "aniti-trustworthy-ai"
+        ]
+      },
+      "offer": {
+        "text": "Ouverture visée à la rentrée 2027. La demande est enregistrée en création dans le tableau FRESQ.",
+        "refs": [
+          "cfvu-2026-35",
+          "ca-2026-128"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "ia-after",
+        "side": "after",
+        "label": "Intelligence artificielle",
+        "refs": [
+          "ca-2026-128"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-03-17",
+        "text": "La CFVU rend un avis favorable sur la demande d’accréditation, puis sur la demande d’ouverture à la rentrée 2027.",
+        "refs": [
+          "cfvu-2026-34",
+          "cfvu-2026-35"
+        ]
+      },
+      {
+        "date": "2026-04-13",
+        "text": "Le CA traite la demande d’accréditation de la mention et le projet du parcours international d’IA de confiance.",
+        "refs": [
+          "ca-2026-105",
+          "ca-2026-106"
+        ]
+      },
+      {
+        "date": "2026-07-06",
+        "text": "Le tableau de demande d’accréditation classe la mention en création ex nihilo.",
+        "refs": [
+          "ca-2026-128"
+        ]
+      }
+    ],
+    "questions": [
+      "Quels départements portent la mention et ses parcours ?",
+      "Quelles seront les maquettes, les capacités d’accueil et les conditions d’admission ?",
+      "Quels rapports éventuels avec les parcours existants sont documentés par les équipes pédagogiques ?"
+    ]
+  },
+  {
+    "id": "master-immunologie",
+    "title": "Master Immunologie",
+    "short": "Immunologie",
+    "degree": "master",
+    "departments": [],
+    "mentions": [
+      "Immunologie"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "La FSI présente une demande de nouvelle mention Immunologie. La CFVU rend un avis favorable, puis le tableau joint à l’offre 2027–2031 enregistre le master comme une création de mention.",
+      "refs": [
+        "cfvu-2026-17-mars",
+        "ca-2026-103",
+        "ca-2026-128"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Immunologie",
+        "refs": [
+          "ca-2026-103",
+          "ca-2026-128"
+        ]
+      },
+      "offer": {
+        "text": "Création soumise à accréditation pour 2027–2031. La date de première rentrée reste à établir.",
+        "refs": [
+          "ca-2026-103",
+          "ca-2026-128"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "immunologie-after",
+        "side": "after",
+        "label": "Immunologie",
+        "refs": [
+          "ca-2026-128"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-03-17",
+        "text": "La CFVU donne un avis favorable à la demande d’accréditation dans la rubrique FSI.",
+        "refs": [
+          "cfvu-2026-17-mars"
+        ]
+      },
+      {
+        "date": "2026-04-13",
+        "text": "Le CA traite la demande au titre de l’accréditation 2027–2031.",
+        "refs": [
+          "ca-2026-103"
+        ]
+      },
+      {
+        "date": "2026-07-06",
+        "text": "Le tableau de demande d’accréditation classe la mention en création ex nihilo.",
+        "refs": [
+          "ca-2026-128"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel département ou groupement de départements porte la mention ?",
+      "Quel est le calendrier de mise en œuvre et quelles seront les capacités ?",
+      "Un lien avec des parcours existants est-il explicitement documenté dans les maquettes ou les décisions de la FSI ?"
+    ]
+  }
+]

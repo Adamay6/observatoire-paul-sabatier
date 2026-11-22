@@ -1,0 +1,937 @@
+[
+  {
+    "id": "miashs-io",
+    "title": "Ingénierie des organisations",
+    "short": "MIASHS · IO",
+    "degree": "licence",
+    "departments": [
+      "Informatique"
+    ],
+    "mentions": [
+      "Mathématiques et informatique appliquées aux sciences humaines et sociales"
+    ],
+    "period": "indetermine",
+    "types": [
+      "fermeture"
+    ],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "La FSI annonce que le parcours Ingénierie des organisations ferme et que le recrutement s’est arrêté. La fiche, mise à jour en octobre 2026, ne date ni la décision ni sa prise d’effet.",
+      "refs": [
+        "fsi-io"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "L3 Ingénierie des organisations, mention MIASHS",
+        "refs": [
+          "fsi-io"
+        ]
+      },
+      "specialization": {
+        "text": "Spécialisation amorcée par le choix d’UE en L2, avec un programme propre en L3 et une admission directe possible en L3.",
+        "refs": [
+          "fsi-io"
+        ]
+      },
+      "units": {
+        "text": "La fiche décrit des UE propres à IO, dont marketing et calcul de coûts, ainsi que des UE partagées avec MIAGE, dont analyse financière et projet entrepreneurial.",
+        "refs": [
+          "fsi-io"
+        ]
+      },
+      "hours": {
+        "text": "L’analyse financière, le marketing et le calcul de coûts figurent chacun pour 28 h dans la présentation de la L3.",
+        "refs": [
+          "fsi-io"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche identifie les parcours MER, MRSE, EMPMO et MITAT de la mention MSI parmi les poursuites d’études présentées.",
+        "refs": [
+          "fsi-io"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "Arrêt du recrutement pour le parcours IO, selon la fiche de la FSI.",
+        "refs": [
+          "fsi-io"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "io-avant",
+        "side": "before",
+        "label": "L3 MIASHS · IO",
+        "refs": [
+          "fsi-io",
+          "fsi-departement-informatique"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-28",
+        "text": "La fiche consultée, portant cette date de mise à jour, annonce la fermeture et l’arrêt du recrutement.",
+        "refs": [
+          "fsi-io"
+        ]
+      }
+    ],
+    "questions": [
+      "Quelle décision date précisément la fermeture et quel est le calendrier pour la dernière cohorte ?",
+      "Quel est le devenir des UE propres à IO et des enseignements auparavant mutualisés avec MIAGE ?",
+      "Quels parcours et débouchés demeurent accessibles aux étudiants concernés ?",
+      "Quel motif a été retenu dans l’acte de décision ?"
+    ]
+  },
+  {
+    "id": "csa",
+    "title": "Computer Science for Aerospace",
+    "short": "CSA",
+    "degree": "master",
+    "departments": [
+      "Informatique"
+    ],
+    "mentions": [
+      "Informatique"
+    ],
+    "period": "2026-27",
+    "types": [
+      "fermeture",
+      "non-ouverture"
+    ],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "L’Université de Toulouse classe CSA parmi les fermetures de la rentrée 2026. La fiche de la FSI indique que les inscriptions ne sont pas ouvertes en 2026-2027.",
+      "refs": [
+        "ut-rentree-2026",
+        "fsi-csa",
+        "ca-2025-050"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Computer Science for Aerospace, parcours de la mention Informatique",
+        "refs": [
+          "fsi-csa"
+        ]
+      },
+      "units": {
+        "text": "L’annexe votée en 2021 documente en M1 Introduction to embedded systems et en M2 Images for Aerospace, parmi d’autres UE.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      "ects": {
+        "text": "Ancienne structure votée en 2021 : 6 ECTS pour Introduction to embedded systems en M1 ; 3 ECTS pour Images for Aerospace en M2.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      "hours": {
+        "text": "Annexe votée en 2021 : 16 h de CM, 18 h de TD et 18 h de TP pour Introduction to embedded systems ; 24 h de TD pour Images for Aerospace.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      "seats": {
+        "text": "Session 2025, colonne COL Mon Master en formation initiale : 14 places sous la mention Informatique.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche décrit des débouchés en informatique, dans l’aéronautique et l’espace ainsi qu’en recherche et innovation.",
+        "refs": [
+          "fsi-csa"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "Fermeture annoncée pour la rentrée et inscriptions non ouvertes en 2026-2027.",
+        "refs": [
+          "ut-rentree-2026",
+          "fsi-csa"
+        ]
+      },
+      "seats": {
+        "text": "Session 2026, colonne COL Mon Master : 0 place sous Informatique. La colonne CAL indique la non-ouverture à la rentrée.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "csa-avant",
+        "side": "before",
+        "label": "Computer Science for Aerospace",
+        "refs": [
+          "fsi-csa",
+          "ut-rentree-2026"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-02-01",
+        "text": "Le conseil d’administration adopte la structure d’enseignement incluant le M1 et le M2 CSA.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      {
+        "date": "2024-12-03",
+        "text": "La CFVU approuve les capacités Mon Master de la session 2025, dont la ligne CSA sous Informatique.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      {
+        "date": "2025-12-15",
+        "text": "Le conseil d’administration adopte un tableau 2026-2027 qui indique la non-ouverture à la rentrée et zéro place dans la colonne COL Mon Master pour ce parcours.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      {
+        "date": "2026-10-23",
+        "text": "Le compte rendu d’assemblée étudiante rapporte qu’un vice-président de la CFVU attribue la décision au département d’Informatique lors d’un échange public.",
+        "refs": [
+          "ag-2026-10-23"
+        ]
+      }
+    ],
+    "questions": [
+      "Quelle décision individuelle précise les motifs de la fermeture et le sort des cohortes ?",
+      "Où les enseignements spécifiques sont-ils éventuellement repris ?",
+      "Quelles capacités d’accueil comparables et quelles poursuites d’études subsistent dans cette spécialité ?"
+    ]
+  },
+  {
+    "id": "ima",
+    "title": "Interactions de l’informatique et des mathématiques pour l’intelligence artificielle",
+    "short": "IMA",
+    "degree": "master",
+    "departments": [
+      "Informatique",
+      "Mathématiques"
+    ],
+    "mentions": [
+      "Informatique",
+      "Mathématiques et applications"
+    ],
+    "period": "2026-27",
+    "types": [
+      "fermeture",
+      "non-ouverture"
+    ],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "L’Université classe IMA parmi les fermetures de rentrée 2026 sous ses deux mentions de rattachement. La fiche confirme que les inscriptions ne sont pas ouvertes en 2026-2027.",
+      "refs": [
+        "ut-rentree-2026",
+        "fsi-ima",
+        "ca-2025-050"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Interactions de l’informatique et des mathématiques pour l’intelligence artificielle, parcours commun aux mentions Informatique et Mathématiques et applications.",
+        "refs": [
+          "fsi-ima",
+          "ut-rentree-2026"
+        ]
+      },
+      "specialization": {
+        "text": "Le programme présenté combine mathématiques et informatique en M1, puis propose des enseignements à choix en M2 pour approfondir l’un des deux domaines.",
+        "refs": [
+          "fsi-ima"
+        ]
+      },
+      "units": {
+        "text": "Le M1 incluait par exemple Algorithmique, rattachée à IAFA, et Optimisation, rattachée à MAPI3 dans l’annexe de 2021.",
+        "refs": [
+          "ca-2021-011",
+          "fsi-ima"
+        ]
+      },
+      "ects": {
+        "text": "Dans l’annexe votée en 2021, Algorithmique et Optimisation valaient chacune 6 ECTS.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      "hours": {
+        "text": "Dans la même annexe, Algorithmique comportait 20 h de CM, 24 h de TD et 10 h de TP ; Optimisation, 24 h de CM, 24 h de TD et 12 h de TP.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      "seats": {
+        "text": "Session 2025 en formation initiale, colonne COL Mon Master : 7 places sous Informatique et 8 sous Mathématiques et applications. Le dossier reste unique dans l’observatoire.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "Fermeture annoncée dans les deux mentions, avec inscriptions non ouvertes en 2026-2027.",
+        "refs": [
+          "ut-rentree-2026",
+          "fsi-ima"
+        ]
+      },
+      "seats": {
+        "text": "Session 2026, colonne COL Mon Master : 0 place dans chacune des deux mentions. La colonne CAL indique la non-ouverture à la rentrée pour les deux lignes.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "ima-avant",
+        "side": "before",
+        "label": "IMA · parcours commun",
+        "refs": [
+          "fsi-ima",
+          "ut-rentree-2026"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-02-01",
+        "text": "Le conseil d’administration adopte la structure d’enseignement dont l’annexe présente le parcours IMA et des UE mutualisées.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      {
+        "date": "2024-12-03",
+        "text": "La délibération des capacités de la session 2025 inclut IMA sous deux mentions.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      {
+        "date": "2025-12-15",
+        "text": "Le conseil d’administration adopte un tableau 2026-2027 qui indique la non-ouverture à la rentrée et zéro place dans la colonne COL Mon Master pour ce parcours.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel texte de décision précise la fermeture, son motif et le calendrier des cohortes ?",
+      "Quelles UE continuent dans IAFA, MAPI3 ou ailleurs et à quelles conditions d’accès ?",
+      "Existe-t-il une décision liant l’offre de la nouvelle mention Intelligence artificielle à IMA ?"
+    ]
+  },
+  {
+    "id": "ro",
+    "title": "Recherche opérationnelle optimisation",
+    "short": "RO",
+    "degree": "master",
+    "departments": [
+      "Informatique",
+      "Mathématiques"
+    ],
+    "mentions": [
+      "Informatique",
+      "Mathématiques et applications"
+    ],
+    "period": "2026-27",
+    "types": [
+      "fermeture",
+      "non-ouverture"
+    ],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "L’Université classe RO parmi les fermetures de rentrée 2026 sous les deux mentions. La fiche signale une non-ouverture en 2026-2027, tandis qu’un syllabus de M2 est daté pour cette même année.",
+      "refs": [
+        "ut-rentree-2026",
+        "fsi-ro",
+        "fsi-syllabus-m2-ro-2026",
+        "ca-2025-050"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Recherche opérationnelle optimisation, parcours commun aux mentions Informatique et Mathématiques et applications.",
+        "refs": [
+          "fsi-ro",
+          "ut-rentree-2026"
+        ]
+      },
+      "specialization": {
+        "text": "La fiche indique que le M2 est co-accrédité avec l’ENAC, l’INPT et l’ISAE-Supaero et présente SID et MApI3 comme voies de M1.",
+        "refs": [
+          "fsi-ro"
+        ]
+      },
+      "seats": {
+        "text": "Session 2025 en formation initiale, colonne COL Mon Master : 4 places dans la ligne Informatique et 4 dans la ligne Mathématiques et applications. L’addition de ces lignes ne donne pas une capacité unique vérifiée.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "L’Université annonce la fermeture et indique que le parcours n’est pas ouvert en 2026-2027. Un syllabus de M2 pour 2026-2027 est publié le 10 novembre 2026. L’étendue de la fermeture aux étudiants déjà engagés dans le parcours reste à vérifier.",
+        "refs": [
+          "ut-rentree-2026",
+          "fsi-ro",
+          "fsi-syllabus-m2-ro-2026"
+        ]
+      },
+      "units": {
+        "text": "Le syllabus de M2 2026-2027 présente notamment Optimisation globale, Apprentissage artificiel et le stage orienté recherche.",
+        "refs": [
+          "fsi-syllabus-m2-ro-2026"
+        ]
+      },
+      "ects": {
+        "text": "Dans ce syllabus, Optimisation globale et Apprentissage artificiel valent chacune 6 ECTS et le stage orienté recherche 21 ECTS.",
+        "refs": [
+          "fsi-syllabus-m2-ro-2026"
+        ]
+      },
+      "hours": {
+        "text": "La maquette du M2 mentionne 44 h de cours et 8 h de TP pour chacune des UE Optimisation globale et Apprentissage artificiel.",
+        "refs": [
+          "fsi-syllabus-m2-ro-2026"
+        ]
+      },
+      "seats": {
+        "text": "Session 2026, colonne COL Mon Master : 0 place dans chacune des deux mentions. La colonne CAL indique la non-ouverture à la rentrée pour les deux lignes. Cette décision documente l’admission via Mon Master.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "ro-avant",
+        "side": "before",
+        "label": "RO · parcours commun",
+        "refs": [
+          "fsi-ro",
+          "ut-rentree-2026"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2024-12-03",
+        "text": "La délibération sur les capacités Mon Master de la session 2025 comporte deux lignes RO, une par mention.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      {
+        "date": "2025-12-15",
+        "text": "Le conseil d’administration adopte un tableau 2026-2027 qui indique la non-ouverture à la rentrée et zéro place dans la colonne COL Mon Master pour ce parcours.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "text": "Le catalogue ingénieur ENAC décrit des enseignements spécifiques au master RO. Il qualifie les informations publiées d’indicatives.",
+        "refs": [
+          "enac-ingenieur-2026"
+        ]
+      },
+      {
+        "date": "2026-11-10",
+        "text": "Le syllabus du M2 RO est daté pour l’année universitaire 2026-2027.",
+        "refs": [
+          "fsi-syllabus-m2-ro-2026"
+        ]
+      }
+    ],
+    "questions": [
+      "Quelles inscriptions étaient effectivement possibles en M1, en M2, pour les cohortes déjà engagées et via les partenaires ?",
+      "Quels enseignements de la maquette publiée ont été dispensés et à quels publics ?",
+      "Quels motifs et quelles conditions de transition figurent dans la décision de fermeture ?"
+    ]
+  },
+  {
+    "id": "secil",
+    "title": "SECIL et ses mineures",
+    "short": "SECIL",
+    "degree": "master",
+    "departments": [
+      "Informatique"
+    ],
+    "mentions": [
+      "Informatique"
+    ],
+    "period": "2027-31",
+    "types": [],
+    "proof": "partiel",
+    "stage": "inconnue",
+    "finding": {
+      "text": "Le syllabus du M2 SECIL pour 2026-2027 documente les deux mineures SIAME et RSD. La CFVU a approuvé l’offre départementale pour 2027-2031. La décision publiée ne permet pas ici d’établir le devenir des deux mineures.",
+      "refs": [
+        "fsi-syllabus-m2-secil-2026",
+        "cfvu-2026-96"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Systèmes embarqués et connectés : infrastructures et logiciels",
+        "refs": [
+          "fsi-secil"
+        ]
+      },
+      "tracks": {
+        "text": "Itinéraires du M2 2026-2027 : Réseaux et systèmes distribués (RSD) et Systèmes informatiques ambiants, mobiles et embarqués (SIAME).",
+        "refs": [
+          "fsi-syllabus-m2-secil-2026",
+          "fsi-secil"
+        ]
+      },
+      "units": {
+        "text": "Le M2 2026-2027 présente des UE communes aux deux itinéraires, dont Internet des objets, et des UE distinctes telles qu’Ingénierie des réseaux pour RSD ou Systèmes embarqués pour SIAME.",
+        "refs": [
+          "fsi-syllabus-m2-secil-2026"
+        ]
+      },
+      "ects": {
+        "text": "Chaque itinéraire du M2 est présenté pour 60 ECTS. L’UE commune Internet des objets vaut 6 ECTS.",
+        "refs": [
+          "fsi-syllabus-m2-secil-2026"
+        ]
+      },
+      "hours": {
+        "text": "Pour l’UE Internet des objets : 18 h de cours, 4 h de master class, 18 h de TD et 18 h de TP.",
+        "refs": [
+          "fsi-syllabus-m2-secil-2026"
+        ]
+      },
+      "seats": {
+        "text": "Session 2026, 24 places en COL Mon Master et 28 en CAL Mon Master pour SECIL. Le COL de la session 2025 en formation initiale indiquait 20 places.",
+        "refs": [
+          "ca-2025-050",
+          "cfvu-2024-133"
+        ]
+      },
+      "specialization": {
+        "text": "Le M2 combine un socle commun et deux itinéraires avec des UE propres, en architectures et systèmes embarqués ou en réseaux et systèmes distribués.",
+        "refs": [
+          "fsi-syllabus-m2-secil-2026",
+          "fsi-secil"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche mentionne des poursuites en doctorat, dont en architectures, réseaux, objets connectés, systèmes distribués, embarqués et temps réel.",
+        "refs": [
+          "fsi-secil"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "secil-base",
+        "side": "before",
+        "label": "SECIL · M2 en 2026-2027",
+        "refs": [
+          "fsi-syllabus-m2-secil-2026"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve l’offre du département d’Informatique pour 2027-2031.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "text": "Le syllabus du M2 SECIL 2026-2027 présente les deux itinéraires SIAME et RSD.",
+        "refs": [
+          "fsi-syllabus-m2-secil-2026"
+        ]
+      }
+    ],
+    "questions": [
+      "Que prévoit la maquette détaillée 2027-2031 pour les deux mineures et leurs UE ?",
+      "Les options, crédits et heures diffèrent-ils à périmètre et année de formation identiques ?"
+    ]
+  },
+  {
+    "id": "master-informatique-ue",
+    "title": "Réorganisation des UE du master Informatique",
+    "short": "Master Informatique · UE",
+    "degree": "master",
+    "departments": [
+      "Informatique"
+    ],
+    "mentions": [
+      "Informatique"
+    ],
+    "period": "2027-31",
+    "types": [],
+    "proof": "partiel",
+    "stage": "inconnue",
+    "finding": {
+      "text": "La CFVU a approuvé l’offre du département pour 2027-2031. Une structure antérieure approuvée et des syllabus de 2026-2027 documentent des enseignements partagés. La comparaison détaillée avec les maquettes de la prochaine accréditation reste ouverte.",
+      "refs": [
+        "cfvu-2026-96",
+        "ca-2021-011",
+        "fsi-syllabus-m2-secil-2026"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Master mention Informatique",
+        "refs": [
+          "ut-master-informatique"
+        ]
+      },
+      "units": {
+        "text": "Les syllabus 2026-2027 de M1 IAFA et SECIL comportent des sous-UE qui portent les mêmes codes, par exemple Théorie des langages (KINX7AB1) et Parallélisme (KINX7AD1). Les codes des UE parentes diffèrent selon le parcours.",
+        "refs": [
+          "fsi-syllabus-m1-iafa-2026",
+          "fsi-syllabus-m1-secil-2026"
+        ]
+      },
+      "seats": {
+        "text": "Pour la rentrée 2026, la fiche annonce 184 places en capacité globale d’accès à la mention, tous parcours et publics confondus. L’annexe Mon Master publie ses propres valeurs par parcours.",
+        "refs": [
+          "ut-master-informatique",
+          "ca-2025-050"
+        ]
+      },
+      "ects": {
+        "text": "Théorie des langages et Parallélisme : deux UE distinctes de 6 ECTS chacune dans les deux syllabus de M1.",
+        "refs": [
+          "fsi-syllabus-m1-iafa-2026",
+          "fsi-syllabus-m1-secil-2026"
+        ]
+      },
+      "hours": {
+        "text": "Sous-UE KINX7AB1 : 22 h de cours, 14 h de TD et 18 h de TP. Sous-UE KINX7AD1 : 18 h de cours, 20 h de TD et 16 h de TP. Chaque UE prévoit en plus une master class de 3 h.",
+        "refs": [
+          "fsi-syllabus-m1-iafa-2026",
+          "fsi-syllabus-m1-secil-2026"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "La CFVU du 26 mai 2026 a approuvé l’offre du département pour 2027-2031.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      }
+    },
+    "history": [
+      {
+        "date": "2021-02-01",
+        "text": "Une délibération du conseil d’administration approuve une structure d’enseignement comprenant des tableaux d’UE mutualisées.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve l’offre du département d’Informatique pour 2027-2031.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      },
+      {
+        "date": "2026-11-17",
+        "text": "Les syllabus de M1 IAFA et SECIL datés de novembre identifient des sous-UE de même code, crédits d’UE et volumes de sous-UE.",
+        "refs": [
+          "fsi-syllabus-m1-iafa-2026",
+          "fsi-syllabus-m1-secil-2026"
+        ]
+      }
+    ],
+    "questions": [
+      "Comparer les maquettes complètes avant et après par code, semestre, ECTS et type de volume horaire.",
+      "Identifier les UE créées, abandonnées, maintenues, déplacées ou mises en commun et les publics effectivement concernés.",
+      "Vérifier si un motif particulier ou une réduction de charge correspond à un changement d’UE précis."
+    ]
+  },
+  {
+    "id": "secil-fusion-historique",
+    "title": "Fusion de SIAME et d’iLoRD en SECIL",
+    "short": "SIAME + iLoRD → SECIL",
+    "degree": "master",
+    "departments": [
+      "Informatique"
+    ],
+    "mentions": [
+      "Informatique",
+      "Réseaux et télécommunication"
+    ],
+    "period": "historique",
+    "types": [
+      "fusion"
+    ],
+    "proof": "confirme",
+    "stage": "appliquee",
+    "finding": {
+      "text": "La FSI présente la création de SECIL comme issue de la fusion des parcours SIAME et iLoRD. Le tableau adopté en 2021 rapproche les deux antécédents de SECIL dans la comparaison des offres 2016-2020 et 2021-2025.",
+      "refs": [
+        "fsi-secil",
+        "ca-2021-011"
+      ]
+    },
+    "before": {
+      "tracks": {
+        "text": "Systèmes informatiques ambiants, mobiles et embarqués (SIAME) et Ingénierie du logiciel des réseaux et des systèmes distribués (iLoRD).",
+        "refs": [
+          "fsi-secil",
+          "ca-2021-011"
+        ]
+      }
+    },
+    "after": {
+      "title": {
+        "text": "Systèmes embarqués et connectés : infrastructures et logiciels (SECIL)",
+        "refs": [
+          "fsi-secil",
+          "ca-2021-011"
+        ]
+      },
+      "specialization": {
+        "text": "La fiche SECIL présente ensuite deux spécialisations, SIAME et RSD. Le syllabus de M2 2026-2027 les présente comme deux itinéraires.",
+        "refs": [
+          "fsi-secil",
+          "fsi-syllabus-m2-secil-2026"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "siame-avant",
+        "side": "before",
+        "label": "SIAME",
+        "refs": [
+          "ca-2021-011",
+          "fsi-secil"
+        ]
+      },
+      {
+        "id": "ilord-avant",
+        "side": "before",
+        "label": "iLoRD",
+        "refs": [
+          "ca-2021-011",
+          "fsi-secil"
+        ]
+      },
+      {
+        "id": "secil-apres",
+        "side": "after",
+        "label": "SECIL",
+        "refs": [
+          "ca-2021-011",
+          "fsi-secil"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "from": "siame-avant",
+        "to": "secil-apres",
+        "type": "fusion",
+        "refs": [
+          "fsi-secil",
+          "ca-2021-011"
+        ]
+      },
+      {
+        "from": "ilord-avant",
+        "to": "secil-apres",
+        "type": "fusion",
+        "refs": [
+          "fsi-secil",
+          "ca-2021-011"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-02-01",
+        "text": "Le conseil d’administration adopte la structure d’enseignement et le tableau comparatif inclut SECIL et ses deux antécédents.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      }
+    ],
+    "questions": [
+      "Les motifs précis de la fusion figurent-ils dans un dossier de présentation ou dans un procès-verbal détaillé ?"
+    ]
+  },
+  {
+    "id": "ima-mutualisation-historique",
+    "title": "Mutualisations du parcours IMA",
+    "short": "IMA · UE partagées",
+    "degree": "master",
+    "departments": [
+      "Informatique",
+      "Mathématiques"
+    ],
+    "mentions": [
+      "Informatique",
+      "Mathématiques et applications"
+    ],
+    "period": "historique",
+    "types": [
+      "mutualisation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "La fiche IMA décrit une mutualisation de contenus avec IAFA et MAPI3. L’annexe votée le 1er février 2021 identifie notamment Algorithmique avec IAFA et Optimisation avec MAPI3.",
+      "refs": [
+        "fsi-ima",
+        "ca-2021-011"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Master Informatique et Mathématiques pour l’IA, intitulé du tableau M1 IMA",
+        "refs": [
+          "ca-2021-011"
+        ]
+      }
+    },
+    "after": {
+      "units": {
+        "text": "Algorithmique (IAFA) et Optimisation (MAPI3) sont deux des exemples répertoriés dans le tableau M1 IMA.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      "ects": {
+        "text": "Les deux UE valent 6 ECTS chacune dans le tableau M1 IMA.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      "hours": {
+        "text": "Algorithmique : 20 h de CM, 24 h de TD et 10 h de TP. Optimisation : 24 h de CM, 24 h de TD et 12 h de TP.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "ima-historique",
+        "side": "before",
+        "label": "IMA · M1",
+        "refs": [
+          "fsi-ima",
+          "ca-2021-011"
+        ]
+      },
+      {
+        "id": "iafa-historique",
+        "side": "before",
+        "label": "IAFA · M1",
+        "refs": [
+          "fsi-ima",
+          "ca-2021-011"
+        ]
+      },
+      {
+        "id": "mapi3-historique",
+        "side": "before",
+        "label": "MAPI3 · M1",
+        "refs": [
+          "fsi-ima",
+          "ca-2021-011"
+        ]
+      },
+      {
+        "id": "algorithmique-partagee",
+        "side": "shared",
+        "label": "Algorithmique · 6 ECTS",
+        "refs": [
+          "ca-2021-011"
+        ]
+      },
+      {
+        "id": "optimisation-partagee",
+        "side": "shared",
+        "label": "Optimisation · 6 ECTS",
+        "refs": [
+          "ca-2021-011"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "from": "ima-historique",
+        "to": "algorithmique-partagee",
+        "type": "mutualisation",
+        "refs": [
+          "fsi-ima",
+          "ca-2021-011"
+        ]
+      },
+      {
+        "from": "iafa-historique",
+        "to": "algorithmique-partagee",
+        "type": "mutualisation",
+        "refs": [
+          "fsi-ima",
+          "ca-2021-011"
+        ]
+      },
+      {
+        "from": "ima-historique",
+        "to": "optimisation-partagee",
+        "type": "mutualisation",
+        "refs": [
+          "fsi-ima",
+          "ca-2021-011"
+        ]
+      },
+      {
+        "from": "mapi3-historique",
+        "to": "optimisation-partagee",
+        "type": "mutualisation",
+        "refs": [
+          "fsi-ima",
+          "ca-2021-011"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-02-01",
+        "text": "Le conseil d’administration adopte la structure d’enseignement dont l’annexe contient le tableau des UE mutualisées du M1 IMA.",
+        "refs": [
+          "ca-2021-011"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel est le devenir de ces mutualisations après la fermeture annoncée d’IMA à la rentrée 2026 ?"
+    ]
+  }
+]
