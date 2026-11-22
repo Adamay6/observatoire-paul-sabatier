@@ -168,5 +168,87 @@
     "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M1_INF_SECIL.pdf",
     "locator": "Couverture (2026-2027) ; p. 6, « Tableau synthétique des UE de la formation »",
     "note": "Le syllabus présente le semestre de M1 SECIL dont les sous-UE KINX7AB1 (Théorie des langages) et KINX7AD1 (Parallélisme), qui ont les mêmes codes dans le syllabus IAFA."
+  },
+  {
+    "id": "ut-reglement-etudes-2627",
+    "title": "Règlement des études 2026–2027",
+    "publisher": "Université de Toulouse",
+    "kind": "juridique",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/re-glement-des-e-tudes-vdef_1792660065569",
+    "locator": "p. 9 du PDF, master, poursuite après le M1",
+    "note": "Le règlement traite l’accès de droit au M2 pour le M1 validé dans la même mention et le même parcours et le passage devant une commission en cas de changement de mention ou de parcours."
+  },
+  {
+    "id": "code-education-l612-6-1",
+    "title": "Code de l’éducation, article L. 612-6-1",
+    "publisher": "République française · Légifrance",
+    "kind": "juridique",
+    "consulted": "2026-11-22",
+    "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033694146",
+    "locator": "Article L. 612-6-1, premier alinéa",
+    "note": "Règle générale de l’accès en deuxième année après validation de la première année de la formation."
+  },
+  {
+    "id": "fsi-syllabus-m2-csa-2026",
+    "title": "Syllabus 2026–2027 · M2 Computer Science for Aerospace",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "annexe",
+    "date": "2026-11-20",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_INF_CSA.pdf",
+    "locator": "Couverture 2026–2027 et tableau des enseignements",
+    "note": "Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées."
+  },
+  {
+    "id": "fsi-syllabus-m2-ima-2026",
+    "title": "Syllabus 2026–2027 · M2 Interactions de l’informatique et des mathématiques pour l’IA",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "annexe",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_INF_MAT_IMA.pdf",
+    "locator": "Couverture 2026–2027 et tableau des enseignements",
+    "note": "Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées.",
+    "date": "2026-11-22"
+  },
+  {
+    "id": "mesre-monmaster-2024-2025",
+    "title": "Mon Master 2024 et 2025 · candidatures, propositions et acceptations",
+    "publisher": "Ministère de l’Enseignement supérieur, de la Recherche et de l’Espace · SIES",
+    "kind": "institution",
+    "consulted": "2026-11-22",
+    "url": "https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/",
+    "locator": "Lignes des UAI 0311384L et 0313218E, champs session, ifc, col, n_can_pp, n_prop_total et n_accept_total",
+    "note": "Données publiques de candidature en M1. Une ligne par formation ouverte sur la plateforme et statut d’alternance. Le champ n_accept_total compte les acceptations en fin de procédure."
+  },
+  {
+    "id": "fsi-miashs-brochure-2627",
+    "title": "Licence MIASHS · brochure 2026–2027",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://www.univ-tlse3.fr/medias/fichier/odf2026-2027-mention-licmiashs-novembre-scuio-vf-web_1764922541034-pdf",
+    "locator": "Couverture et présentation générale",
+    "note": "La brochure d’offre 2026–2027 présente encore IO et MIAGE."
+  },
+  {
+    "id": "fsi-gestion-galaxie-ater-2026",
+    "title": "Campagne ATER 2026–2027 · profil Gestion et filières MIASHS",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "institution",
+    "consulted": "2026-11-22",
+    "url": "https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/ATERListesOffresPubliees/0313218E/FOPC_67406.pdf",
+    "locator": "Section des filières de formation concernées",
+    "note": "Le profil mentionne MIASHS IO et MIAGE pour un contrat prévu à partir du 1er septembre 2026. Il ne confirme pas que le poste a été pourvu ou que des cours IO ont eu lieu."
+  },
+  {
+    "id": "enac-m2-ro-partenariat",
+    "title": "Master 2 Recherche opérationnelle · équipe et partenariat",
+    "publisher": "Équipe du M2 RO · ENAC",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://m2rit-ro.recherche.enac.fr/?page_id=8",
+    "locator": "Présentation du master recherche et convention avec Nantes",
+    "note": "L’équipe décrit le rôle de l’ENAC, des autres écoles toulousaines et une passerelle M1 RO Nantes vers M2 Toulouse. La fiche ne date pas cette possibilité pour 2026–2027."
   }
 ]

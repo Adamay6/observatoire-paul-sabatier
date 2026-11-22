@@ -30,7 +30,8 @@ npm run preview
 
 | Entrée | Contenu |
 | --- | --- |
-| [Résultats](FINDINGS.md) | Conclusions de la première enquête et références. |
+| [Résultats](FINDINGS.md) | Conclusions de l’enquête et références. |
+| [Enquête approfondie](research/enquete-approfondie.md) | Lecture des annexes 2027–2031, admissions de 2024 et 2025, cohortes et budget. |
 | [Registre documentaire](SOURCES.md) | Notices, repères précis et accès aux documents originaux. |
 | [Questions ouvertes](OPEN_QUESTIONS.md) | Pièces à retrouver, incohérences apparentes et prochaines comparaisons. |
 | [Méthodologie](METHODOLOGY.md) | Fondements des niveaux de preuve, nomenclature et règles de comptage. |

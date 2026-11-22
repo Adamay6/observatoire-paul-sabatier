@@ -4,211 +4,1960 @@
     "title": "Expression génique et protéines recombinantes",
     "short": "EGPR",
     "degree": "master",
-    "departments": ["Biologie et Géosciences"],
-    "mentions": ["Biotechnologies"],
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Biotechnologies"
+    ],
     "period": "2026-27",
-    "types": ["fermeture"],
+    "types": [
+      "fermeture"
+    ],
     "proof": "confirme",
     "stage": "appliquee",
     "finding": {
       "text": "L’Université classe EGPR parmi les fermetures de la rentrée 2026. Le département confirme l’absence de recrutement en 2026.",
-      "refs": ["ut-rentree-2026", "fsi-biotechnologies", "fsi-egpr", "ca-2025-050"]
+      "refs": [
+        "ut-rentree-2026",
+        "fsi-biotechnologies",
+        "fsi-egpr",
+        "ca-2025-050",
+        "cfvu-2026-101"
+      ]
     },
     "before": {
-      "title": {"text": "Expression génique et protéines recombinantes", "refs": ["fsi-egpr"]},
-      "tracks": {"text": "Parcours de la mention Biotechnologies", "refs": ["fsi-biotechnologies"]},
-      "seats": {"text": "13 places Mon Master en formation initiale, session 2025 (COL du parcours).", "refs": ["cfvu-2024-133"]},
-      "specialization": {"text": "Parcours de biotechnologies proposé notamment en alternance par apprentissage.", "refs": ["fsi-egpr"]},
-      "outcomes": {"text": "La fiche cite l’industrie pharmaceutique et cosmétique, la recherche et la poursuite d’études en doctorat.", "refs": ["fsi-egpr"]}
+      "title": {
+        "text": "Expression génique et protéines recombinantes",
+        "refs": [
+          "fsi-egpr"
+        ]
+      },
+      "tracks": {
+        "text": "Parcours de la mention Biotechnologies",
+        "refs": [
+          "fsi-biotechnologies"
+        ]
+      },
+      "seats": {
+        "text": "13 places Mon Master en formation initiale, session 2025 (COL du parcours).",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      "specialization": {
+        "text": "Parcours de biotechnologies proposé notamment en alternance par apprentissage.",
+        "refs": [
+          "fsi-egpr"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche cite l’industrie pharmaceutique et cosmétique, la recherche et la poursuite d’études en doctorat.",
+        "refs": [
+          "fsi-egpr"
+        ]
+      }
     },
     "after": {
-      "seats": {"text": "0 place Mon Master en 2026 (COL du parcours).", "refs": ["ca-2025-050"]},
-      "offer": {"text": "Pas d’ouverture aux inscriptions pour l’année 2026–2027.", "refs": ["fsi-egpr", "ut-rentree-2026"]}
+      "seats": {
+        "text": "0 place Mon Master en 2026 (COL du parcours).",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      "offer": {
+        "text": "Arrêt inscrit pour la rentrée 2026 et absence de recrutement en M1 via Mon Master. La FSI a publié un syllabus de M2 2026–2027. Le devenir des inscrits, les admissions directes ou auprès des partenaires et les cours assurés restent à vérifier.",
+        "refs": [
+          "fsi-egpr",
+          "ut-rentree-2026",
+          "cfvu-2026-101",
+          "fsi-syllabus-m2-egpr-2026",
+          "ca-2025-050"
+        ]
+      },
+      "units": {
+        "text": "Le syllabus de M2 2026–2027 décrit les enseignements prévus et le stage.",
+        "refs": [
+          "fsi-syllabus-m2-egpr-2026"
+        ]
+      }
     },
-    "nodes": [{"id": "egpr-avant", "side": "before", "label": "Master Biotechnologies · EGPR", "refs": ["fsi-egpr"]}],
-    "history": [
-      {"date": "2000", "text": "La fiche situe la création de la formation en 2000, sous la forme d’un DESS.", "refs": ["fsi-egpr"]},
-      {"date": "2024-12-03", "text": "La CFVU approuve les capacités Mon Master de la session 2025, dont celle du parcours.", "refs": ["cfvu-2024-133"]},
-      {"date": "2025-12-15", "text": "Le tableau annexé à la délibération du CA donne zéro place Mon Master en 2026.", "refs": ["ca-2025-050"]},
-      {"date": "2026-10-28", "text": "La fiche FSI mise à jour mentionne la non-ouverture aux inscriptions en 2026–2027.", "refs": ["fsi-egpr"]}
+    "nodes": [
+      {
+        "id": "egpr-avant",
+        "side": "before",
+        "label": "Master Biotechnologies · EGPR",
+        "refs": [
+          "fsi-egpr"
+        ]
+      }
     ],
-    "questions": ["Quel motif propre au parcours figure dans le dossier de décision ?", "Quel calendrier s’applique aux promotions déjà engagées ?", "Un successeur ou une reprise d’UE est-il explicitement documenté pour la prochaine accréditation ?"]
+    "history": [
+      {
+        "date": "2000",
+        "text": "La fiche situe la création de la formation en 2000, sous la forme d’un DESS.",
+        "refs": [
+          "fsi-egpr"
+        ]
+      },
+      {
+        "date": "2024-12-03",
+        "text": "La CFVU approuve les capacités Mon Master de la session 2025, dont celle du parcours.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      {
+        "date": "2025-12-15",
+        "text": "Le tableau annexé à la délibération du CA donne zéro place Mon Master en 2026.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "text": "La fiche FSI mise à jour mentionne la non-ouverture aux inscriptions en 2026–2027.",
+        "refs": [
+          "fsi-egpr"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel motif propre au parcours figure dans le dossier de décision ?",
+      "Quel calendrier s’applique aux promotions déjà engagées ?",
+      "Un successeur ou une reprise d’UE est-il explicitement documenté pour la prochaine accréditation ?"
+    ],
+    "effects": [
+      {
+        "text": "En règle générale, le règlement de l’Université prévoit une poursuite de droit après validation du M1 au sein des mêmes mention et parcours et une commission en cas de changement. La mesure de transition propre au parcours reste à établir.",
+        "refs": [
+          "ut-reglement-etudes-2627",
+          "code-education-l612-6-1"
+        ]
+      },
+      {
+        "text": "L’annexe signale un effectif moyen inférieur ou égal à 15 sur les trois années 2023–2024 à 2025–2026. Elle ne chiffre pas l’effectif de chaque année.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      {
+        "text": "Session Mon Master 2025. EGPR sous Biotechnologies : 291 candidatures confirmées en phase principale, 58 personnes ayant reçu une proposition, 13 acceptations et 13 COL. Les acceptations mesurent le processus d’admission sur la plateforme.",
+        "refs": [
+          "mesre-monmaster-2024-2025"
+        ]
+      }
+    ]
   },
   {
     "id": "icsi",
     "title": "International chimie aux surfaces et interfaces",
     "short": "ICSI",
     "degree": "master",
-    "departments": ["Chimie"],
-    "mentions": ["Chimie"],
+    "departments": [
+      "Chimie"
+    ],
+    "mentions": [
+      "Chimie"
+    ],
     "period": "2026-27",
-    "types": ["fermeture"],
+    "types": [
+      "fermeture"
+    ],
     "proof": "confirme",
     "stage": "appliquee",
     "finding": {
       "text": "L’Université classe ICSI parmi les fermetures de la rentrée 2026. La fiche du parcours indique une non-ouverture aux inscriptions en 2026–2027.",
-      "refs": ["ut-rentree-2026", "fsi-icsi", "ca-2025-050"]
+      "refs": [
+        "ut-rentree-2026",
+        "fsi-icsi",
+        "ca-2025-050",
+        "cfvu-2026-93"
+      ]
     },
     "before": {
-      "title": {"text": "International chimie aux surfaces et interfaces", "refs": ["fsi-icsi"]},
-      "tracks": {"text": "Parcours de la mention Chimie.", "refs": ["syl-icsi-m1-2022"]},
-      "units": {"text": "Exemples du M1 2022–2023 : caractérisation, chimie des surfaces et procédés plasma, stage de recherche.", "refs": ["syl-icsi-m1-2022"]},
-      "ects": {"text": "60 ECTS en M1 dans le tableau 2022–2023, dont 24 pour le stage de recherche.", "refs": ["syl-icsi-m1-2022"]},
-      "hours": {"text": "440 h d’enseignement sur les deux années selon la description du parcours dans le syllabus 2022–2023.", "refs": ["syl-icsi-m1-2022"]},
-      "seats": {"text": "3 places Mon Master en formation initiale, session 2025 (COL du parcours).", "refs": ["cfvu-2024-133"]},
-      "specialization": {"text": "Bidiplomation. Première année à Toulouse, deuxième à l’Université de Montréal.", "refs": ["fsi-icsi"]},
-      "outcomes": {"text": "La fiche cite la recherche, le doctorat et les métiers d’ingénieur dans l’industrie.", "refs": ["fsi-icsi"]}
+      "title": {
+        "text": "International chimie aux surfaces et interfaces",
+        "refs": [
+          "fsi-icsi"
+        ]
+      },
+      "tracks": {
+        "text": "Parcours de la mention Chimie.",
+        "refs": [
+          "syl-icsi-m1-2022"
+        ]
+      },
+      "units": {
+        "text": "Exemples du M1 2022–2023 : caractérisation, chimie des surfaces et procédés plasma, stage de recherche.",
+        "refs": [
+          "syl-icsi-m1-2022"
+        ]
+      },
+      "ects": {
+        "text": "60 ECTS en M1 dans le tableau 2022–2023, dont 24 pour le stage de recherche.",
+        "refs": [
+          "syl-icsi-m1-2022"
+        ]
+      },
+      "hours": {
+        "text": "440 h d’enseignement sur les deux années selon la description du parcours dans le syllabus 2022–2023.",
+        "refs": [
+          "syl-icsi-m1-2022"
+        ]
+      },
+      "seats": {
+        "text": "3 places Mon Master en formation initiale, session 2025 (COL du parcours).",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      "specialization": {
+        "text": "Bidiplomation. Première année à Toulouse, deuxième à l’Université de Montréal.",
+        "refs": [
+          "fsi-icsi"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche cite la recherche, le doctorat et les métiers d’ingénieur dans l’industrie.",
+        "refs": [
+          "fsi-icsi"
+        ]
+      }
     },
     "after": {
-      "seats": {"text": "0 place Mon Master en 2026 (COL du parcours).", "refs": ["ca-2025-050"]},
-      "offer": {"text": "Pas d’ouverture aux inscriptions pour l’année 2026–2027.", "refs": ["fsi-icsi", "ut-rentree-2026"]}
+      "seats": {
+        "text": "0 place Mon Master en 2026 (COL du parcours).",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      "offer": {
+        "text": "Arrêt inscrit pour la rentrée 2026 et absence de recrutement en M1 via Mon Master. La FSI a publié un syllabus de M2 2026–2027. Le devenir des inscrits, les admissions directes ou auprès des partenaires et les cours assurés restent à vérifier.",
+        "refs": [
+          "fsi-icsi",
+          "ut-rentree-2026",
+          "cfvu-2026-93",
+          "fsi-syllabus-m2-icsi-2026",
+          "ca-2025-050"
+        ]
+      },
+      "units": {
+        "text": "Le syllabus de M2 2026–2027 décrit les enseignements prévus et le stage.",
+        "refs": [
+          "fsi-syllabus-m2-icsi-2026"
+        ]
+      }
     },
-    "nodes": [{"id": "icsi-avant", "side": "before", "label": "Master Chimie · ICSI", "refs": ["syl-icsi-m1-2022"]}],
-    "history": [
-      {"date": "2022-08-30", "text": "Le syllabus du M1 documente la structure et la bidiplomation en 2022–2023.", "refs": ["syl-icsi-m1-2022"]},
-      {"date": "2024-12-03", "text": "La CFVU approuve les capacités Mon Master de la session 2025, dont celle du parcours.", "refs": ["cfvu-2024-133"]},
-      {"date": "2025-12-15", "text": "Le tableau annexé à la délibération du CA donne zéro place Mon Master en 2026.", "refs": ["ca-2025-050"]},
-      {"date": "2026-10-28", "text": "La fiche FSI mise à jour indique la non-ouverture aux inscriptions en 2026–2027.", "refs": ["fsi-icsi"]}
+    "nodes": [
+      {
+        "id": "icsi-avant",
+        "side": "before",
+        "label": "Master Chimie · ICSI",
+        "refs": [
+          "syl-icsi-m1-2022"
+        ]
+      }
     ],
-    "questions": ["Quel motif propre à ICSI est documenté dans le dossier de décision ?", "Quelles dispositions régissent la poursuite des promotions et le partenariat avec Montréal ?", "Qu’advient-il des UE historiques, notamment de celles que le syllabus indique comme partagées ?"]
+    "history": [
+      {
+        "date": "2022-08-30",
+        "text": "Le syllabus du M1 documente la structure et la bidiplomation en 2022–2023.",
+        "refs": [
+          "syl-icsi-m1-2022"
+        ]
+      },
+      {
+        "date": "2024-12-03",
+        "text": "La CFVU approuve les capacités Mon Master de la session 2025, dont celle du parcours.",
+        "refs": [
+          "cfvu-2024-133"
+        ]
+      },
+      {
+        "date": "2025-12-15",
+        "text": "Le tableau annexé à la délibération du CA donne zéro place Mon Master en 2026.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "text": "La fiche FSI mise à jour indique la non-ouverture aux inscriptions en 2026–2027.",
+        "refs": [
+          "fsi-icsi"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel motif propre à ICSI est documenté dans le dossier de décision ?",
+      "Quelles dispositions régissent la poursuite des promotions et le partenariat avec Montréal ?",
+      "Qu’advient-il des UE historiques, notamment de celles que le syllabus indique comme partagées ?"
+    ],
+    "effects": [
+      {
+        "text": "En règle générale, le règlement de l’Université prévoit une poursuite de droit après validation du M1 au sein des mêmes mention et parcours et une commission en cas de changement. La mesure de transition propre au parcours reste à établir.",
+        "refs": [
+          "ut-reglement-etudes-2627",
+          "code-education-l612-6-1"
+        ]
+      },
+      {
+        "text": "L’annexe signale un effectif moyen inférieur ou égal à 10 sur les trois années 2023–2024 à 2025–2026. Elle ne chiffre pas l’effectif de chaque année.",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      },
+      {
+        "text": "Le règlement public de l’Université de Montréal présente encore l’option internationale. La fiche ne renseigne pas le recrutement ni la mobilité de la promotion 2026–2027.",
+        "refs": [
+          "udem-option-icsi"
+        ]
+      },
+      {
+        "text": "Session Mon Master 2025. ICSI sous Chimie : 39 candidatures confirmées en phase principale, 6 personnes ayant reçu une proposition, 2 acceptations et 3 COL. Les acceptations mesurent le processus d’admission sur la plateforme.",
+        "refs": [
+          "mesre-monmaster-2024-2025"
+        ]
+      }
+    ]
   },
   {
     "id": "cosya",
     "title": "Conseil en systèmes de production végétale agroécologique",
     "short": "CoSyA",
     "degree": "licence-pro",
-    "departments": ["Biologie et Géosciences"],
-    "mentions": ["Productions végétales"],
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Productions végétales"
+    ],
     "period": "2026-27",
-    "types": ["fermeture"],
+    "types": [
+      "fermeture"
+    ],
     "proof": "confirme",
     "stage": "appliquee",
     "finding": {
       "text": "L’Université indique que le parcours CoSyA cesse d’être proposé à compter de la rentrée 2026.",
-      "refs": ["ut-rentree-2026", "ut-cosya"]
+      "refs": [
+        "ut-rentree-2026",
+        "ut-cosya",
+        "cfvu-2026-101"
+      ]
     },
     "before": {
-      "title": {"text": "Conseil en systèmes de production végétale agroécologique", "refs": ["ut-cosya"]},
-      "tracks": {"text": "Parcours de la mention Productions végétales, unique parcours présenté dans le syllabus de 2024–2025.", "refs": ["syl-cosya-2024"]},
-      "units": {"text": "Le programme 2024–2025 comprend des UE de conseil agricole, d’agroécologie, de communication, un projet tutoré et un stage.", "refs": ["syl-cosya-2024"]},
-      "ects": {"text": "60 ECTS en 2024–2025, calculés à partir des crédits du tableau des UE (30 par semestre).", "refs": ["syl-cosya-2024"]},
-      "hours": {"text": "Exemple en 2024–2025 : 54 h de TD pour l’UE Remise à niveau scientifique et technique.", "refs": ["syl-cosya-2024"]},
-      "seats": {"text": "24 places en 2025–2026 (capacité de la licence professionnelle).", "refs": ["cfvu-lp-fsi-2025"]},
-      "specialization": {"text": "Année de licence professionnelle ouverte à l’alternance, en partenariat avec le lycée agricole d’Auzeville.", "refs": ["syl-cosya-2024", "ut-cosya"]},
-      "outcomes": {"text": "La fiche présente notamment le conseil aux exploitations et les études en agriculture comme débouchés.", "refs": ["ut-cosya"]}
+      "title": {
+        "text": "Conseil en systèmes de production végétale agroécologique",
+        "refs": [
+          "ut-cosya"
+        ]
+      },
+      "tracks": {
+        "text": "Parcours de la mention Productions végétales, unique parcours présenté dans le syllabus de 2024–2025.",
+        "refs": [
+          "syl-cosya-2024"
+        ]
+      },
+      "units": {
+        "text": "Le programme 2024–2025 comprend des UE de conseil agricole, d’agroécologie, de communication, un projet tutoré et un stage.",
+        "refs": [
+          "syl-cosya-2024"
+        ]
+      },
+      "ects": {
+        "text": "60 ECTS en 2024–2025, calculés à partir des crédits du tableau des UE (30 par semestre).",
+        "refs": [
+          "syl-cosya-2024"
+        ]
+      },
+      "hours": {
+        "text": "Exemple en 2024–2025 : 54 h de TD pour l’UE Remise à niveau scientifique et technique.",
+        "refs": [
+          "syl-cosya-2024"
+        ]
+      },
+      "seats": {
+        "text": "24 places en 2025–2026 (capacité de la licence professionnelle).",
+        "refs": [
+          "cfvu-lp-fsi-2025"
+        ]
+      },
+      "specialization": {
+        "text": "Année de licence professionnelle ouverte à l’alternance, en partenariat avec le lycée agricole d’Auzeville.",
+        "refs": [
+          "syl-cosya-2024",
+          "ut-cosya"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche présente notamment le conseil aux exploitations et les études en agriculture comme débouchés.",
+        "refs": [
+          "ut-cosya"
+        ]
+      }
     },
     "after": {
-      "offer": {"text": "Parcours fermé à compter de la rentrée 2026 selon le catalogue de l’Université.", "refs": ["ut-cosya", "ut-rentree-2026"]}
+      "offer": {
+        "text": "CoSyA ferme à partir de septembre 2026. L’offre pour 2027–2031 conserve la mention de licence professionnelle Productions végétales.",
+        "refs": [
+          "ut-cosya",
+          "cfvu-2026-101",
+          "ca-2026-130"
+        ]
+      }
     },
-    "nodes": [{"id": "cosya-avant", "side": "before", "label": "Licence pro Productions végétales · CoSyA", "refs": ["syl-cosya-2024"]}],
-    "history": [
-      {"date": "2024-10-07", "text": "Le syllabus décrit le parcours et ses UE pour 2024–2025.", "refs": ["syl-cosya-2024"]},
-      {"date": "2025-02-11", "text": "Le tableau des capacités donne 24 places au parcours pour 2025–2026.", "refs": ["cfvu-lp-fsi-2025"]},
-      {"date": "2026-08-27", "text": "La fiche institutionnelle mise à jour confirme la fin de l’offre à compter de la rentrée 2026.", "refs": ["ut-cosya"]}
+    "nodes": [
+      {
+        "id": "cosya-avant",
+        "side": "before",
+        "label": "Licence pro Productions végétales · CoSyA",
+        "refs": [
+          "syl-cosya-2024"
+        ]
+      }
     ],
-    "questions": ["Quel motif a été retenu pour la fermeture de CoSyA ?", "Quelles suites sont proposées aux candidats issus de la licence Sciences de la vie ?", "Les enseignements ou le partenariat avec le lycée agricole ont-ils été repris dans un autre cursus ?"]
+    "history": [
+      {
+        "date": "2024-10-07",
+        "text": "Le syllabus décrit le parcours et ses UE pour 2024–2025.",
+        "refs": [
+          "syl-cosya-2024"
+        ]
+      },
+      {
+        "date": "2025-02-11",
+        "text": "Le tableau des capacités donne 24 places au parcours pour 2025–2026.",
+        "refs": [
+          "cfvu-lp-fsi-2025"
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "text": "La fiche institutionnelle mise à jour confirme la fin de l’offre à compter de la rentrée 2026.",
+        "refs": [
+          "ut-cosya"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel motif a été retenu pour la fermeture de CoSyA ?",
+      "Quelles suites sont proposées aux candidats issus de la licence Sciences de la vie ?",
+      "Les enseignements ou le partenariat avec le lycée agricole ont-ils été repris dans un autre cursus ?"
+    ]
   },
   {
     "id": "uniteid",
     "title": "UNITEID – Maladies infectieuses émergentes",
     "short": "UNITEID",
     "degree": "du",
-    "departments": ["Biologie et Géosciences"],
+    "departments": [
+      "Biologie et Géosciences"
+    ],
     "period": "2026-27",
-    "types": ["creation"],
+    "types": [
+      "creation"
+    ],
     "proof": "confirme",
     "stage": "adoptee",
     "finding": {
-      "text": "La CFVU approuve l’ouverture du DU UNITEID le 4 novembre 2025. L’Université le présente dans les ouvertures de la rentrée 2026, avec la Faculté de Santé comme composante associée.",
-      "refs": ["cfvu-2025-11-147", "ut-rentree-2026"]
+      "text": "Le 4 novembre 2025, la CFVU approuve l’ouverture du DU UNITEID. Son annexe prévoit une première partie de niveau M1 en 2025–2026, avec début des cours en janvier 2026. L’Université le présente aussi parmi les ouvertures de rentrée 2026. Une pièce confirmant la première cohorte reste à retrouver.",
+      "refs": [
+        "cfvu-2025-11-147",
+        "ut-rentree-2026",
+        "ca-2025-054"
+      ]
     },
     "after": {
-      "title": {"text": "Diplôme d’Université UNITEID – Maladies infectieuses émergentes", "refs": ["cfvu-2025-11-147"]},
-      "offer": {"text": "Ouverture annoncée à la rentrée 2026 au département Biologie et Géosciences.", "refs": ["ut-rentree-2026"]}
+      "title": {
+        "text": "Diplôme d’Université UNITEID – Maladies infectieuses émergentes",
+        "refs": [
+          "cfvu-2025-11-147"
+        ]
+      },
+      "offer": {
+        "text": "Le dossier prévoyait le démarrage des enseignements en janvier 2026, sur la partie M1. La communication universitaire de rentrée 2026 présente à nouveau le DU.",
+        "refs": [
+          "cfvu-2025-11-147",
+          "ut-rentree-2026"
+        ]
+      },
+      "seats": {
+        "text": "Le dossier fixe de 10 à 30 stagiaires. Un chiffre d’inscriptions effectives reste à obtenir.",
+        "refs": [
+          "cfvu-2025-11-147"
+        ]
+      },
+      "hours": {
+        "text": "Le dossier de création prévoit 163 h d’enseignements théoriques et pratiques.",
+        "refs": [
+          "cfvu-2025-11-147"
+        ]
+      }
     },
-    "nodes": [{"id": "uniteid-apres", "side": "after", "label": "DU UNITEID", "refs": ["cfvu-2025-11-147", "ut-rentree-2026"]}],
-    "history": [{"date": "2025-11-04", "text": "La CFVU approuve l’ouverture du diplôme.", "refs": ["cfvu-2025-11-147", "cfvu-avis-2025-11-04"]}],
-    "questions": ["Quelle maquette et quelles capacités sont propres à ce DU ?", "La première cohorte est-elle attestée par un document de mise en œuvre ?"]
+    "nodes": [
+      {
+        "id": "uniteid-apres",
+        "side": "after",
+        "label": "DU UNITEID",
+        "refs": [
+          "cfvu-2025-11-147",
+          "ut-rentree-2026"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2025-11-04",
+        "text": "La CFVU approuve l’ouverture du diplôme.",
+        "refs": [
+          "cfvu-2025-11-147",
+          "cfvu-avis-2025-11-04"
+        ]
+      },
+      {
+        "date": "2025-12-15",
+        "text": "Le CA approuve la création du diplôme.",
+        "refs": [
+          "ca-2025-054"
+        ]
+      }
+    ],
+    "questions": [
+      "À quelle date les premiers cours ont-ils effectivement commencé et combien de stagiaires étaient inscrits ?",
+      "La maquette et les deux parties du DU ont-elles été mises en œuvre selon la demande approuvée ?"
+    ],
+    "effects": [
+      {
+        "text": "L’annexe de création décrit une sélection de candidats de l’EUR en 2025–2026. Le nombre d’inscriptions propres au DU et la tenue des cours restent à établir.",
+        "refs": [
+          "cfvu-2025-11-147"
+        ]
+      }
+    ],
+    "motives": [
+      {
+        "type": "pedagogie",
+        "text": "Le dossier présente le DU comme un complément au master d’origine pour attester de compétences interdisciplinaires acquises dans l’école universitaire de recherche.",
+        "refs": [
+          "cfvu-2025-11-147"
+        ]
+      }
+    ]
   },
   {
     "id": "issee",
     "title": "Ingénierie de la santé spatiale et des environnements extrêmes",
     "short": "ISSEE",
     "degree": "master",
-    "departments": ["Électronique, énergie électrique, automatique"],
-    "mentions": ["Ingénierie de la santé"],
+    "departments": [
+      "Électronique, énergie électrique, automatique"
+    ],
+    "mentions": [
+      "Ingénierie de la santé"
+    ],
     "period": "2026-27",
-    "types": ["creation"],
+    "types": [
+      "creation"
+    ],
     "proof": "confirme",
-    "stage": "adoptee",
+    "stage": "appliquee",
     "finding": {
-      "text": "La CFVU approuve l’ouverture du parcours ISSEE le 4 novembre 2025 au sein du master Ingénierie de la santé. L’ouverture est annoncée pour la rentrée 2026.",
-      "refs": ["cfvu-avis-2025-11-04", "ut-rentree-2026", "fsi-issee"]
+      "text": "Le parcours ISSEE ouvre au sein du master Ingénierie de la santé. L’équipe de formation à l’ISAE-SUPAERO annonce le démarrage de sa première promotion à la rentrée 2026. L’Université publie ses modalités de contrôle pour le M1 et le M2.",
+      "refs": [
+        "cfvu-avis-2025-11-04",
+        "issee-annonce-premiere-cohorte",
+        "cfvu-2026-09-160",
+        "ca-2025-053",
+        "issee-premiere-promotion-cours"
+      ]
     },
     "after": {
-      "title": {"text": "Ingénierie de la santé spatiale et des environnements extrêmes", "refs": ["fsi-issee"]},
-      "tracks": {"text": "Nouveau parcours du master Ingénierie de la santé, mention de l’offre du département EEA.", "refs": ["cfvu-avis-2025-11-04", "fsi-eea-orientation"]},
-      "units": {"text": "La présentation décrit un socle portant notamment sur le signal, les capteurs, l’imagerie et la physiologie, complété par des enseignements liés aux environnements extrêmes.", "refs": ["fsi-issee"]},
-      "seats": {"text": "15 places Mon Master en 2026 (COL du parcours).", "refs": ["ca-2025-050"]},
-      "specialization": {"text": "Spécialisation en ingénierie et santé des environnements extrêmes, dont le spatial. La fiche indique un M2 en anglais avec un stage obligatoire de six mois.", "refs": ["fsi-issee"]},
-      "outcomes": {"text": "Les débouchés annoncés incluent des métiers d’ingénierie d’application et de recherche.", "refs": ["fsi-issee"]},
-      "offer": {"text": "Ouverture annoncée à la rentrée 2026, avec le consortium UNIVERSEH.", "refs": ["ut-rentree-2026"]}
+      "title": {
+        "text": "Ingénierie de la santé spatiale et des environnements extrêmes",
+        "refs": [
+          "fsi-issee"
+        ]
+      },
+      "tracks": {
+        "text": "Nouveau parcours du master Ingénierie de la santé, mention de l’offre du département EEA.",
+        "refs": [
+          "cfvu-avis-2025-11-04",
+          "fsi-eea-orientation"
+        ]
+      },
+      "units": {
+        "text": "La présentation décrit un socle portant notamment sur le signal, les capteurs, l’imagerie et la physiologie, complété par des enseignements liés aux environnements extrêmes.",
+        "refs": [
+          "fsi-issee"
+        ]
+      },
+      "seats": {
+        "text": "15 COL et 15 CAL dans les capacités Mon Master 2026. L’effectif inscrit ne figure pas dans ces données.",
+        "refs": [
+          "ca-2025-050"
+        ]
+      },
+      "specialization": {
+        "text": "Spécialisation en ingénierie et santé des environnements extrêmes, dont le spatial. La fiche indique un M2 en anglais avec un stage obligatoire de six mois.",
+        "refs": [
+          "fsi-issee"
+        ]
+      },
+      "outcomes": {
+        "text": "Les débouchés annoncés incluent des métiers d’ingénierie d’application et de recherche.",
+        "refs": [
+          "fsi-issee"
+        ]
+      },
+      "offer": {
+        "text": "Première promotion annoncée par l’équipe de formation à la rentrée 2026. ISSEE figure aussi en M1 et M2 dans l’offre départementale 2027–2031.",
+        "refs": [
+          "issee-annonce-premiere-cohorte",
+          "issee-temoignage-premiere-cohorte",
+          "cfvu-2026-95",
+          "issee-premiere-promotion-cours"
+        ]
+      }
     },
-    "nodes": [{"id": "issee-apres", "side": "after", "label": "Master Ingénierie de la santé · ISSEE", "refs": ["fsi-issee"]}],
-    "motives": [{"type": "pedagogie", "text": "La fiche inscrit cette ouverture dans l’offre interdisciplinaire d’UNIVERSEH et décrit son objectif de formation spécialisée entre ingénierie, santé et spatial.", "refs": ["fsi-issee", "ut-rentree-2026"]}],
-    "history": [
-      {"date": "2025-11-04", "text": "La CFVU approuve l’ouverture du parcours.", "refs": ["cfvu-avis-2025-11-04"]},
-      {"date": "2025-12-15", "text": "Le tableau annexé à la délibération du CA fixe 15 places Mon Master en 2026.", "refs": ["ca-2025-050"]},
-      {"date": "2026-09-11", "text": "La fiche mise à jour présente le parcours et les conditions d’admission.", "refs": ["fsi-issee"]},
-      {"date": "2026-09-29", "text": "La CFVU approuve les modalités de contrôle des connaissances et des compétences du M1 et du M2 pour 2026–2027.", "refs": ["cfvu-2026-09-160"]}
+    "nodes": [
+      {
+        "id": "issee-apres",
+        "side": "after",
+        "label": "Master Ingénierie de la santé · ISSEE",
+        "refs": [
+          "fsi-issee"
+        ]
+      }
     ],
-    "questions": ["Quels enseignements sont nouveaux ou partagés avec d’autres parcours ?", "La première cohorte est-elle attestée par un document de mise en œuvre ?"]
+    "motives": [
+      {
+        "type": "pedagogie",
+        "text": "La fiche inscrit cette ouverture dans l’offre interdisciplinaire d’UNIVERSEH et décrit son objectif de formation spécialisée entre ingénierie, santé et spatial.",
+        "refs": [
+          "fsi-issee",
+          "ut-rentree-2026"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2025-11-04",
+        "text": "La CFVU approuve l’ouverture du parcours.",
+        "refs": [
+          "cfvu-avis-2025-11-04"
+        ]
+      },
+      {
+        "date": "2025-12-15",
+        "text": "Le CA autorise l’ouverture du parcours et vote 15 places de recrutement sur Mon Master pour 2026.",
+        "refs": [
+          "ca-2025-050",
+          "ca-2025-053"
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "text": "La fiche mise à jour présente le parcours et les conditions d’admission.",
+        "refs": [
+          "fsi-issee"
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "text": "La CFVU approuve les modalités de contrôle des connaissances et des compétences du M1 et du M2 pour 2026–2027.",
+        "refs": [
+          "cfvu-2026-09-160"
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "text": "Un intervenant décrit une journée de cours auprès de la première promotion.",
+        "refs": [
+          "issee-premiere-promotion-cours"
+        ]
+      }
+    ],
+    "questions": [
+      "Combien d’étudiants ont pris leur inscription dans la première promotion ?",
+      "Quels enseignements sont nouveaux ou partagés avec d’autres parcours ?"
+    ]
   },
   {
     "id": "lpe-transition",
     "title": "Transition vers la licence Professorat des écoles",
     "short": "PPE · PPPE · LPE",
     "degree": "licence",
-    "departments": ["Biologie et Géosciences", "Mathématiques"],
-    "mentions": ["Sciences de la vie", "Sciences et Humanités", "Professorat des écoles"],
+    "departments": [
+      "Biologie et Géosciences",
+      "Mathématiques",
+      "IRES"
+    ],
+    "mentions": [
+      "Sciences de la vie",
+      "Sciences et Humanités",
+      "Professorat des écoles"
+    ],
     "period": "2026-27",
-    "types": ["transformation", "creation"],
+    "types": [
+      "transformation",
+      "creation"
+    ],
     "proof": "confirme",
     "stage": "appliquee",
     "finding": {
       "text": "La licence Professorat des écoles ouvre en L1 à la rentrée 2026. L’Université publie un calendrier transitoire pour le PPE et le PPPE. Le cadre national prévoit une passerelle pour la promotion PPPE de L1 inscrite en 2025–2026.",
-      "refs": ["ut-rentree-2026", "fsi-lpe", "arrete-cadre-lpe", "arrete-accreditation-lpe"]
+      "refs": [
+        "ut-rentree-2026",
+        "fsi-lpe",
+        "arrete-cadre-lpe",
+        "arrete-accreditation-lpe",
+        "cfvu-2026-97",
+        "ca-2026-130"
+      ]
     },
     "before": {
-      "title": {"text": "Pluridisciplinaire professorat des écoles (PPE) et Parcours préparatoire professorat des écoles (PPPE).", "refs": ["fsi-ppe", "ut-pppe"]},
-      "tracks": {"text": "PPE dans la mention Sciences de la vie (Biologie et Géosciences), PPPE dans la mention Sciences et Humanités (Mathématiques).", "refs": ["fsi-ppe", "ut-rentree-2026", "fsi-dept-biologie-geosciences", "fsi-dept-mathematiques"]},
-      "specialization": {"text": "Le PPE recrute principalement en L3 à partir du niveau L2 ou équivalent. Le PPPE est un parcours de licence préparatoire au professorat des écoles.", "refs": ["fsi-ppe", "ut-pppe"]}
+      "title": {
+        "text": "Pluridisciplinaire professorat des écoles (PPE) et Parcours préparatoire professorat des écoles (PPPE).",
+        "refs": [
+          "fsi-ppe",
+          "ut-pppe"
+        ]
+      },
+      "tracks": {
+        "text": "PPE dans la mention Sciences de la vie (Biologie et Géosciences), PPPE dans la mention Sciences et Humanités (Mathématiques).",
+        "refs": [
+          "fsi-ppe",
+          "ut-rentree-2026",
+          "fsi-dept-biologie-geosciences",
+          "fsi-dept-mathematiques"
+        ]
+      },
+      "specialization": {
+        "text": "Le PPE recrute principalement en L3 à partir du niveau L2 ou équivalent. Le PPPE est un parcours de licence préparatoire au professorat des écoles.",
+        "refs": [
+          "fsi-ppe",
+          "ut-pppe"
+        ]
+      }
     },
     "after": {
-      "title": {"text": "Licence mention Professorat des écoles (LPE).", "refs": ["fsi-lpe"]},
-      "tracks": {"text": "Le parcours PE ouvre progressivement, en L1 en 2026, en L2 en 2027 et en L3 en 2028. Le parcours Réorientation est annoncé en L3 à la rentrée 2028.", "refs": ["ut-rentree-2026", "fsi-lpe"]},
-      "units": {"text": "Le cadre national prévoit quatre blocs, dont les savoirs disciplinaires, la pédagogie et la construction du projet professionnel.", "refs": ["arrete-cadre-lpe"]},
-      "ects": {"text": "180 ECTS pour la licence selon le cadre national.", "refs": ["arrete-cadre-lpe", "fsi-lpe"]},
-      "hours": {"text": "Au moins 1 570 h d’enseignement et 10 semaines de stage selon le cadre national. La fiche indique 550 h pour la L3 du parcours Réorientation.", "refs": ["arrete-cadre-lpe", "fsi-lpe"]},
-      "seats": {"text": "72 places d’accès à la mention en capacité globale pour la rentrée 2026.", "refs": ["fsi-lpe"]},
-      "outcomes": {"text": "La fiche indique l’accès au master Enseignement et éducation, parcours Professorat des écoles, pour les personnes qui valident la licence et réussissent le CRPE.", "refs": ["fsi-lpe"]},
-      "offer": {"text": "L3 PPE accessible sur candidature jusqu’en 2027. Selon le calendrier de rentrée, L2 et L3 PPPE accessibles en 2026, puis L3 seule en 2027 avant l’arrêt définitif annoncé pour 2028.", "refs": ["ut-rentree-2026", "fsi-ppe"]}
+      "title": {
+        "text": "Licence mention Professorat des écoles (LPE).",
+        "refs": [
+          "fsi-lpe"
+        ]
+      },
+      "tracks": {
+        "text": "Le parcours PE ouvre progressivement, en L1 en 2026, en L2 en 2027 et en L3 en 2028. Le parcours Réorientation est annoncé en L3 à la rentrée 2028.",
+        "refs": [
+          "ut-rentree-2026",
+          "fsi-lpe"
+        ]
+      },
+      "units": {
+        "text": "Le cadre national prévoit quatre blocs, dont les savoirs disciplinaires, la pédagogie et la construction du projet professionnel.",
+        "refs": [
+          "arrete-cadre-lpe"
+        ]
+      },
+      "ects": {
+        "text": "180 ECTS pour la licence selon le cadre national.",
+        "refs": [
+          "arrete-cadre-lpe",
+          "fsi-lpe"
+        ]
+      },
+      "hours": {
+        "text": "Au moins 1 570 h d’enseignement et 10 semaines de stage selon le cadre national. La fiche indique 550 h pour la L3 du parcours Réorientation.",
+        "refs": [
+          "arrete-cadre-lpe",
+          "fsi-lpe"
+        ]
+      },
+      "seats": {
+        "text": "72 places d’accès à la mention en capacité globale pour la rentrée 2026.",
+        "refs": [
+          "fsi-lpe"
+        ]
+      },
+      "outcomes": {
+        "text": "La fiche indique l’accès au master Enseignement et éducation, parcours Professorat des écoles, pour les personnes qui valident la licence et réussissent le CRPE.",
+        "refs": [
+          "fsi-lpe"
+        ]
+      },
+      "offer": {
+        "text": "L3 PPE accessible sur candidature jusqu’en 2027. Le PPPE ouvre encore en L2 et L3 en 2026, puis en L3 seule en 2027. L’annexe IRES indique un portage LPE de la réorientation PPE à partir de septembre 2027. La première L3 Réorientation est annoncée pour septembre 2028.",
+        "refs": [
+          "ut-rentree-2026",
+          "fsi-ppe",
+          "cfvu-2026-97",
+          "cfvu-2026-101"
+        ]
+      }
     },
     "nodes": [
-      {"id": "pppe-avant", "side": "before", "label": "Licence Sciences et Humanités · PPPE", "refs": ["ut-pppe", "ut-rentree-2026"]},
-      {"id": "lpe-apres", "side": "after", "label": "Licence Professorat des écoles · PE", "refs": ["fsi-lpe"]}
+      {
+        "id": "pppe-avant",
+        "side": "before",
+        "label": "Licence Sciences et Humanités · PPPE",
+        "refs": [
+          "ut-pppe",
+          "ut-rentree-2026"
+        ]
+      },
+      {
+        "id": "lpe-apres",
+        "side": "after",
+        "label": "Licence Professorat des écoles · PE",
+        "refs": [
+          "fsi-lpe"
+        ]
+      }
     ],
-    "links": [{"from": "pppe-avant", "to": "lpe-apres", "type": "transformation", "refs": ["arrete-cadre-lpe", "ut-rentree-2026"]}],
-    "motives": [{"type": "reglement", "text": "La mise en place de la nouvelle mention relève du cadre national applicable à la rentrée 2026 et d’une co-accréditation incluant l’Université de Toulouse.", "refs": ["arrete-cadre-lpe", "arrete-accreditation-lpe"]}],
+    "links": [
+      {
+        "from": "pppe-avant",
+        "to": "lpe-apres",
+        "type": "transformation",
+        "refs": [
+          "arrete-cadre-lpe",
+          "ut-rentree-2026"
+        ]
+      }
+    ],
+    "motives": [
+      {
+        "type": "reglement",
+        "text": "La mise en place de la nouvelle mention relève du cadre national applicable à la rentrée 2026 et d’une co-accréditation incluant l’Université de Toulouse.",
+        "refs": [
+          "arrete-cadre-lpe",
+          "arrete-accreditation-lpe"
+        ]
+      }
+    ],
     "effects": [
-      {"text": "Les étudiants de L1 PPPE en 2025–2026 peuvent s’inscrire en deuxième année de LPE à la rentrée 2026 après validation, ou en première année en cas de non-validation, selon l’arrêté national.", "refs": ["arrete-cadre-lpe"]},
-      {"text": "Le chapeau de la fiche PPPE annonce une fin de l’offre dès 2026. Le calendrier de rentrée publié par la même université précise que des candidatures restent possibles dans les années supérieures jusqu’en 2027.", "refs": ["ut-pppe", "ut-rentree-2026"]}
+      {
+        "text": "Les étudiants de L1 PPPE en 2025–2026 peuvent s’inscrire en deuxième année de LPE à la rentrée 2026 après validation, ou en première année en cas de non-validation, selon l’arrêté national.",
+        "refs": [
+          "arrete-cadre-lpe"
+        ]
+      },
+      {
+        "text": "Le chapeau de la fiche PPPE annonce une fin de l’offre dès 2026. Le calendrier de rentrée publié par la même université précise que des candidatures restent possibles dans les années supérieures jusqu’en 2027.",
+        "refs": [
+          "ut-pppe",
+          "ut-rentree-2026"
+        ]
+      }
     ],
     "history": [
-      {"date": "2025-09-18", "text": "Publication du cadre national et des dispositions transitoires.", "refs": ["arrete-cadre-lpe"]},
-      {"date": "2026-02-18", "text": "Publication de l’arrêté d’accréditation qui inclut l’Université de Toulouse.", "refs": ["arrete-accreditation-lpe"]},
-      {"date": "2026-10-30", "text": "La fiche FSI mise à jour présente le calendrier d’ouverture et les deux parcours.", "refs": ["fsi-lpe"]}
+      {
+        "date": "2025-09-18",
+        "text": "Publication du cadre national et des dispositions transitoires.",
+        "refs": [
+          "arrete-cadre-lpe"
+        ]
+      },
+      {
+        "date": "2026-02-18",
+        "text": "Publication de l’arrêté d’accréditation qui inclut l’Université de Toulouse.",
+        "refs": [
+          "arrete-accreditation-lpe"
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "text": "La fiche FSI mise à jour présente le calendrier d’ouverture et les deux parcours.",
+        "refs": [
+          "fsi-lpe"
+        ]
+      }
     ],
-    "questions": ["Comment la passerelle nationale PPPE vers la L2 LPE a-t-elle été organisée localement en 2026, avant l’ouverture générale de la L2 annoncée pour 2027 ?", "Quels volumes et quelles UE du PPE et du PPPE se retrouvent dans la nouvelle mention ?", "Quelles sont les capacités résiduelles des L2 et L3 par parcours ?"]
+    "questions": [
+      "Comment la passerelle nationale PPPE vers la L2 LPE a-t-elle été organisée localement en 2026, avant l’ouverture générale de la L2 annoncée pour 2027 ?",
+      "Quels volumes et quelles UE du PPE et du PPPE se retrouvent dans la nouvelle mention ?",
+      "Quelles sont les capacités résiduelles des L2 et L3 par parcours ?"
+    ]
+  },
+  {
+    "id": "see-chimie",
+    "title": "Stockage électrochimique de l’énergie",
+    "short": "SEE",
+    "degree": "licence-pro",
+    "departments": [
+      "Chimie"
+    ],
+    "mentions": [
+      "Analyse, qualité et contrôle des matériaux produits"
+    ],
+    "period": "2027-31",
+    "types": [
+      "fermeture"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’annexe de Chimie indique l’arrêt de SEE et conserve Traitement et contrôle des matériaux (TCM). La note stratégique décrit une fusion de deux parcours de la mention et vise une capacité de 24 places.",
+      "refs": [
+        "cfvu-2026-93",
+        "fsi-licence-pro-see",
+        "ca-2026-130"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Stockage électrochimique de l’énergie",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      },
+      "tracks": {
+        "text": "Analyse, qualité et contrôle des matériaux produits · L3.",
+        "refs": [
+          "cfvu-2026-93",
+          "fsi-licence-pro-see",
+          "ca-2026-130"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "L’annexe de Chimie indique l’arrêt de SEE et conserve Traitement et contrôle des matériaux (TCM). La note stratégique décrit une fusion de deux parcours de la mention et vise une capacité de 24 places.",
+        "refs": [
+          "cfvu-2026-93",
+          "fsi-licence-pro-see",
+          "ca-2026-130"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "see-chimie-avant",
+        "side": "before",
+        "label": "SEE · L3",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "text": "La FSI indique une première ouverture de SEE en septembre 2024.",
+        "refs": [
+          "fsi-licence-pro-see"
+        ]
+      },
+      {
+        "text": "Les maquettes doivent permettre de déterminer quelles UE propres à SEE sont reprises dans l’offre de la mention.",
+        "refs": [
+          "cfvu-2026-93",
+          "ca-2026-130"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve l’offre départementale qui prévoit l’arrêt du parcours.",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      }
+    ],
+    "questions": [
+      "Quelle est la dernière rentrée avec recrutement et quel calendrier s’applique aux étudiants concernés ?",
+      "Quels enseignements sont repris et dans quel parcours ?"
+    ]
+  },
+  {
+    "id": "reoste",
+    "title": "Réorientation en sciences de la Terre et de l’environnement",
+    "short": "RéoSTE",
+    "degree": "licence",
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Sciences de la Terre"
+    ],
+    "period": "2027-31",
+    "types": [
+      "fermeture"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’annexe de Biologie et Géosciences indique l’arrêt de la passerelle RéoSTE en L3. Le tableau conserve la mention Sciences de la Terre et ses deux autres parcours.",
+      "refs": [
+        "cfvu-2026-101",
+        "fsi-reoste"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Réorientation en sciences de la Terre et de l’environnement",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "tracks": {
+        "text": "Sciences de la Terre · L3.",
+        "refs": [
+          "cfvu-2026-101",
+          "fsi-reoste"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "L’annexe de Biologie et Géosciences indique l’arrêt de la passerelle RéoSTE en L3. Le tableau conserve la mention Sciences de la Terre et ses deux autres parcours.",
+        "refs": [
+          "cfvu-2026-101",
+          "fsi-reoste"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "reoste-avant",
+        "side": "before",
+        "label": "RéoSTE · L3",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve l’offre départementale qui prévoit l’arrêt du parcours.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "questions": [
+      "Quelle est la dernière rentrée avec recrutement et quel calendrier s’applique aux étudiants concernés ?",
+      "Quels enseignements sont repris et dans quel parcours ?"
+    ]
+  },
+  {
+    "id": "pppe-extinction",
+    "title": "Parcours préparatoire au professorat des écoles",
+    "short": "PPPE",
+    "degree": "licence",
+    "departments": [
+      "IRES"
+    ],
+    "mentions": [
+      "Sciences et Humanités"
+    ],
+    "period": "2028-29",
+    "types": [
+      "fermeture"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’arrêt est progressif. Il commence en L1 en septembre 2026, se poursuit en L2 en septembre 2027 et s’achève en L3 en septembre 2028.",
+      "refs": [
+        "cfvu-2026-97",
+        "ut-rentree-2026"
+      ]
+    },
+    "before": {
+      "title": {
+        "text": "Parcours préparatoire au professorat des écoles",
+        "refs": [
+          "cfvu-2026-97"
+        ]
+      },
+      "tracks": {
+        "text": "Sciences et Humanités · L1, L2 et L3.",
+        "refs": [
+          "cfvu-2026-97",
+          "ut-rentree-2026"
+        ]
+      }
+    },
+    "after": {
+      "offer": {
+        "text": "L’arrêt est progressif. Il commence en L1 en septembre 2026, se poursuit en L2 en septembre 2027 et s’achève en L3 en septembre 2028.",
+        "refs": [
+          "cfvu-2026-97",
+          "ut-rentree-2026"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "pppe-extinction-avant",
+        "side": "before",
+        "label": "PPPE · L1, L2 et L3",
+        "refs": [
+          "cfvu-2026-97"
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "text": "La page de rentrée annonce encore des candidatures PPPE en L2 et L3 en 2026, puis en L3 seule en 2027.",
+        "refs": [
+          "ut-rentree-2026"
+        ]
+      },
+      {
+        "text": "La licence Professorat des écoles arrive progressivement. L’arrêté national prévoit une passerelle particulière pour la cohorte de L1 PPPE inscrite en 2025–2026.",
+        "refs": [
+          "arrete-cadre-lpe",
+          "ut-rentree-2026"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve l’offre départementale qui prévoit l’arrêt du parcours.",
+        "refs": [
+          "cfvu-2026-97"
+        ]
+      }
+    ],
+    "questions": [
+      "Comment la passerelle a-t-elle été mise en œuvre localement pour les étudiants qui ont validé la L1 2025–2026 ?",
+      "Combien de places restent réellement ouvertes aux dernières candidatures en L3 ?"
+    ]
+  },
+  {
+    "id": "bionum",
+    "title": "Biologie numérique",
+    "short": "BioNum",
+    "degree": "licence",
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Sciences de la vie"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit Biologie numérique (L1 à L3) dans la mention Sciences de la vie. Le département annonce un parcours sélectif.",
+      "refs": [
+        "cfvu-2026-101"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Biologie numérique",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "tracks": {
+        "text": "Sciences de la vie · L1 à L3.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "offer": {
+        "text": "Le département annonce un parcours sélectif.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "bionum-apres",
+        "side": "after",
+        "label": "BioNum · L1 à L3",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ]
+  },
+  {
+    "id": "ipeps",
+    "title": "Ingénierie et physique de l’énergie, de la planète et du spatial",
+    "short": "iPEPS",
+    "degree": "licence",
+    "departments": [
+      "Physique"
+    ],
+    "mentions": [
+      "Physique"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit Ingénierie et physique de l’énergie, de la planète et du spatial (L1 à L3) dans la mention Physique.",
+      "refs": [
+        "cfvu-2026-100"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Ingénierie et physique de l’énergie, de la planète et du spatial",
+        "refs": [
+          "cfvu-2026-100"
+        ]
+      },
+      "tracks": {
+        "text": "Physique · L1 à L3.",
+        "refs": [
+          "cfvu-2026-100"
+        ]
+      },
+      "offer": {
+        "text": "Parcours inscrit dans l’offre 2027–2031. La date de premier recrutement reste à documenter.",
+        "refs": [
+          "cfvu-2026-100"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "ipeps-apres",
+        "side": "after",
+        "label": "iPEPS · L1 à L3",
+        "refs": [
+          "cfvu-2026-100"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-100"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ]
+  },
+  {
+    "id": "scypi",
+    "title": "Systèmes cyber-physiques industriels",
+    "short": "SCyPI",
+    "degree": "master",
+    "departments": [
+      "Électronique, énergie électrique, automatique"
+    ],
+    "mentions": [
+      "Électronique, énergie électrique, automatique"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit Systèmes cyber-physiques industriels (M1 et M2) dans la mention Électronique, énergie électrique, automatique. La Région Occitanie prévoit une ouverture en 2027.",
+      "refs": [
+        "cfvu-2026-95",
+        "region-occitanie-scypi"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Systèmes cyber-physiques industriels",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      },
+      "tracks": {
+        "text": "Électronique, énergie électrique, automatique · M1 et M2.",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      },
+      "offer": {
+        "text": "La Région Occitanie prévoit une ouverture en 2027.",
+        "refs": [
+          "cfvu-2026-95",
+          "region-occitanie-scypi"
+        ]
+      },
+      "seats": {
+        "text": "La Région annonce un projet dimensionné pour 36 étudiants. Les colonnes de capacité qui seront votées pour Mon Master restent à vérifier.",
+        "refs": [
+          "region-occitanie-scypi"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "scypi-apres",
+        "side": "after",
+        "label": "SCyPI · M1 et M2",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "text": "La Région indique plus de 70 000 € de soutien pour ce projet.",
+        "refs": [
+          "region-occitanie-scypi"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ],
+    "motives": [
+      {
+        "type": "debouches",
+        "text": "Selon la Région, le projet répond à l’évolution des métiers de l’industrie en combinant compétences industrielles, intelligence artificielle et cybersécurité.",
+        "refs": [
+          "region-occitanie-scypi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hvgt",
+    "title": "High Voltage Green Transport",
+    "short": "HVGT",
+    "degree": "master",
+    "departments": [
+      "Électronique, énergie électrique, automatique"
+    ],
+    "mentions": [
+      "Électronique, énergie électrique, automatique"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit High Voltage Green Transport (M2 uniquement) dans la mention Électronique, énergie électrique, automatique. EA²GLE Graduate School prévoit une ouverture en septembre 2027.",
+      "refs": [
+        "cfvu-2026-95",
+        "eagle-annonce-hvgt"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "High Voltage Green Transport",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      },
+      "tracks": {
+        "text": "Électronique, énergie électrique, automatique · M2 uniquement.",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      },
+      "offer": {
+        "text": "EA²GLE Graduate School prévoit une ouverture en septembre 2027.",
+        "refs": [
+          "cfvu-2026-95",
+          "eagle-annonce-hvgt"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "hvgt-apres",
+        "side": "after",
+        "label": "HVGT · M2 uniquement",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ]
+  },
+  {
+    "id": "prepa-professionnalisation-chimie",
+    "title": "Préparation à la professionnalisation",
+    "short": "Prépa professionnalisation",
+    "degree": "licence",
+    "departments": [
+      "Chimie"
+    ],
+    "mentions": [
+      "Chimie"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit Préparation à la professionnalisation (S2 de L1 à L2) dans la mention Chimie. L’annexe conseille une poursuite d’études en L3 de licence professionnelle.",
+      "refs": [
+        "cfvu-2026-93"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Préparation à la professionnalisation",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      },
+      "tracks": {
+        "text": "Chimie · S2 de L1 à L2.",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      },
+      "offer": {
+        "text": "L’annexe conseille une poursuite d’études en L3 de licence professionnelle.",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "prepa-professionnalisation-chimie-apres",
+        "side": "after",
+        "label": "Prépa professionnalisation · S2 de L1 à L2",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-93"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ]
+  },
+  {
+    "id": "agreenov",
+    "title": "Agroécologie et biosolutions innovantes pour les productions végétales",
+    "short": "AGREENOV",
+    "degree": "master",
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Biologie végétale"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit Agroécologie et biosolutions innovantes pour les productions végétales (M1 et M2) dans la mention Biologie végétale.",
+      "refs": [
+        "cfvu-2026-101"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Agroécologie et biosolutions innovantes pour les productions végétales",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "tracks": {
+        "text": "Biologie végétale · M1 et M2.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "offer": {
+        "text": "Parcours inscrit dans l’offre 2027–2031. La date de premier recrutement reste à documenter.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "agreenov-apres",
+        "side": "after",
+        "label": "AGREENOV · M1 et M2",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ]
+  },
+  {
+    "id": "isbio",
+    "title": "Ingénierie des systèmes biologiques",
+    "short": "ISBio",
+    "degree": "master",
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Biotechnologies"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit Ingénierie des systèmes biologiques (M1 et M2) dans la mention Biotechnologies.",
+      "refs": [
+        "cfvu-2026-101"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Ingénierie des systèmes biologiques",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "tracks": {
+        "text": "Biotechnologies · M1 et M2.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "offer": {
+        "text": "Parcours inscrit dans l’offre 2027–2031. La date de premier recrutement reste à documenter.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "isbio-apres",
+        "side": "after",
+        "label": "ISBio · M1 et M2",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "effects": [
+      {
+        "text": "Le même tableau présente l’arrêt d’EGPR. La correspondance entre les UE ou les parcours reste à établir.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ]
+  },
+  {
+    "id": "geema",
+    "title": "Gestion de l’eau et des milieux aquatiques",
+    "short": "GEEMA",
+    "degree": "licence-pro",
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Métiers de la protection et de la gestion de l’environnement"
+    ],
+    "period": "2027-31",
+    "types": [
+      "creation"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’offre 2027–2031 approuvée par la CFVU inscrit Gestion de l’eau et des milieux aquatiques (L3) dans la mention Métiers de la protection et de la gestion de l’environnement. La demande est soumise à accréditation. L’annexe de mai indiquait une réponse de la DGESIP en attente.",
+      "refs": [
+        "cfvu-2026-101",
+        "ca-2026-102",
+        "cfvu-2026-17-mars",
+        "ca-2026-130"
+      ]
+    },
+    "after": {
+      "title": {
+        "text": "Gestion de l’eau et des milieux aquatiques",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "tracks": {
+        "text": "Métiers de la protection et de la gestion de l’environnement · L3.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "offer": {
+        "text": "La demande est soumise à accréditation. L’annexe de mai indiquait une réponse de la DGESIP en attente.",
+        "refs": [
+          "cfvu-2026-101",
+          "ca-2026-102",
+          "cfvu-2026-17-mars",
+          "ca-2026-130"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "geema-apres",
+        "side": "after",
+        "label": "GEEMA · L3",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "La CFVU approuve le tableau départemental qui inscrit le nouveau parcours.",
+        "refs": [
+          "cfvu-2026-101",
+          "cfvu-2026-17-mars"
+        ]
+      }
+    ],
+    "questions": [
+      "Quand ouvriront les candidatures et quelles capacités seront votées ?",
+      "Quelles UE, volumes et conditions d’admission figurent dans la maquette finale ?"
+    ]
+  },
+  {
+    "id": "vieillissement-care",
+    "title": "CARE et VESG → Vieillissement/CARe",
+    "short": "CARE + VESG",
+    "degree": "master",
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Biologie-Santé"
+    ],
+    "period": "2027-31",
+    "types": [
+      "fusion"
+    ],
+    "proof": "confirme",
+    "stage": "adoptee",
+    "finding": {
+      "text": "L’annexe de Biologie et Géosciences prévoit la fusion des M1 et M2 CARE et VESG en un parcours Vieillissement/CARe.",
+      "refs": [
+        "cfvu-2026-101"
+      ]
+    },
+    "before": {
+      "tracks": {
+        "text": "Deux parcours distincts en Biologie-Santé, CARE (Toulouse graduate school of cancer, ageing and rejuvenation) et VESG (Vieillissement en santé et géroscience).",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    },
+    "after": {
+      "title": {
+        "text": "Vieillissement/CARe",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      "tracks": {
+        "text": "Un parcours dans la mention Biologie-Santé, en M1 et M2.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "care-avant",
+        "side": "before",
+        "label": "CARE · M1 et M2",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      {
+        "id": "vesg-avant",
+        "side": "before",
+        "label": "VESG · M1 et M2",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      {
+        "id": "vieillissement-care-apres",
+        "side": "after",
+        "label": "Vieillissement/CARe · M1 et M2",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "from": "care-avant",
+        "to": "vieillissement-care-apres",
+        "type": "fusion",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      },
+      {
+        "from": "vesg-avant",
+        "to": "vieillissement-care-apres",
+        "type": "fusion",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "Le tableau approuvé mentionne la fusion des deux parcours.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "questions": [
+      "Quels crédits, enseignements et capacités résultent de la fusion ?",
+      "Quel calendrier de transition a été validé ?"
+    ]
+  },
+  {
+    "id": "csils-iaanbs",
+    "title": "Complex Systems in Life Sciences · évolution entre deux mentions",
+    "short": "CSILS → IAANBS",
+    "degree": "master",
+    "departments": [
+      "Biologie et Géosciences"
+    ],
+    "mentions": [
+      "Biologie moléculaire et cellulaire",
+      "Biologie-Santé"
+    ],
+    "period": "2027-31",
+    "types": [
+      "renommage"
+    ],
+    "proof": "partiel",
+    "stage": "adoptee",
+    "finding": {
+      "text": "Le tableau annonce l’arrêt de CSILS en Biologie moléculaire et cellulaire. Dans l’autre mention, Biologie-Santé, la ligne correspondante porte un nouvel intitulé, Intelligence artificielle et approches numériques en biologie et santé (IAANBS).",
+      "refs": [
+        "cfvu-2026-101",
+        "fsi-bmc-csils",
+        "fsi-bs-csils"
+      ]
+    },
+    "before": {
+      "tracks": {
+        "text": "Le catalogue donne les deux rattachements en Biologie-Santé et en Biologie moléculaire et cellulaire.",
+        "refs": [
+          "fsi-bmc-csils",
+          "fsi-bs-csils"
+        ]
+      }
+    },
+    "after": {
+      "tracks": {
+        "text": "IAANBS figure en M1 et M2 dans Biologie-Santé. Le tableau retire CSILS de la mention Biologie moléculaire et cellulaire.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "csils-avant",
+        "side": "before",
+        "label": "CSILS · Biologie-Santé",
+        "refs": [
+          "cfvu-2026-101",
+          "fsi-bmc-csils",
+          "fsi-bs-csils"
+        ]
+      },
+      {
+        "id": "iaanbs-apres",
+        "side": "after",
+        "label": "IAANBS · Biologie-Santé",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "from": "csils-avant",
+        "to": "iaanbs-apres",
+        "type": "renommage",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "L’annexe approuvée indique l’arrêt dans une mention et un changement d’intitulé dans l’autre.",
+        "refs": [
+          "cfvu-2026-101"
+        ]
+      }
+    ],
+    "questions": [
+      "Quelles UE de CSILS sont reconduites dans IAANBS ?",
+      "Le changement de rattachement modifie-t-il les admissions ou le parcours des cohortes en cours ?"
+    ]
+  },
+  {
+    "id": "green-air-m1",
+    "title": "GREEN-AIR · périmètre du M1 et du M2",
+    "short": "GREEN-AIR · M1",
+    "degree": "master",
+    "departments": [
+      "Électronique, énergie électrique, automatique"
+    ],
+    "mentions": [
+      "Énergie"
+    ],
+    "period": "2027-31",
+    "types": [],
+    "proof": "partiel",
+    "stage": "adoptee",
+    "finding": {
+      "text": "La fiche publique présente le parcours GREEN-AIR en M1 et M2. Le tableau EEA pour 2027–2031 ne l’inscrit qu’en M2. Le sort du recrutement direct en M1 reste à vérifier auprès des établissements coaccrédités.",
+      "refs": [
+        "cfvu-2026-95",
+        "ut-green-air"
+      ]
+    },
+    "before": {
+      "tracks": {
+        "text": "Le catalogue présente le parcours dans la mention Énergie et décrit les modalités des deux années.",
+        "refs": [
+          "ut-green-air"
+        ]
+      }
+    },
+    "after": {
+      "tracks": {
+        "text": "Le tableau départemental le liste uniquement au niveau M2.",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      }
+    },
+    "nodes": [
+      {
+        "id": "green-air-apres",
+        "side": "after",
+        "label": "GREEN-AIR · M2",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-05-26",
+        "text": "Le tableau EEA approuvé inscrit GREEN-AIR en M2 dans la mention Énergie.",
+        "refs": [
+          "cfvu-2026-95"
+        ]
+      }
+    ],
+    "questions": [
+      "Quel M1 ouvrira l’accès à ce parcours et comment évoluera le recrutement dans les établissements partenaires ?"
+    ]
   }
 ]

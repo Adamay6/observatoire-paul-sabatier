@@ -27,7 +27,7 @@ test('chaque dossier multidépartemental compte une seule fois et reste filtrabl
 test('la comparaison peut isoler une période, un diplôme et les décisions appliquées', () => {
   const subset = cases('ima', 'cosya', 'issee', 'master-immunologie', 'pmv-mecanique');
   const filtered = buildBalance(subset, { period: '2026-27', degree: 'master', stage: 'appliquee' }, 'degree');
-  assert.deepEqual(filtered.totals, { fermeture: 1, creation: 0 });
+  assert.deepEqual(filtered.totals, { fermeture: 1, creation: 1 });
   assert.equal(filtered.rows[0].label, 'Master');
   assert.deepEqual(buildBalance(subset, { period: '2027-31', stage: 'appliquee' }), {
     rows: [], totals: { fermeture: 0, creation: 0 }, max: 0,

@@ -72,8 +72,8 @@
     "date": "2026-04-13",
     "consulted": "2026-11-22",
     "url": "https://www.utoulouse.fr/medias/fichier/2026-04-ca-101_1776781387171-pdf",
-    "locator": "Délibération 2026/04/CA-101 du 13 avril 2026. Annexe, introduction p. 1–2 et § 8 « Coût des formations – soutenabilité financière », p. 12 et suivantes",
-    "note": "Le cadrage fixe des objectifs de cohérence et de soutenabilité, une rationalisation par composante et des économies attendues à l’échelle de l’établissement. Ce passage ne motive pas de fermeture individuelle."
+    "locator": "p. 11, 15–16 du PDF, sections 5 et 8 de la lettre",
+    "note": "Le cadrage cible une baisse d’environ 30 % des parcours dans les mentions à grand nombre de parcours et/ou à faibles effectifs. Il prévoit des économies d’échelle, le seuil de moins de 10 et un objectif plancher de 18 en l’absence de fusion ou de mutualisation."
   },
   {
     "id": "ca-2026-104",
@@ -144,14 +144,13 @@
     "id": "ca-2026-130",
     "title": "130 - Note stratégique de l’offre de formation globale 2027-2031.",
     "publisher": "Université de Toulouse · Conseil d’administration",
-    "kind": "institution",
+    "kind": "decision",
     "date": "2026-07-06",
     "updated": "2026-07-21",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/130-note-strategique-de-loffre-de-formation-globale-2027-2031",
-    "locator": "Notice de la décision 130 et lien « 2026 07 CA 130.pdf »",
-    "note": "La notice publiée le 21 juillet donne le titre de la note stratégique et renvoie à une pièce de 882 Ko.",
-    "access": "Notice consultée. Le PDF lié n’a pas pu être ouvert lors de la vérification."
+    "url": "https://www.utoulouse.fr/medias/fichier/2026-07-ca-130_1784639819260",
+    "locator": "p. 1 et 3–5 du PDF, sections FSI pour les licences, licences professionnelles et masters",
+    "note": "Le CA approuve la note stratégique le 6 juillet. Elle présente les arbitrages par cycle, la soutenabilité et les réorganisations à l’échelle de la FSI."
   },
   {
     "id": "cfvu-2026-index",
@@ -171,9 +170,9 @@
     "kind": "decision",
     "date": "2026-05-26",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/93-approbation-de-loffre-de-formation-du-departement-de-chimie-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031",
-    "locator": "Séance du 26 mai 2026, délibération 2026/05/CFVU-93",
-    "note": "Notice accessible et annexe numérisée sans texte extrait lors de la consultation."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-93-approbation-de-l-offre-de-formation-du-departement-de-chimie-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601437282-pdf",
+    "locator": "p. 2–3 du PDF (p. 4–5 imprimées)",
+    "note": "Comparaison des licences et masters. Arrêts du parcours SEE et, dès septembre 2026, d’ICSI, ouvertures et changements d’intitulé."
   },
   {
     "id": "cfvu-2026-94",
@@ -182,9 +181,9 @@
     "kind": "decision",
     "date": "2026-05-26",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/94-approbation-de-loffre-de-formation-du-departement-de-gestion-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031",
-    "locator": "Séance du 26 mai 2026, délibération 2026/05/CFVU-94",
-    "note": "Notice accessible et annexe numérisée sans texte extrait lors de la consultation."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-94-approbation-de-l-offre-de-formation-du-departement-de-gestion-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601471439-pdf",
+    "locator": "p. 2 du PDF (p. 6 imprimée)",
+    "note": "Projection de mai 2026 avec la L3 MIASHS Ingénierie des organisations. Les quatre parcours de MSI sont listés sous Management en M1 et M2."
   },
   {
     "id": "cfvu-2026-95",
@@ -193,9 +192,9 @@
     "kind": "decision",
     "date": "2026-05-26",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/95-approbation-de-loffre-de-formation-du-departement-electronique-energie-electrique-automatique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031",
-    "locator": "Séance du 26 mai 2026, délibération 2026/05/CFVU-95",
-    "note": "Notice accessible et annexe numérisée sans texte extrait lors de la consultation."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-95-approbation-de-l-offre-de-formation-du-departement-electronique-energie-electrique-automatique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601505419-pdf",
+    "locator": "p. 2–3 du PDF (p. 7–8 imprimées)",
+    "note": "Maintien de la L3 EEA-ISS. Nouveaux parcours SCyPI en M1 et M2, HVGT en M2. Le tableau conserve ISSEE."
   },
   {
     "id": "cfvu-2026-96",
@@ -204,9 +203,9 @@
     "kind": "decision",
     "date": "2026-05-26",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/96-approbation-de-loffre-de-formation-du-departement-dinformatique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031",
-    "locator": "Séance du 26 mai 2026, délibération 2026/05/CFVU-96",
-    "note": "L’instance approuve l’offre départementale pour 2027–2031. La notice et le lien PDF répondent, le contenu des tableaux n’a pas pu être contrôlé."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-96-approbation-de-l-offre-de-formation-du-departement-d-informatique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601538501-pdf",
+    "locator": "p. 2–3 du PDF (p. 9–10 imprimées)",
+    "note": "Le tableau de master inscrit l’arrêt de CSA, IMA et RO dès septembre 2026 et liste cinq parcours pour 2027–2031, dont SECIL sous un nouvel intitulé."
   },
   {
     "id": "cfvu-2026-98",
@@ -215,9 +214,9 @@
     "kind": "decision",
     "date": "2026-05-26",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/98-approbation-de-loffre-de-formation-du-departement-de-mathematiques-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031",
-    "locator": "Séance du 26 mai 2026, délibération 2026/05/CFVU-98",
-    "note": "Notice accessible et annexe numérisée sans texte extrait lors de la consultation."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-98-approbation-de-l-offre-de-formation-du-departement-de-mathematiques-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601719794-pdf",
+    "locator": "p. 2 du PDF (p. 12 imprimée)",
+    "note": "Le tableau inscrit l’arrêt d’IMA et de RO dès septembre 2026 dans la mention Mathématiques et applications."
   },
   {
     "id": "cfvu-2026-99",
@@ -227,8 +226,8 @@
     "date": "2026-05-26",
     "consulted": "2026-11-22",
     "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-99-approbation-de-l-offre-de-formation-du-departement-de-mecanique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601755903-pdf",
-    "locator": "Page de décision et annexe « 4.b. FRESO », p. 13 (licences) et p. 14 (masters) de la pagination imprimée",
-    "note": "L’instance approuve l’offre départementale. L’annexe compare les accréditations 2022–2025 et 2027–2031 et signale les arrêts de Méca-ISS et PMV en mention Mécanique ainsi qu’un changement d’intitulé en Génie civil."
+    "locator": "p. 2–3 du PDF (p. 13–14 imprimées)",
+    "note": "Arrêt de la licence Méca-ISS, changement GH vers PEBCO, arrêt en M1 et M2 de PMV dans la mention Mécanique."
   },
   {
     "id": "cfvu-2026-100",
@@ -237,9 +236,9 @@
     "kind": "decision",
     "date": "2026-05-26",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/100-approbation-de-loffre-de-formation-du-departement-de-physique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031",
-    "locator": "Séance du 26 mai 2026, délibération 2026/05/CFVU-100",
-    "note": "Notice accessible et annexe numérisée sans texte extrait lors de la consultation."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-100-approbation-de-l-offre-de-formation-du-departement-de-physique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601824231-pdf",
+    "locator": "p. 2–3 du PDF (p. 15–16 imprimées)",
+    "note": "Création d’iPEPS en licence et arrêt en M1 et M2 de PMV dans la mention Physique fondamentale et applications."
   },
   {
     "id": "cfvu-2026-101",
@@ -248,9 +247,9 @@
     "kind": "decision",
     "date": "2026-05-26",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/101-approbation-de-loffre-de-formation-du-departement-de-biologie-et-geosciences-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031",
-    "locator": "Séance du 26 mai 2026, délibération 2026/05/CFVU-101",
-    "note": "Notice accessible et annexe numérisée sans texte extrait lors de la consultation."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-101-approbation-de-l-offre-de-formation-du-departement-de-biologie-et-geosciences-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601860670-pdf",
+    "locator": "p. 2–6 du PDF (p. 17–21 imprimées)",
+    "note": "Licences, licences professionnelles et masters. Annexe du vote départemental avec ouvertures, arrêts, fusions et changements de rattachement."
   },
   {
     "id": "fsi-fiche-meca-iss",
@@ -351,5 +350,49 @@
     "url": "https://www.enseignementsup-recherche.gouv.fr/fr/bo/2026/Special2/ESRS2621415A",
     "locator": "Arrêté du 17 avril 2026, article 1 et annexe Liste des diplômes",
     "note": "L’annexe vise uniquement le DEUST Animation et gestion des activités physiques, sportives ou culturelles, pour 2026–2027."
+  },
+  {
+    "id": "cfvu-2026-69",
+    "title": "Offre de premier et deuxième cycles de la FSI · Délibération et annexe pour 2027–2031",
+    "publisher": "Université de Toulouse · CFVU",
+    "kind": "decision",
+    "date": "2026-05-12",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-12-69-approbation-de-la-liste-des-mentions-de-licence-licence-professionnelle-et-master-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1780475354685-pdf",
+    "locator": "p. 1–2 du PDF",
+    "note": "La décision approuve la liste des mentions 2027–2031. La diapositive de synthèse porte le titre 2026–2027."
+  },
+  {
+    "id": "cfvu-2026-97",
+    "title": "IRES · Délibération et annexe pour 2027–2031",
+    "publisher": "Université de Toulouse · CFVU",
+    "kind": "decision",
+    "date": "2026-05-26",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-97-approbation-de-l-offre-de-formation-du-departement-ires-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601687170-pdf",
+    "locator": "p. 2 du PDF (p. 11 imprimée)",
+    "note": "Arrêt progressif du PPPE en L1 en 2026, en L2 en 2027 et en L3 en 2028. L’annexe indique un portage LPE de la réorientation PPE à partir de septembre 2027."
+  },
+  {
+    "id": "ca-2026-10-002",
+    "title": "Budget rectificatif n° 2 de l’Université de Toulouse, exercice 2026",
+    "publisher": "Université de Toulouse · Conseil d’administration",
+    "kind": "decision",
+    "date": "2026-10-05",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/2026-10-ca-002_1792412397817",
+    "locator": "Délibération et tableaux budgétaires joints",
+    "note": "Les tableaux présentent des agrégats institutionnels et interannuels. Aucun chiffrage de fermeture ou d’ouverture de parcours n’a été identifié dans ces tableaux."
+  },
+  {
+    "id": "fsi-syllabus-m2-pmv-2026",
+    "title": "Syllabus 2026–2027 · M2 Physique et mécanique du vivant",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "annexe",
+    "date": "2026-11-20",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/syllabus/2627_SYL_M2_MEC_PFA-PMV.pdf",
+    "locator": "Couverture 2026–2027 et tableau des enseignements",
+    "note": "Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées."
   }
 ]

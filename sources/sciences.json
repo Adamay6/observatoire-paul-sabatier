@@ -96,8 +96,8 @@
     "date": "2025-11-04",
     "consulted": "2026-11-22",
     "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2025-11-04-147-approbation-de-l-ouverture-du-diplome-d-universite-uniteid-maladies-infectieuses-emergentes-doc_1763980772871-pdf",
-    "locator": "Délibération 2025/11/CFVU–147, dispositif, première page",
-    "note": "La CFVU approuve l’ouverture du DU UNITEID le 4 novembre 2025."
+    "locator": "p. 1–2 et 6–8 du PDF, vote, calendrier, recrutement, capacité et volume",
+    "note": "Vote le 4 novembre 2025. L’annexe prévoit l’ouverture de la partie M1 en 2025–2026 et le début des cours en janvier 2026, avec 10 stagiaires au minimum et 30 au maximum."
   },
   {
     "id": "cfvu-avis-2025-11-04",
@@ -129,9 +129,9 @@
     "kind": "decision",
     "date": "2026-09-29",
     "consulted": "2026-11-22",
-    "url": "https://www.utoulouse.fr/conseils/160-approbation-des-m3c-2026-2027-des-masters-1-et-2-parcours-issee-mention-master-ingenierie-de-la-sante-avec-passage-des-regles-r11-en-r12",
-    "locator": "Notice de la délibération 2026/09/CFVU-160, publiée le 19 octobre 2026",
-    "note": "La notice officielle enregistre l’approbation des modalités de contrôle des connaissances et des compétences des deux années d’ISSEE en 2026–2027."
+    "url": "https://www.utoulouse.fr/medias/fichier/cfvu-2026-09-29-160-approbation-des-m3c-2026-2027-des-masters-1-et-2-parcours-issee-mention-master-ingenierie-de-la-sante-avec-passage-des-regles-r11-en-r12-doc_1792414832885",
+    "locator": "p. 1–5 du PDF, délibération et tableaux M3C du M1 et du M2",
+    "note": "La délibération approuve les modalités de contrôle des connaissances et des compétences des deux années pour 2026–2027. Les tableaux annexés détaillent la maquette utilisée pour le contrôle."
   },
   {
     "id": "fsi-eea-orientation",
@@ -241,5 +241,171 @@
     "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053499394",
     "locator": "Article 1 et annexe, ligne Occitanie / Toulouse",
     "note": "L’annexe de l’arrêté initial identifie l’Université de Toulouse comme établissement co-accrédité pour la licence à partir de 2026–2027."
+  },
+  {
+    "id": "fsi-syllabus-m2-egpr-2026",
+    "title": "Syllabus 2026–2027 · M2 Expression génique et protéines recombinantes",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "annexe",
+    "date": "2026-11-22",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_BT-EGPR.pdf",
+    "locator": "Couverture 2026–2027 et tableau des enseignements",
+    "note": "Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées."
+  },
+  {
+    "id": "fsi-syllabus-m2-icsi-2026",
+    "title": "Syllabus 2026–2027 · M2 International Chimie aux Surfaces et Interfaces",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "annexe",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_CHI_ICSI.pdf",
+    "locator": "Couverture 2026–2027 et tableau des enseignements",
+    "note": "Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées.",
+    "date": "2026-11-21"
+  },
+  {
+    "id": "udem-option-icsi",
+    "title": "Maîtrise en chimie · règlement des études, option internationale",
+    "publisher": "Université de Montréal",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://admission.umontreal.ca/programmes/maitrise-en-chimie/reglements/",
+    "locator": "Option Chimie aux surfaces et interfaces",
+    "note": "Le règlement de la maîtrise présente toujours l’option. Le statut des inscriptions et des mobilités 2026–2027 ne figure pas dans la fiche."
+  },
+  {
+    "id": "issee-annonce-premiere-cohorte",
+    "title": "ISAE-SUPAERO · annonce de la première promotion du master de santé spatiale",
+    "publisher": "Équipe du programme de santé spatiale · ISAE-SUPAERO",
+    "kind": "institution",
+    "consulted": "2026-11-22",
+    "url": "https://www.linkedin.com/posts/space-health-engineering_its-official-our-first-cohort-has-just-activity-7503519372271939584-sfSB",
+    "locator": "Publication publique de rentrée du programme",
+    "note": "L’équipe annonce le démarrage de sa première promotion. Le nombre d’inscrits n’est pas communiqué."
+  },
+  {
+    "id": "issee-temoignage-premiere-cohorte",
+    "title": "Démarrage de la formation de santé spatiale · publication de Vsevolod Peysakhovich",
+    "publisher": "Vsevolod Peysakhovich · ISAE-SUPAERO",
+    "kind": "institution",
+    "consulted": "2026-11-22",
+    "url": "https://www.linkedin.com/posts/peysakhovich_opening-an-engineering-school-towards-the-activity-7503525714269253632-GKvw",
+    "locator": "Reprise publique de l’annonce de la première promotion",
+    "note": "Un enseignant de l’ISAE-SUPAERO relaie le démarrage de la première promotion. Cette reprise ne fournit pas de décompte des inscriptions."
+  },
+  {
+    "id": "fsi-licence-pro-see",
+    "title": "Licence professionnelle Stockage électrochimique de l’énergie · présentation",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/l3-pro-stockage-electrochimique-de-lenergie-see",
+    "locator": "En-tête et présentation",
+    "note": "La FSI présente le parcours de L3, ouvert en septembre 2024, et détaille ses objectifs."
+  },
+  {
+    "id": "fsi-reoste",
+    "title": "Parcours Réorientation en Sciences de la Terre et de l’Environnement",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/parcours-reorientation-en-sciences-de-la-terre-et-de-l-environnement",
+    "locator": "Présentation de la L3",
+    "note": "Le parcours est présenté comme une passerelle en L3 Sciences de la Terre pour les titulaires d’un bac+2 scientifique."
+  },
+  {
+    "id": "region-occitanie-scypi",
+    "title": "Soutien régional à onze projets d’enseignement supérieur · SCyPI",
+    "publisher": "Région Occitanie",
+    "kind": "institution",
+    "date": "2026-09-18",
+    "consulted": "2026-11-22",
+    "url": "https://www.laregion.fr/Commission-Permanente-La-Region-Occitanie-investit-pres-de-800-000EUR-pour-les",
+    "locator": "Communiqué du 18 septembre, paragraphe SCyPI",
+    "note": "La Région annonce plus de 70 000 € de soutien au parcours SCyPI et une ouverture prévue en 2027 pour 36 étudiants."
+  },
+  {
+    "id": "eagle-annonce-hvgt",
+    "title": "Masters en anglais · rentrée annoncée pour High Voltage Green Transport",
+    "publisher": "EA²GLE Graduate School",
+    "kind": "institution",
+    "consulted": "2026-11-22",
+    "url": "https://eagle-graduateschool.com/training/master-and-master-of-science-diplomas-english/",
+    "locator": "Liste des formations, entrée English Master EEA HVGT",
+    "note": "L’école affiche une ouverture prévue en septembre 2027."
+  },
+  {
+    "id": "ca-2026-102",
+    "title": "Licence professionnelle Métiers de la protection et de la gestion de l’environnement soumise à accréditation",
+    "publisher": "Université de Toulouse · Conseil d’administration",
+    "kind": "decision",
+    "date": "2026-04-13",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/2026-04-ca-102_1776781434772-pdf",
+    "locator": "Dispositif signé du 13 avril 2026",
+    "note": "Le CA approuve à l’unanimité des suffrages exprimés la demande d’accréditation 2027–2031 pour la mention de licence professionnelle."
+  },
+  {
+    "id": "ut-green-air",
+    "title": "Master parcours GREEN-AIR",
+    "publisher": "Université de Toulouse",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/decouvrir-nos-diplomes/master-parcours-gestion-des-ressources-energetiques-efficacite-energetique-autoconsommation-intelligente-en-reseaux-green-air",
+    "locator": "Présentation et admission en M1 et M2",
+    "note": "La fiche du parcours existant présente l’admission et les contenus des deux années."
+  },
+  {
+    "id": "fsi-bmc-csils",
+    "title": "Master Biologie moléculaire et cellulaire · offre de parcours",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/biologie-moleculaire-et-cellulaire",
+    "locator": "Liste des parcours",
+    "note": "Complex Systems in Life Sciences figure dans l’offre de la mention."
+  },
+  {
+    "id": "fsi-bs-csils",
+    "title": "Master Biologie-Santé · offre de parcours",
+    "publisher": "Université de Toulouse · Faculté sciences et ingénierie",
+    "kind": "fiche",
+    "consulted": "2026-11-22",
+    "url": "https://fsi.utoulouse.fr/master-bs",
+    "locator": "Liste des parcours",
+    "note": "Complex Systems in Life Sciences figure également dans l’offre de cette mention."
+  },
+  {
+    "id": "ca-2025-053",
+    "title": "Ouverture du parcours de santé spatiale et environnements extrêmes",
+    "publisher": "Université de Toulouse · Conseil d’administration",
+    "kind": "decision",
+    "date": "2025-12-15",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/2025-12-ca-053_1766137779192-pdf",
+    "locator": "Dispositif signé du 15 décembre 2025",
+    "note": "Le CA autorise l’ouverture dans le master Ingénierie de la santé. Le dispositif emploie le sigle I2S2E."
+  },
+  {
+    "id": "ca-2025-054",
+    "title": "Création du DU UNITEID – Maladies infectieuses émergentes",
+    "publisher": "Université de Toulouse · Conseil d’administration",
+    "kind": "decision",
+    "date": "2025-12-15",
+    "consulted": "2026-11-22",
+    "url": "https://www.utoulouse.fr/medias/fichier/2025-12-ca-054_1766137822824-pdf",
+    "locator": "Dispositif signé du 15 décembre 2025",
+    "note": "Le CA approuve la création du DU. La décision ne donne pas de date de début des enseignements."
+  },
+  {
+    "id": "issee-premiere-promotion-cours",
+    "title": "Intervention pédagogique du 15 octobre auprès de la première promotion ISSEE",
+    "publisher": "Gwenael Kervizic · intervenant dans le parcours",
+    "kind": "institution",
+    "consulted": "2026-11-22",
+    "url": "https://fr.linkedin.com/posts/gwenael-kervizic-07751294_une-journ%C3%A9e-au-c%C5%93ur-de-ling%C3%A9nierie-de-la-activity-7519812440931364865-bDk-",
+    "locator": "Témoignage public de l’intervenant sur son cours du 15 octobre",
+    "note": "Un intervenant décrit une journée de cours donnée à la première promotion le 15 octobre 2026."
   }
 ]

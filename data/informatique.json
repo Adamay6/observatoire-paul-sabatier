@@ -5,7 +5,8 @@
     "short": "MIASHS · IO",
     "degree": "licence",
     "departments": [
-      "Informatique"
+      "Informatique",
+      "Gestion"
     ],
     "mentions": [
       "Mathématiques et informatique appliquées aux sciences humaines et sociales"
@@ -17,8 +18,9 @@
     "proof": "confirme",
     "stage": "appliquee",
     "finding": {
-      "text": "La FSI annonce que le parcours Ingénierie des organisations ferme et que le recrutement s’est arrêté. La fiche, mise à jour en octobre 2026, ne date ni la décision ni sa prise d’effet.",
+      "text": "Le tableau de Gestion adopté en mai 2026 inscrit toujours la L3 IO pour 2027–2031. La fiche de la FSI mise à jour le 28 octobre dit que le recrutement a cessé et que le parcours ferme. La date d’effet et l’acte propre à ce changement restent à établir.",
       "refs": [
+        "cfvu-2026-94",
         "fsi-io"
       ]
     },
@@ -56,9 +58,10 @@
     },
     "after": {
       "offer": {
-        "text": "Arrêt du recrutement pour le parcours IO, selon la fiche de la FSI.",
+        "text": "Recrutement arrêté selon la fiche d’octobre 2026. Le dernier recrutement et la date de fin des enseignements demeurent indéterminés.",
         "refs": [
-          "fsi-io"
+          "fsi-io",
+          "cfvu-2026-94"
         ]
       }
     },
@@ -75,6 +78,13 @@
     ],
     "history": [
       {
+        "date": "2026-05-26",
+        "text": "Le tableau de Gestion maintient la L3 IO dans la projection 2027–2031.",
+        "refs": [
+          "cfvu-2026-94"
+        ]
+      },
+      {
         "date": "2026-10-28",
         "text": "La fiche consultée, portant cette date de mise à jour, annonce la fermeture et l’arrêt du recrutement.",
         "refs": [
@@ -87,6 +97,15 @@
       "Quel est le devenir des UE propres à IO et des enseignements auparavant mutualisés avec MIAGE ?",
       "Quels parcours et débouchés demeurent accessibles aux étudiants concernés ?",
       "Quel motif a été retenu dans l’acte de décision ?"
+    ],
+    "effects": [
+      {
+        "text": "La brochure 2026–2027 présentait les parcours MIAGE et IO. Le profil ATER Gestion de la même campagne mentionnait également IO pour un contrat qui devait débuter en septembre 2026.",
+        "refs": [
+          "fsi-miashs-brochure-2627",
+          "fsi-gestion-galaxie-ater-2026"
+        ]
+      }
     ]
   },
   {
@@ -112,7 +131,8 @@
       "refs": [
         "ut-rentree-2026",
         "fsi-csa",
-        "ca-2025-050"
+        "ca-2025-050",
+        "cfvu-2026-96"
       ]
     },
     "before": {
@@ -155,16 +175,25 @@
     },
     "after": {
       "offer": {
-        "text": "Fermeture annoncée pour la rentrée et inscriptions non ouvertes en 2026-2027.",
+        "text": "Arrêt inscrit pour la rentrée 2026 et absence de recrutement en M1 via Mon Master. La FSI a publié un syllabus de M2 2026–2027. Le devenir des inscrits, les admissions directes ou auprès des partenaires et les cours assurés restent à vérifier.",
         "refs": [
           "ut-rentree-2026",
-          "fsi-csa"
+          "fsi-csa",
+          "cfvu-2026-96",
+          "fsi-syllabus-m2-csa-2026",
+          "ca-2025-050"
         ]
       },
       "seats": {
         "text": "Session 2026, colonne COL Mon Master : 0 place sous Informatique. La colonne CAL indique la non-ouverture à la rentrée.",
         "refs": [
           "ca-2025-050"
+        ]
+      },
+      "units": {
+        "text": "Le syllabus de M2 2026–2027 décrit les enseignements prévus et le stage.",
+        "refs": [
+          "fsi-syllabus-m2-csa-2026"
         ]
       }
     },
@@ -213,6 +242,27 @@
       "Quelle décision individuelle précise les motifs de la fermeture et le sort des cohortes ?",
       "Où les enseignements spécifiques sont-ils éventuellement repris ?",
       "Quelles capacités d’accueil comparables et quelles poursuites d’études subsistent dans cette spécialité ?"
+    ],
+    "effects": [
+      {
+        "text": "En règle générale, le règlement de l’Université prévoit une poursuite de droit après validation du M1 au sein des mêmes mention et parcours et une commission en cas de changement. La mesure de transition propre au parcours reste à établir.",
+        "refs": [
+          "ut-reglement-etudes-2627",
+          "code-education-l612-6-1"
+        ]
+      },
+      {
+        "text": "L’annexe signale un effectif moyen inférieur ou égal à 10 sur les trois années 2023–2024 à 2025–2026. Elle ne chiffre pas l’effectif de chaque année.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      },
+      {
+        "text": "Session Mon Master 2025. CSA sous Informatique : 443 candidatures confirmées en phase principale, 64 propositions sur les deux phases, 14 acceptations et 14 COL. Les acceptations mesurent le processus d’admission sur la plateforme.",
+        "refs": [
+          "mesre-monmaster-2024-2025"
+        ]
+      }
     ]
   },
   {
@@ -240,7 +290,9 @@
       "refs": [
         "ut-rentree-2026",
         "fsi-ima",
-        "ca-2025-050"
+        "ca-2025-050",
+        "cfvu-2026-96",
+        "cfvu-2026-98"
       ]
     },
     "before": {
@@ -285,16 +337,26 @@
     },
     "after": {
       "offer": {
-        "text": "Fermeture annoncée dans les deux mentions, avec inscriptions non ouvertes en 2026-2027.",
+        "text": "Arrêt inscrit pour la rentrée 2026 et absence de recrutement en M1 via Mon Master. La FSI a publié un syllabus de M2 2026–2027. Le devenir des inscrits, les admissions directes ou auprès des partenaires et les cours assurés restent à vérifier.",
         "refs": [
           "ut-rentree-2026",
-          "fsi-ima"
+          "fsi-ima",
+          "cfvu-2026-96",
+          "cfvu-2026-98",
+          "fsi-syllabus-m2-ima-2026",
+          "ca-2025-050"
         ]
       },
       "seats": {
         "text": "Session 2026, colonne COL Mon Master : 0 place dans chacune des deux mentions. La colonne CAL indique la non-ouverture à la rentrée pour les deux lignes.",
         "refs": [
           "ca-2025-050"
+        ]
+      },
+      "units": {
+        "text": "Le syllabus de M2 2026–2027 décrit les enseignements prévus et le stage.",
+        "refs": [
+          "fsi-syllabus-m2-ima-2026"
         ]
       }
     },
@@ -336,6 +398,27 @@
       "Quel texte de décision précise la fermeture, son motif et le calendrier des cohortes ?",
       "Quelles UE continuent dans IAFA, MAPI3 ou ailleurs et à quelles conditions d’accès ?",
       "Existe-t-il une décision liant l’offre de la nouvelle mention Intelligence artificielle à IMA ?"
+    ],
+    "effects": [
+      {
+        "text": "En règle générale, le règlement de l’Université prévoit une poursuite de droit après validation du M1 au sein des mêmes mention et parcours et une commission en cas de changement. La mesure de transition propre au parcours reste à établir.",
+        "refs": [
+          "ut-reglement-etudes-2627",
+          "code-education-l612-6-1"
+        ]
+      },
+      {
+        "text": "L’annexe signale un effectif moyen inférieur ou égal à 10 sur les trois années 2023–2024 à 2025–2026. Elle ne chiffre pas l’effectif de chaque année.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      },
+      {
+        "text": "Session Mon Master 2025. IMA sous Informatique : 238 candidatures confirmées en phase principale, 25 personnes ayant reçu une proposition, 8 acceptations et 7 COL. Sous Mathématiques et applications : 176, 21, 7 et 8. Les acceptations mesurent le processus d’admission sur la plateforme.",
+        "refs": [
+          "mesre-monmaster-2024-2025"
+        ]
+      }
     ]
   },
   {
@@ -364,7 +447,9 @@
         "ut-rentree-2026",
         "fsi-ro",
         "fsi-syllabus-m2-ro-2026",
-        "ca-2025-050"
+        "ca-2025-050",
+        "cfvu-2026-96",
+        "cfvu-2026-98"
       ]
     },
     "before": {
@@ -390,11 +475,14 @@
     },
     "after": {
       "offer": {
-        "text": "L’Université annonce la fermeture et indique que le parcours n’est pas ouvert en 2026-2027. Un syllabus de M2 pour 2026-2027 est publié le 10 novembre 2026. L’étendue de la fermeture aux étudiants déjà engagés dans le parcours reste à vérifier.",
+        "text": "Arrêt inscrit pour la rentrée 2026 et absence de recrutement en M1 via Mon Master. La FSI a publié un syllabus de M2 2026–2027. Le devenir des inscrits, les admissions directes ou auprès des partenaires et les cours assurés restent à vérifier.",
         "refs": [
           "ut-rentree-2026",
           "fsi-ro",
-          "fsi-syllabus-m2-ro-2026"
+          "fsi-syllabus-m2-ro-2026",
+          "cfvu-2026-96",
+          "cfvu-2026-98",
+          "ca-2025-050"
         ]
       },
       "units": {
@@ -467,6 +555,33 @@
       "Quelles inscriptions étaient effectivement possibles en M1, en M2, pour les cohortes déjà engagées et via les partenaires ?",
       "Quels enseignements de la maquette publiée ont été dispensés et à quels publics ?",
       "Quels motifs et quelles conditions de transition figurent dans la décision de fermeture ?"
+    ],
+    "effects": [
+      {
+        "text": "En règle générale, le règlement de l’Université prévoit une poursuite de droit après validation du M1 au sein des mêmes mention et parcours et une commission en cas de changement. La mesure de transition propre au parcours reste à établir.",
+        "refs": [
+          "ut-reglement-etudes-2627",
+          "code-education-l612-6-1"
+        ]
+      },
+      {
+        "text": "L’annexe signale un effectif moyen inférieur ou égal à 10 sur les trois années 2023–2024 à 2025–2026. Elle ne chiffre pas l’effectif de chaque année.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      },
+      {
+        "text": "Session Mon Master 2025. RO sous Informatique : 123 candidatures confirmées en phase principale, 21 personnes ayant reçu une proposition, 1 acceptation et 4 COL. Sous Mathématiques et applications : 81, 14, 3 et 4. Les acceptations mesurent le processus d’admission sur la plateforme.",
+        "refs": [
+          "mesre-monmaster-2024-2025"
+        ]
+      },
+      {
+        "text": "La fiche du M2 sur le site de l’ENAC documente une passerelle avec le M1 RO de Nantes. Sa disponibilité pour la rentrée 2026 ne figure pas dans la fiche.",
+        "refs": [
+          "enac-m2-ro-partenariat"
+        ]
+      }
     ]
   },
   {
@@ -481,14 +596,16 @@
       "Informatique"
     ],
     "period": "2027-31",
-    "types": [],
+    "types": [
+      "renommage"
+    ],
     "proof": "partiel",
-    "stage": "inconnue",
+    "stage": "adoptee",
     "finding": {
-      "text": "Le syllabus du M2 SECIL pour 2026-2027 documente les deux mineures SIAME et RSD. La CFVU a approuvé l’offre départementale pour 2027-2031. La décision publiée ne permet pas ici d’établir le devenir des deux mineures.",
+      "text": "L’offre 2027–2031 approuvée par la CFVU conserve SECIL en M1 et M2 sous l’intitulé Systèmes embarqués, connectés et mobiles. Le syllabus M2 2026–2027 documente les deux mineures SIAME et RSD. Leur devenir reste à établir.",
       "refs": [
-        "fsi-syllabus-m2-secil-2026",
-        "cfvu-2026-96"
+        "cfvu-2026-96",
+        "fsi-syllabus-m2-secil-2026"
       ]
     },
     "before": {
@@ -552,6 +669,14 @@
         "refs": [
           "fsi-syllabus-m2-secil-2026"
         ]
+      },
+      {
+        "id": "secil-apres",
+        "side": "after",
+        "label": "Systèmes embarqués, connectés et mobiles · M1 et M2",
+        "refs": [
+          "cfvu-2026-96"
+        ]
       }
     ],
     "history": [
@@ -573,6 +698,30 @@
     "questions": [
       "Que prévoit la maquette détaillée 2027-2031 pour les deux mineures et leurs UE ?",
       "Les options, crédits et heures diffèrent-ils à périmètre et année de formation identiques ?"
+    ],
+    "after": {
+      "title": {
+        "text": "Systèmes embarqués, connectés et mobiles (SECIL).",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      },
+      "offer": {
+        "text": "Le tableau départemental inscrit le parcours aux deux niveaux M1 et M2.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      }
+    },
+    "links": [
+      {
+        "from": "secil-base",
+        "to": "secil-apres",
+        "type": "renommage",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      }
     ]
   },
   {
@@ -591,11 +740,11 @@
     "proof": "partiel",
     "stage": "inconnue",
     "finding": {
-      "text": "La CFVU a approuvé l’offre du département pour 2027-2031. Une structure antérieure approuvée et des syllabus de 2026-2027 documentent des enseignements partagés. La comparaison détaillée avec les maquettes de la prochaine accréditation reste ouverte.",
+      "text": "L’offre départementale 2027–2031 recense cinq parcours en M1 et M2 sous la mention Informatique. La comparaison des syllabus 2026–2027 documente déjà des sous-UE à code commun. Les maquettes 2027–2031 au niveau des UE restent à obtenir.",
       "refs": [
         "cfvu-2026-96",
-        "ca-2021-011",
-        "fsi-syllabus-m2-secil-2026"
+        "fsi-syllabus-m1-iafa-2026",
+        "fsi-syllabus-m1-secil-2026"
       ]
     },
     "before": {
@@ -613,9 +762,8 @@
         ]
       },
       "seats": {
-        "text": "Pour la rentrée 2026, la fiche annonce 184 places en capacité globale d’accès à la mention, tous parcours et publics confondus. L’annexe Mon Master publie ses propres valeurs par parcours.",
+        "text": "Somme des huit lignes d’Informatique dans le tableau 2026–2027, p. 4 : 166 COL et 184 CAL. Les cinq lignes ouvertes sont IAFA 22/24, IHM 38/42, SDL 66/72, SECIL 24/28 et SID 16/18. Les trois autres lignes indiquent 0 COL et la non-ouverture.",
         "refs": [
-          "ut-master-informatique",
           "ca-2025-050"
         ]
       },
@@ -637,6 +785,12 @@
     "after": {
       "offer": {
         "text": "La CFVU du 26 mai 2026 a approuvé l’offre du département pour 2027-2031.",
+        "refs": [
+          "cfvu-2026-96"
+        ]
+      },
+      "tracks": {
+        "text": "IAFA, IHM, SDL, SID et SECIL figurent en M1 et M2 dans la mention Informatique.",
         "refs": [
           "cfvu-2026-96"
         ]

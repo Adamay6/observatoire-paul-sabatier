@@ -33,7 +33,7 @@ test('la recherche ignore accents et casse, sans doubler les parcours transversa
 });
 
 test('chaque compteur ouvre le même ensemble de dossiers que le tableau de bord', () => {
-  for (const period of ['', '2026-27', '2027-31', 'historique', '2027-32', 'indetermine']) {
+  for (const period of ['', '2026-27', '2027-31', '2028-29', 'historique', '2027-32', 'indetermine']) {
     const report = counts(filterDossiers(catalog.dossiers, { period }));
     for (const { id } of metrics) assert.equal(report[id], filterDossiers(catalog.dossiers, { period, metric: id }).length);
   }

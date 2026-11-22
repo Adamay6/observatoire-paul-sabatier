@@ -1,5 +1,6 @@
 export const periods = {
   '2026-27': 'Rentrée 2026–2027', '2027-31': 'Accréditation 2027–2031',
+  '2028-29': 'Rentrée 2028–2029',
   '2027-32': 'Accréditation 2027–2032', historique: 'Antérieur à 2026', indetermine: 'Période indéterminée',
 };
 export const degrees = { licence: 'Licence', 'licence-pro': 'Licence professionnelle', master: 'Master', du: 'DU' };

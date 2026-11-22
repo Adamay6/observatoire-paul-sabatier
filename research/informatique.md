@@ -25,7 +25,7 @@ La fiche institutionnelle indique la non-ouverture pour 2026-2027. Les capacité
 
 ### Datation de la fermeture de MIASHS IO
 
-La fiche FSI du parcours, mise à jour le 28 octobre 2026, indique dans son chapeau l’arrêt du recrutement et la fermeture. Sa présentation décrit des enseignements de L3 spécifiques à IO et d’autres partagés avec MIAGE. Elle permet de relever des intitulés et volumes de référence. La date de mise à jour du site ne donne pas la date de prise d’effet de la fermeture. Rechercher la décision formelle, un calendrier d’extinction et les conditions de transition des cohortes. [Fiche de la L3 MIASHS IO](https://fsi.utoulouse.fr/licence-parcours-ingenierie-des-organisations-io)
+La fiche FSI du parcours, mise à jour le 28 octobre 2026, indique dans son chapeau l’arrêt du recrutement et la fermeture. Sa présentation décrit des enseignements de L3 spécifiques à IO et d’autres partagés avec MIAGE. Elle permet de relever des intitulés et volumes de référence. Le tableau départemental du 26 mai 2026 faisait encore figurer IO en L3 pour 2027–2031. La date d’effet n’est pas précisée par les pièces retrouvées. [Annexe Gestion](../SOURCES.md#cfvu-2026-94) Rechercher la décision formelle, un calendrier d’extinction et les conditions de transition des cohortes. [Fiche de la L3 MIASHS IO](https://fsi.utoulouse.fr/licence-parcours-ingenierie-des-organisations-io)
 
 ## SECIL et les enseignements communs
 
@@ -35,7 +35,7 @@ La fiche FSI du parcours, mise à jour le 28 octobre 2026, indique dans son chap
 
 ## Vérifications à reprendre sur 2027–2031
 
-La CFVU du 26 mai 2026 a approuvé l’offre des départements d’Informatique et de Mathématiques. Les notices publiques de CFVU-96 et CFVU-98 sont consultables et renvoient à des PDF annexés. Le texte de ces pièces n’a pas pu être extrait par les moyens de consultation de cette enquête. La nature des évolutions de SECIL et des UE de la mention reste à confirmer. [CFVU-96, Informatique](https://www.utoulouse.fr/conseils/96-approbation-de-loffre-de-formation-du-departement-dinformatique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031) · [CFVU-98, Mathématiques](https://www.utoulouse.fr/conseils/98-approbation-de-loffre-de-formation-du-departement-de-mathematiques-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+La CFVU du 26 mai 2026 a approuvé l’offre des départements d’Informatique et de Mathématiques. Les tableaux scannés confirment l’arrêt de CSA, IMA et RO à partir de septembre 2026 et la reconduction du M1 et du M2 SECIL sous l’intitulé Systèmes embarqués, connectés et mobiles en 2027–2031. Les UE et mineures futures restent à documenter. [CFVU-96, Informatique](https://www.utoulouse.fr/conseils/96-approbation-de-loffre-de-formation-du-departement-dinformatique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031) · [CFVU-98, Mathématiques](https://www.utoulouse.fr/conseils/98-approbation-de-loffre-de-formation-du-departement-de-mathematiques-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
 
 1. Ouvrir les annexes dans un lecteur PDF et les examiner page par page. Relever la date, l’instance, le vote, l’intitulé de l’annexe et la page du tableau exploité.
 2. Comparer les maquettes 2026-2027 et 2027–2031 à année de formation et semestre identiques. Relever le code, le caractère obligatoire ou optionnel, les crédits et les heures par modalité avant de proposer une correspondance.

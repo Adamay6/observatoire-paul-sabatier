@@ -1,5 +1,11 @@
 # Journal des versions
 
+## 0.3.0 · 22 novembre 2026
+
+- Lecture des neuf annexes départementales et de la note stratégique 2027–2031. Le corpus contient 34 dossiers et 97 références.
+- Vérification des M2 2026–2027, des données ouvertes de recrutement en M1, de la première promotion ISSEE et du dossier de création du DU UNITEID.
+- Mise à jour du bilan, avec l’arrêt progressif du PPPE compté à sa dernière étape en 2028–2029.
+
 ## 0.2.0 · 22 novembre 2026
 
 - Palette gris sauge, navigation et surfaces repensées pour une lecture moins lumineuse.

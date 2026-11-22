@@ -46,7 +46,7 @@ test('les routes rendent les données, les filtres et les références de liaiso
 
   assert.match(main.innerHTML, /Les formations<br>en mouvement/);
   assert.match(main.innerHTML, /href="#bilan"/);
-  assert.match(element('#dashboard-balance').querySelector('.balance-totals').innerHTML, /9 fermetures/);
+  assert.match(element('#dashboard-balance').querySelector('.balance-totals').innerHTML, /12 fermetures/);
   assert.match(element('#metrics-values').innerHTML, /href="#explorer\?metric=closures"/);
   element('#metric-period').value = '2026-27';
   element('#metric-period').events.get('change')();
@@ -79,11 +79,17 @@ test('les routes rendent les données, les filtres et les références de liaiso
   element('#atlas-period').value = '2027-31';
   element('#atlas-period').events.get('change')();
   assert.match(element('#atlas-view').innerHTML, /edge-remplacement/);
-  assert.doesNotMatch(element('#atlas-view').innerHTML, /edge-fusion/);
+  assert.match(element('#atlas-view').innerHTML, /edge-fusion/);
 
   formData = { period: '2026-27', grouping: 'period' };
   go('#bilan');
   const totals = element('#balance-view').querySelector('.balance-totals').innerHTML;
   assert.match(totals, /6 fermetures/);
   assert.match(totals, /3 ouvertures/);
+
+  formData = { period: '2028-29', grouping: 'period' };
+  go('#bilan');
+  const transition = element('#balance-view').querySelector('.balance-totals').innerHTML;
+  assert.match(transition, /1 fermeture/);
+  assert.match(transition, /0 ouvertures/);
 });

@@ -86,6 +86,48 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://www.utoulouse.fr/medias/fichier/2025-12-ca-050_1766137653271-pdf)
 - Droits · Lien et notice uniquement
 
+<a id="ca-2025-053"></a>
+
+## Ouverture du parcours de santé spatiale et environnements extrêmes
+
+- Identifiant · ca-2025-053
+- Auteur ou institution · Université de Toulouse · Conseil d’administration
+- Nature · Décision institutionnelle
+- Date · 2025-12-15
+- Consultation · 2026-11-22
+- Repère · Dispositif signé du 15 décembre 2025
+- Résumé · Le CA autorise l’ouverture dans le master Ingénierie de la santé. Le dispositif emploie le sigle I2S2E.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/2025-12-ca-053_1766137779192-pdf)
+- Droits · Lien et notice uniquement
+
+<a id="ca-2025-054"></a>
+
+## Création du DU UNITEID – Maladies infectieuses émergentes
+
+- Identifiant · ca-2025-054
+- Auteur ou institution · Université de Toulouse · Conseil d’administration
+- Nature · Décision institutionnelle
+- Date · 2025-12-15
+- Consultation · 2026-11-22
+- Repère · Dispositif signé du 15 décembre 2025
+- Résumé · Le CA approuve la création du DU. La décision ne donne pas de date de début des enseignements.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/2025-12-ca-054_1766137822824-pdf)
+- Droits · Lien et notice uniquement
+
+<a id="ca-2026-10-002"></a>
+
+## Budget rectificatif n° 2 de l’Université de Toulouse, exercice 2026
+
+- Identifiant · ca-2026-10-002
+- Auteur ou institution · Université de Toulouse · Conseil d’administration
+- Nature · Décision institutionnelle
+- Date · 2026-10-05
+- Consultation · 2026-11-22
+- Repère · Délibération et tableaux budgétaires joints
+- Résumé · Les tableaux présentent des agrégats institutionnels et interannuels. Aucun chiffrage de fermeture ou d’ouverture de parcours n’a été identifié dans ces tableaux.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/2026-10-ca-002_1792412397817)
+- Droits · Lien et notice uniquement
+
 <a id="ca-2026-101"></a>
 
 ## Cadrage de l’Offre de Formation de l’Université de Toulouse 2027-2031
@@ -95,9 +137,23 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-04-13
 - Consultation · 2026-11-22
-- Repère · Délibération 2026/04/CA-101 du 13 avril 2026. Annexe, introduction p. 1–2 et § 8 « Coût des formations – soutenabilité financière », p. 12 et suivantes
-- Résumé · Le cadrage fixe des objectifs de cohérence et de soutenabilité, une rationalisation par composante et des économies attendues à l’échelle de l’établissement. Ce passage ne motive pas de fermeture individuelle.
+- Repère · p. 11, 15–16 du PDF, sections 5 et 8 de la lettre
+- Résumé · Le cadrage cible une baisse d’environ 30 % des parcours dans les mentions à grand nombre de parcours et/ou à faibles effectifs. Il prévoit des économies d’échelle, le seuil de moins de 10 et un objectif plancher de 18 en l’absence de fusion ou de mutualisation.
 - [Consulter le document original](https://www.utoulouse.fr/medias/fichier/2026-04-ca-101_1776781387171-pdf)
+- Droits · Lien et notice uniquement
+
+<a id="ca-2026-102"></a>
+
+## Licence professionnelle Métiers de la protection et de la gestion de l’environnement soumise à accréditation
+
+- Identifiant · ca-2026-102
+- Auteur ou institution · Université de Toulouse · Conseil d’administration
+- Nature · Décision institutionnelle
+- Date · 2026-04-13
+- Consultation · 2026-11-22
+- Repère · Dispositif signé du 13 avril 2026
+- Résumé · Le CA approuve à l’unanimité des suffrages exprimés la demande d’accréditation 2027–2031 pour la mention de licence professionnelle.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/2026-04-ca-102_1776781434772-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="ca-2026-103"></a>
@@ -176,13 +232,12 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 
 - Identifiant · ca-2026-130
 - Auteur ou institution · Université de Toulouse · Conseil d’administration
-- Nature · Communication institutionnelle
+- Nature · Décision institutionnelle
 - Date · 2026-07-06, mise à jour 2026-07-21
 - Consultation · 2026-11-22
-- Repère · Notice de la décision 130 et lien « 2026 07 CA 130.pdf »
-- Résumé · La notice publiée le 21 juillet donne le titre de la note stratégique et renvoie à une pièce de 882 Ko.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/130-note-strategique-de-loffre-de-formation-globale-2027-2031)
-- Accès · Notice consultée. Le PDF lié n’a pas pu être ouvert lors de la vérification.
+- Repère · p. 1 et 3–5 du PDF, sections FSI pour les licences, licences professionnelles et masters
+- Résumé · Le CA approuve la note stratégique le 6 juillet. Elle présente les arbitrages par cycle, la soutenabilité et les réorganisations à l’échelle de la FSI.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/2026-07-ca-130_1784639819260)
 - Droits · Lien et notice uniquement
 
 <a id="ca-2026-juillet"></a>
@@ -250,8 +305,8 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2025-11-04
 - Consultation · 2026-11-22
-- Repère · Délibération 2025/11/CFVU–147, dispositif, première page
-- Résumé · La CFVU approuve l’ouverture du DU UNITEID le 4 novembre 2025.
+- Repère · p. 1–2 et 6–8 du PDF, vote, calendrier, recrutement, capacité et volume
+- Résumé · Vote le 4 novembre 2025. L’annexe prévoit l’ouverture de la partie M1 en 2025–2026 et le début des cours en janvier 2026, avec 10 stagiaires au minimum et 30 au maximum.
 - [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2025-11-04-147-approbation-de-l-ouverture-du-diplome-d-universite-uniteid-maladies-infectieuses-emergentes-doc_1763980772871-pdf)
 - Droits · Lien et notice uniquement
 
@@ -264,9 +319,9 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-09-29
 - Consultation · 2026-11-22
-- Repère · Notice de la délibération 2026/09/CFVU-160, publiée le 19 octobre 2026
-- Résumé · La notice officielle enregistre l’approbation des modalités de contrôle des connaissances et des compétences des deux années d’ISSEE en 2026–2027.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/160-approbation-des-m3c-2026-2027-des-masters-1-et-2-parcours-issee-mention-master-ingenierie-de-la-sante-avec-passage-des-regles-r11-en-r12)
+- Repère · p. 1–5 du PDF, délibération et tableaux M3C du M1 et du M2
+- Résumé · La délibération approuve les modalités de contrôle des connaissances et des compétences des deux années pour 2026–2027. Les tableaux annexés détaillent la maquette utilisée pour le contrôle.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-09-29-160-approbation-des-m3c-2026-2027-des-masters-1-et-2-parcours-issee-mention-master-ingenierie-de-la-sante-avec-passage-des-regles-r11-en-r12-doc_1792414832885)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-100"></a>
@@ -278,9 +333,9 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Séance du 26 mai 2026, délibération 2026/05/CFVU-100
-- Résumé · Notice accessible et annexe numérisée sans texte extrait lors de la consultation.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/100-approbation-de-loffre-de-formation-du-departement-de-physique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+- Repère · p. 2–3 du PDF (p. 15–16 imprimées)
+- Résumé · Création d’iPEPS en licence et arrêt en M1 et M2 de PMV dans la mention Physique fondamentale et applications.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-100-approbation-de-l-offre-de-formation-du-departement-de-physique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601824231-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-101"></a>
@@ -292,9 +347,9 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Séance du 26 mai 2026, délibération 2026/05/CFVU-101
-- Résumé · Notice accessible et annexe numérisée sans texte extrait lors de la consultation.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/101-approbation-de-loffre-de-formation-du-departement-de-biologie-et-geosciences-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+- Repère · p. 2–6 du PDF (p. 17–21 imprimées)
+- Résumé · Licences, licences professionnelles et masters. Annexe du vote départemental avec ouvertures, arrêts, fusions et changements de rattachement.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-101-approbation-de-l-offre-de-formation-du-departement-de-biologie-et-geosciences-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601860670-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-17-mars"></a>
@@ -367,6 +422,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://www.utoulouse.fr/conseils/41-approbation-de-la-lettre-de-cadrage-de-loffre-de-formation-de-luniversite-de-toulouse-pour-laccreditation-2027-2031)
 - Droits · Lien et notice uniquement
 
+<a id="cfvu-2026-69"></a>
+
+## Offre de premier et deuxième cycles de la FSI · Délibération et annexe pour 2027–2031
+
+- Identifiant · cfvu-2026-69
+- Auteur ou institution · Université de Toulouse · CFVU
+- Nature · Décision institutionnelle
+- Date · 2026-05-12
+- Consultation · 2026-11-22
+- Repère · p. 1–2 du PDF
+- Résumé · La décision approuve la liste des mentions 2027–2031. La diapositive de synthèse porte le titre 2026–2027.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-12-69-approbation-de-la-liste-des-mentions-de-licence-licence-professionnelle-et-master-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1780475354685-pdf)
+- Droits · Lien et notice uniquement
+
 <a id="cfvu-2026-93"></a>
 
 ## Approbation de l’offre de formation du département de Chimie de la Faculté Sciences et Ingénierie pour l’accréditation 2027-2031
@@ -376,9 +445,9 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Séance du 26 mai 2026, délibération 2026/05/CFVU-93
-- Résumé · Notice accessible et annexe numérisée sans texte extrait lors de la consultation.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/93-approbation-de-loffre-de-formation-du-departement-de-chimie-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+- Repère · p. 2–3 du PDF (p. 4–5 imprimées)
+- Résumé · Comparaison des licences et masters. Arrêts du parcours SEE et, dès septembre 2026, d’ICSI, ouvertures et changements d’intitulé.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-93-approbation-de-l-offre-de-formation-du-departement-de-chimie-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601437282-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-94"></a>
@@ -390,9 +459,9 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Séance du 26 mai 2026, délibération 2026/05/CFVU-94
-- Résumé · Notice accessible et annexe numérisée sans texte extrait lors de la consultation.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/94-approbation-de-loffre-de-formation-du-departement-de-gestion-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+- Repère · p. 2 du PDF (p. 6 imprimée)
+- Résumé · Projection de mai 2026 avec la L3 MIASHS Ingénierie des organisations. Les quatre parcours de MSI sont listés sous Management en M1 et M2.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-94-approbation-de-l-offre-de-formation-du-departement-de-gestion-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601471439-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-95"></a>
@@ -404,9 +473,9 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Séance du 26 mai 2026, délibération 2026/05/CFVU-95
-- Résumé · Notice accessible et annexe numérisée sans texte extrait lors de la consultation.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/95-approbation-de-loffre-de-formation-du-departement-electronique-energie-electrique-automatique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+- Repère · p. 2–3 du PDF (p. 7–8 imprimées)
+- Résumé · Maintien de la L3 EEA-ISS. Nouveaux parcours SCyPI en M1 et M2, HVGT en M2. Le tableau conserve ISSEE.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-95-approbation-de-l-offre-de-formation-du-departement-electronique-energie-electrique-automatique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601505419-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-96"></a>
@@ -418,9 +487,23 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Séance du 26 mai 2026, délibération 2026/05/CFVU-96
-- Résumé · L’instance approuve l’offre départementale pour 2027–2031. La notice et le lien PDF répondent, le contenu des tableaux n’a pas pu être contrôlé.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/96-approbation-de-loffre-de-formation-du-departement-dinformatique-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+- Repère · p. 2–3 du PDF (p. 9–10 imprimées)
+- Résumé · Le tableau de master inscrit l’arrêt de CSA, IMA et RO dès septembre 2026 et liste cinq parcours pour 2027–2031, dont SECIL sous un nouvel intitulé.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-96-approbation-de-l-offre-de-formation-du-departement-d-informatique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601538501-pdf)
+- Droits · Lien et notice uniquement
+
+<a id="cfvu-2026-97"></a>
+
+## IRES · Délibération et annexe pour 2027–2031
+
+- Identifiant · cfvu-2026-97
+- Auteur ou institution · Université de Toulouse · CFVU
+- Nature · Décision institutionnelle
+- Date · 2026-05-26
+- Consultation · 2026-11-22
+- Repère · p. 2 du PDF (p. 11 imprimée)
+- Résumé · Arrêt progressif du PPPE en L1 en 2026, en L2 en 2027 et en L3 en 2028. L’annexe indique un portage LPE de la réorientation PPE à partir de septembre 2027.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-97-approbation-de-l-offre-de-formation-du-departement-ires-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601687170-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-98"></a>
@@ -432,9 +515,9 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Séance du 26 mai 2026, délibération 2026/05/CFVU-98
-- Résumé · Notice accessible et annexe numérisée sans texte extrait lors de la consultation.
-- [Consulter le document original](https://www.utoulouse.fr/conseils/98-approbation-de-loffre-de-formation-du-departement-de-mathematiques-de-la-faculte-sciences-et-ingenierie-pour-laccreditation-2027-2031)
+- Repère · p. 2 du PDF (p. 12 imprimée)
+- Résumé · Le tableau inscrit l’arrêt d’IMA et de RO dès septembre 2026 dans la mention Mathématiques et applications.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-98-approbation-de-l-offre-de-formation-du-departement-de-mathematiques-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601719794-pdf)
 - Droits · Lien et notice uniquement
 
 <a id="cfvu-2026-99"></a>
@@ -446,8 +529,8 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Nature · Décision institutionnelle
 - Date · 2026-05-26
 - Consultation · 2026-11-22
-- Repère · Page de décision et annexe « 4.b. FRESO », p. 13 (licences) et p. 14 (masters) de la pagination imprimée
-- Résumé · L’instance approuve l’offre départementale. L’annexe compare les accréditations 2022–2025 et 2027–2031 et signale les arrêts de Méca-ISS et PMV en mention Mécanique ainsi qu’un changement d’intitulé en Génie civil.
+- Repère · p. 2–3 du PDF (p. 13–14 imprimées)
+- Résumé · Arrêt de la licence Méca-ISS, changement GH vers PEBCO, arrêt en M1 et M2 de PMV dans la mention Mécanique.
 - [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2026-05-26-99-approbation-de-l-offre-de-formation-du-departement-de-mecanique-de-la-faculte-sciences-et-ingenierie-pour-l-accreditation-2027-2031-doc_1781601755903-pdf)
 - Droits · Lien et notice uniquement
 
@@ -494,6 +577,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://www.utoulouse.fr/medias/fichier/cfvu-2025-02-11-19-approbation-des-capacites-d-accueil-des-licences-professionnelles-de-la-faculte-sciences-et-ingenierie-pour-l-annee-universitaire-2025-2026-doc_1740563834234-pdf)
 - Droits · Lien et notice uniquement
 
+<a id="code-education-l612-6-1"></a>
+
+## Code de l’éducation, article L. 612-6-1
+
+- Identifiant · code-education-l612-6-1
+- Auteur ou institution · République française · Légifrance
+- Nature · Texte juridique
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Article L. 612-6-1, premier alinéa
+- Résumé · Règle générale de l’accès en deuxième année après validation de la première année de la formation.
+- [Consulter le document original](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033694146)
+- Droits · Lien et notice uniquement
+
 <a id="code-education-l613-1"></a>
 
 ## Code de l’éducation, article L613-1
@@ -522,6 +619,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050732896)
 - Droits · Lien et notice uniquement
 
+<a id="eagle-annonce-hvgt"></a>
+
+## Masters en anglais · rentrée annoncée pour High Voltage Green Transport
+
+- Identifiant · eagle-annonce-hvgt
+- Auteur ou institution · EA²GLE Graduate School
+- Nature · Communication institutionnelle
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Liste des formations, entrée English Master EEA HVGT
+- Résumé · L’école affiche une ouverture prévue en septembre 2027.
+- [Consulter le document original](https://eagle-graduateschool.com/training/master-and-master-of-science-diplomas-english/)
+- Droits · Lien et notice uniquement
+
 <a id="enac-ingenieur-2026"></a>
 
 ## Ingénieur ENAC
@@ -536,6 +647,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://formations.enac.fr/plugins/odf-web/odf/_content/program-47517.pdf)
 - Droits · Lien et notice uniquement
 
+<a id="enac-m2-ro-partenariat"></a>
+
+## Master 2 Recherche opérationnelle · équipe et partenariat
+
+- Identifiant · enac-m2-ro-partenariat
+- Auteur ou institution · Équipe du M2 RO · ENAC
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Présentation du master recherche et convention avec Nantes
+- Résumé · L’équipe décrit le rôle de l’ENAC, des autres écoles toulousaines et une passerelle M1 RO Nantes vers M2 Toulouse. La fiche ne date pas cette possibilité pour 2026–2027.
+- [Consulter le document original](https://m2rit-ro.recherche.enac.fr/?page_id=8)
+- Droits · Lien et notice uniquement
+
 <a id="fsi-biotechnologies"></a>
 
 ## Master BioTechnologies (BT)
@@ -548,6 +673,34 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Repère · Présentation et liste des six parcours de la mention BT
 - Résumé · Le département rattache EGPR à la mention Biotechnologies et précise qu’il n’y a aucun recrutement en 2026.
 - [Consulter le document original](https://fsi.utoulouse.fr/biotechnologies)
+- Droits · Lien et notice uniquement
+
+<a id="fsi-bmc-csils"></a>
+
+## Master Biologie moléculaire et cellulaire · offre de parcours
+
+- Identifiant · fsi-bmc-csils
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Liste des parcours
+- Résumé · Complex Systems in Life Sciences figure dans l’offre de la mention.
+- [Consulter le document original](https://fsi.utoulouse.fr/biologie-moleculaire-et-cellulaire)
+- Droits · Lien et notice uniquement
+
+<a id="fsi-bs-csils"></a>
+
+## Master Biologie-Santé · offre de parcours
+
+- Identifiant · fsi-bs-csils
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Liste des parcours
+- Résumé · Complex Systems in Life Sciences figure également dans l’offre de cette mention.
+- [Consulter le document original](https://fsi.utoulouse.fr/master-bs)
 - Droits · Lien et notice uniquement
 
 <a id="fsi-csa"></a>
@@ -648,6 +801,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://fsi.utoulouse.fr/licence-parcours-meca-ingenierie-pour-le-soin-et-la-sante-meca-iss)
 - Droits · Lien et notice uniquement
 
+<a id="fsi-gestion-galaxie-ater-2026"></a>
+
+## Campagne ATER 2026–2027 · profil Gestion et filières MIASHS
+
+- Identifiant · fsi-gestion-galaxie-ater-2026
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Communication institutionnelle
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Section des filières de formation concernées
+- Résumé · Le profil mentionne MIASHS IO et MIAGE pour un contrat prévu à partir du 1er septembre 2026. Il ne confirme pas que le poste a été pourvu ou que des cours IO ont eu lieu.
+- [Consulter le document original](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/ATERListesOffresPubliees/0313218E/FOPC_67406.pdf)
+- Droits · Lien et notice uniquement
+
 <a id="fsi-icsi"></a>
 
 ## Master parcours International chimie aux surfaces et interfaces (ICSI)
@@ -704,6 +871,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://fsi.utoulouse.fr/master-parcours-parcours-ingenierie-de-la-sante-spatiale-et-des-environnements-extremes-issee)
 - Droits · Lien et notice uniquement
 
+<a id="fsi-licence-pro-see"></a>
+
+## Licence professionnelle Stockage électrochimique de l’énergie · présentation
+
+- Identifiant · fsi-licence-pro-see
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · En-tête et présentation
+- Résumé · La FSI présente le parcours de L3, ouvert en septembre 2024, et détaille ses objectifs.
+- [Consulter le document original](https://fsi.utoulouse.fr/l3-pro-stockage-electrochimique-de-lenergie-see)
+- Droits · Lien et notice uniquement
+
 <a id="fsi-lpe"></a>
 
 ## Licence mention Professorat des écoles (LPE)
@@ -718,6 +899,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://fsi.utoulouse.fr/licence-mention-professorat-des-ecoles)
 - Droits · Lien et notice uniquement
 
+<a id="fsi-miashs-brochure-2627"></a>
+
+## Licence MIASHS · brochure 2026–2027
+
+- Identifiant · fsi-miashs-brochure-2627
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Couverture et présentation générale
+- Résumé · La brochure d’offre 2026–2027 présente encore IO et MIAGE.
+- [Consulter le document original](https://www.univ-tlse3.fr/medias/fichier/odf2026-2027-mention-licmiashs-novembre-scuio-vf-web_1764922541034-pdf)
+- Droits · Lien et notice uniquement
+
 <a id="fsi-ppe"></a>
 
 ## Licence parcours Pluridisciplinaire professorat des écoles (PPE)
@@ -730,6 +925,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Repère · Chapeau et « Présentation »
 - Résumé · La fiche rattache le PPE à la licence Sciences de la vie et indique que les candidatures en L3 restent possibles jusqu’à la rentrée 2027.
 - [Consulter le document original](https://fsi.utoulouse.fr/licence-parcours-pluridisciplinaire-professorat-des-ecoles-ppe)
+- Droits · Lien et notice uniquement
+
+<a id="fsi-reoste"></a>
+
+## Parcours Réorientation en Sciences de la Terre et de l’Environnement
+
+- Identifiant · fsi-reoste
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Présentation de la L3
+- Résumé · Le parcours est présenté comme une passerelle en L3 Sciences de la Terre pour les titulaires d’un bac+2 scientifique.
+- [Consulter le document original](https://fsi.utoulouse.fr/parcours-reorientation-en-sciences-de-la-terre-et-de-l-environnement)
 - Droits · Lien et notice uniquement
 
 <a id="fsi-ro"></a>
@@ -802,6 +1011,76 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://fsi.utoulouse.fr/syllabus/2627_SYL_M1_INF_SECIL.pdf)
 - Droits · Lien et notice uniquement
 
+<a id="fsi-syllabus-m2-csa-2026"></a>
+
+## Syllabus 2026–2027 · M2 Computer Science for Aerospace
+
+- Identifiant · fsi-syllabus-m2-csa-2026
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Annexe ou maquette
+- Date · 2026-11-20
+- Consultation · 2026-11-22
+- Repère · Couverture 2026–2027 et tableau des enseignements
+- Résumé · Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées.
+- [Consulter le document original](https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_INF_CSA.pdf)
+- Droits · Lien et notice uniquement
+
+<a id="fsi-syllabus-m2-egpr-2026"></a>
+
+## Syllabus 2026–2027 · M2 Expression génique et protéines recombinantes
+
+- Identifiant · fsi-syllabus-m2-egpr-2026
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Annexe ou maquette
+- Date · 2026-11-22
+- Consultation · 2026-11-22
+- Repère · Couverture 2026–2027 et tableau des enseignements
+- Résumé · Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées.
+- [Consulter le document original](https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_BT-EGPR.pdf)
+- Droits · Lien et notice uniquement
+
+<a id="fsi-syllabus-m2-icsi-2026"></a>
+
+## Syllabus 2026–2027 · M2 International Chimie aux Surfaces et Interfaces
+
+- Identifiant · fsi-syllabus-m2-icsi-2026
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Annexe ou maquette
+- Date · 2026-11-21
+- Consultation · 2026-11-22
+- Repère · Couverture 2026–2027 et tableau des enseignements
+- Résumé · Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées.
+- [Consulter le document original](https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_CHI_ICSI.pdf)
+- Droits · Lien et notice uniquement
+
+<a id="fsi-syllabus-m2-ima-2026"></a>
+
+## Syllabus 2026–2027 · M2 Interactions de l’informatique et des mathématiques pour l’IA
+
+- Identifiant · fsi-syllabus-m2-ima-2026
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Annexe ou maquette
+- Date · 2026-11-22
+- Consultation · 2026-11-22
+- Repère · Couverture 2026–2027 et tableau des enseignements
+- Résumé · Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées.
+- [Consulter le document original](https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_INF_MAT_IMA.pdf)
+- Droits · Lien et notice uniquement
+
+<a id="fsi-syllabus-m2-pmv-2026"></a>
+
+## Syllabus 2026–2027 · M2 Physique et mécanique du vivant
+
+- Identifiant · fsi-syllabus-m2-pmv-2026
+- Auteur ou institution · Université de Toulouse · Faculté sciences et ingénierie
+- Nature · Annexe ou maquette
+- Date · 2026-11-20
+- Consultation · 2026-11-22
+- Repère · Couverture 2026–2027 et tableau des enseignements
+- Résumé · Maquette publiée de deuxième année. Elle établit l’existence d’un programme pour l’année annoncée. Les inscriptions et la réalisation des cours ne sont pas renseignées.
+- [Consulter le document original](https://www.utoulouse.fr/syllabus/2627_SYL_M2_MEC_PFA-PMV.pdf)
+- Droits · Lien et notice uniquement
+
 <a id="fsi-syllabus-m2-ro-2026"></a>
 
 ## Syllabus master, mention Informatique, M2 Recherche Opérationnelle Optimisation
@@ -830,6 +1109,62 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://fsi.utoulouse.fr/syllabus/2627_SYL_M2_INF_SECIL.pdf)
 - Droits · Lien et notice uniquement
 
+<a id="issee-annonce-premiere-cohorte"></a>
+
+## ISAE-SUPAERO · annonce de la première promotion du master de santé spatiale
+
+- Identifiant · issee-annonce-premiere-cohorte
+- Auteur ou institution · Équipe du programme de santé spatiale · ISAE-SUPAERO
+- Nature · Communication institutionnelle
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Publication publique de rentrée du programme
+- Résumé · L’équipe annonce le démarrage de sa première promotion. Le nombre d’inscrits n’est pas communiqué.
+- [Consulter le document original](https://www.linkedin.com/posts/space-health-engineering_its-official-our-first-cohort-has-just-activity-7503519372271939584-sfSB)
+- Droits · Lien et notice uniquement
+
+<a id="issee-premiere-promotion-cours"></a>
+
+## Intervention pédagogique du 15 octobre auprès de la première promotion ISSEE
+
+- Identifiant · issee-premiere-promotion-cours
+- Auteur ou institution · Gwenael Kervizic · intervenant dans le parcours
+- Nature · Communication institutionnelle
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Témoignage public de l’intervenant sur son cours du 15 octobre
+- Résumé · Un intervenant décrit une journée de cours donnée à la première promotion le 15 octobre 2026.
+- [Consulter le document original](https://fr.linkedin.com/posts/gwenael-kervizic-07751294_une-journ%C3%A9e-au-c%C5%93ur-de-ling%C3%A9nierie-de-la-activity-7519812440931364865-bDk-)
+- Droits · Lien et notice uniquement
+
+<a id="issee-temoignage-premiere-cohorte"></a>
+
+## Démarrage de la formation de santé spatiale · publication de Vsevolod Peysakhovich
+
+- Identifiant · issee-temoignage-premiere-cohorte
+- Auteur ou institution · Vsevolod Peysakhovich · ISAE-SUPAERO
+- Nature · Communication institutionnelle
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Reprise publique de l’annonce de la première promotion
+- Résumé · Un enseignant de l’ISAE-SUPAERO relaie le démarrage de la première promotion. Cette reprise ne fournit pas de décompte des inscriptions.
+- [Consulter le document original](https://www.linkedin.com/posts/peysakhovich_opening-an-engineering-school-towards-the-activity-7503525714269253632-GKvw)
+- Droits · Lien et notice uniquement
+
+<a id="mesre-monmaster-2024-2025"></a>
+
+## Mon Master 2024 et 2025 · candidatures, propositions et acceptations
+
+- Identifiant · mesre-monmaster-2024-2025
+- Auteur ou institution · Ministère de l’Enseignement supérieur, de la Recherche et de l’Espace · SIES
+- Nature · Communication institutionnelle
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Lignes des UAI 0311384L et 0313218E, champs session, ifc, col, n_can_pp, n_prop_total et n_accept_total
+- Résumé · Données publiques de candidature en M1. Une ligne par formation ouverte sur la plateforme et statut d’alternance. Le champ n_accept_total compte les acceptations en fin de procédure.
+- [Consulter le document original](https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/)
+- Droits · Lien et notice uniquement
+
 <a id="ministere-arrete-ut-2026"></a>
 
 ## Accréditation de l’Université de Toulouse en vue de la délivrance de diplômes nationaux
@@ -842,6 +1177,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Repère · Arrêté du 17 avril 2026, article 1 et annexe Liste des diplômes
 - Résumé · L’annexe vise uniquement le DEUST Animation et gestion des activités physiques, sportives ou culturelles, pour 2026–2027.
 - [Consulter le document original](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2026/Special2/ESRS2621415A)
+- Droits · Lien et notice uniquement
+
+<a id="region-occitanie-scypi"></a>
+
+## Soutien régional à onze projets d’enseignement supérieur · SCyPI
+
+- Identifiant · region-occitanie-scypi
+- Auteur ou institution · Région Occitanie
+- Nature · Communication institutionnelle
+- Date · 2026-09-18
+- Consultation · 2026-11-22
+- Repère · Communiqué du 18 septembre, paragraphe SCyPI
+- Résumé · La Région annonce plus de 70 000 € de soutien au parcours SCyPI et une ouverture prévue en 2027 pour 36 étudiants.
+- [Consulter le document original](https://www.laregion.fr/Commission-Permanente-La-Region-Occitanie-investit-pres-de-800-000EUR-pour-les)
 - Droits · Lien et notice uniquement
 
 <a id="syl-cosya-2024"></a>
@@ -870,6 +1219,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Repère · Couverture et pp. 4, 6–7, présentation du parcours, département et tableau des UE
 - Résumé · Le document présente la bidiplomation, le volume indicatif sur les deux années et le programme du M1 2022–2023 avec ses crédits.
 - [Consulter le document original](https://departementchimie.univ-tlse3.fr/medias/fichier/syl-m1-chi-icsi_1662018039185-pdf?ID_FICHE=144273&INLINE=FALSE)
+- Droits · Lien et notice uniquement
+
+<a id="udem-option-icsi"></a>
+
+## Maîtrise en chimie · règlement des études, option internationale
+
+- Identifiant · udem-option-icsi
+- Auteur ou institution · Université de Montréal
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Option Chimie aux surfaces et interfaces
+- Résumé · Le règlement de la maîtrise présente toujours l’option. Le statut des inscriptions et des mobilités 2026–2027 ne figure pas dans la fiche.
+- [Consulter le document original](https://admission.umontreal.ca/programmes/maitrise-en-chimie/reglements/)
 - Droits · Lien et notice uniquement
 
 <a id="ut-cosya"></a>
@@ -928,6 +1291,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - [Consulter le document original](https://www.utoulouse.fr/decouvrir-nos-diplomes/master-parcours-physique-et-mecanique-du-vivant-pmv-1)
 - Droits · Lien et notice uniquement
 
+<a id="ut-green-air"></a>
+
+## Master parcours GREEN-AIR
+
+- Identifiant · ut-green-air
+- Auteur ou institution · Université de Toulouse
+- Nature · Fiche de formation
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · Présentation et admission en M1 et M2
+- Résumé · La fiche du parcours existant présente l’admission et les contenus des deux années.
+- [Consulter le document original](https://www.utoulouse.fr/decouvrir-nos-diplomes/master-parcours-gestion-des-ressources-energetiques-efficacite-energetique-autoconsommation-intelligente-en-reseaux-green-air)
+- Droits · Lien et notice uniquement
+
 <a id="ut-master-informatique"></a>
 
 ## Master mention Informatique
@@ -954,6 +1331,20 @@ Ce registre est généré depuis les fichiers de `sources/`. Chaque passage est 
 - Repère · Mention de rattachement, chapeau, « Infos clés »
 - Résumé · Le chapeau annonce la fin de l’offre dès la rentrée 2026 et renvoie à la nouvelle licence. La page institutionnelle de rentrée détaille des candidatures résiduelles en L2 et L3.
 - [Consulter le document original](https://www.utoulouse.fr/decouvrir-nos-diplomes/licence-parcours-parcours-preparatoire-professorat-des-ecoles-pppe)
+- Droits · Lien et notice uniquement
+
+<a id="ut-reglement-etudes-2627"></a>
+
+## Règlement des études 2026–2027
+
+- Identifiant · ut-reglement-etudes-2627
+- Auteur ou institution · Université de Toulouse
+- Nature · Texte juridique
+- Date · Non indiquée
+- Consultation · 2026-11-22
+- Repère · p. 9 du PDF, master, poursuite après le M1
+- Résumé · Le règlement traite l’accès de droit au M2 pour le M1 validé dans la même mention et le même parcours et le passage devant une commission en cas de changement de mention ou de parcours.
+- [Consulter le document original](https://www.utoulouse.fr/medias/fichier/re-glement-des-e-tudes-vdef_1792660065569)
 - Droits · Lien et notice uniquement
 
 <a id="ut-rentree-2026"></a>

@@ -22,7 +22,9 @@
       "refs": [
         "cfvu-2026-33",
         "ca-2026-104",
-        "ca-2026-128"
+        "ca-2026-128",
+        "cfvu-2026-94",
+        "ca-2026-130"
       ]
     },
     "before": {
@@ -60,8 +62,9 @@
         ]
       },
       "tracks": {
-        "text": "L’annexe prévoit de conserver la spécificité des quatre parcours sous la mention Management.",
+        "text": "Les quatre parcours MER, EMPMO, MITAT et MRSE sont inscrits dans les colonnes M1 et M2 de la mention Management.",
         "refs": [
+          "cfvu-2026-94",
           "cfvu-2026-33"
         ]
       },
@@ -252,7 +255,7 @@
   },
   {
     "id": "pmv-mecanique",
-    "title": "Physique et mécanique du vivant · mention Mécanique",
+    "title": "Physique et mécanique du vivant · Mécanique et Physique",
     "short": "PMV",
     "degree": "master",
     "departments": [
@@ -270,10 +273,11 @@
     "proof": "confirme",
     "stage": "adoptee",
     "finding": {
-      "text": "La CFVU approuve l’offre du département de Mécanique pour 2027–2031, dont l’annexe indique l’arrêt de Physique et mécanique du vivant au sein de cette mention. Le catalogue donne aussi un rattachement à Physique fondamentale et applications, dont le devenir reste à vérifier.",
+      "text": "Les annexes approuvées en CFVU prévoient l’arrêt du parcours PMV en M1 et M2 dans les mentions Mécanique et Physique fondamentale et applications. Le syllabus partagé de M2 pour 2026–2027 a été publié en novembre 2026.",
       "refs": [
         "cfvu-2026-99",
-        "ut-fiche-pmv-physique"
+        "cfvu-2026-100",
+        "fsi-syllabus-m2-pmv-2026"
       ]
     },
     "before": {
@@ -284,10 +288,11 @@
         ]
       },
       "tracks": {
-        "text": "M1 et M2 dans le tableau Mécanique de référence. Le catalogue présente aussi le parcours sous Physique fondamentale et applications.",
+        "text": "Parcours de M1 et M2 porté par les mentions Mécanique et Physique fondamentale et applications. Le syllabus de M2 2026–2027 porte un code commun MEC_PFA.",
         "refs": [
           "cfvu-2026-99",
-          "ut-fiche-pmv-physique"
+          "cfvu-2026-100",
+          "fsi-syllabus-m2-pmv-2026"
         ]
       },
       "seats": {
@@ -305,11 +310,10 @@
     },
     "after": {
       "offer": {
-        "text": "Arrêt dans la mention Mécanique selon l’annexe 2027–2031. Le statut après 2026 dans l’autre mention fait l’objet d’une vérification distincte.",
+        "text": "Arrêt inscrit dans les deux offres départementales 2027–2031. Le calendrier de la dernière cohorte et les conditions de passage en M2 restent à établir.",
         "refs": [
           "cfvu-2026-99",
-          "cfvu-2026-100",
-          "ut-fiche-pmv-physique"
+          "cfvu-2026-100"
         ]
       }
     },
@@ -317,18 +321,20 @@
       {
         "id": "pmv-mecanique-before",
         "side": "before",
-        "label": "PMV · mention Mécanique",
+        "label": "PMV · M1 et M2 dans les deux mentions",
         "refs": [
-          "cfvu-2026-99"
+          "cfvu-2026-99",
+          "cfvu-2026-100"
         ]
       }
     ],
     "history": [
       {
         "date": "2026-05-26",
-        "text": "L’offre départementale approuvée mentionne l’arrêt du parcours PMV au sein de la mention Mécanique.",
+        "text": "Les deux annexes approuvées inscrivent l’arrêt de PMV.",
         "refs": [
-          "cfvu-2026-99"
+          "cfvu-2026-99",
+          "cfvu-2026-100"
         ]
       },
       {
@@ -338,12 +344,33 @@
           "ut-fiche-pmv-meca",
           "ut-fiche-pmv-physique"
         ]
+      },
+      {
+        "date": "2026-11-20",
+        "text": "Publication du syllabus de M2 partagé pour 2026–2027.",
+        "refs": [
+          "fsi-syllabus-m2-pmv-2026"
+        ]
       }
     ],
     "questions": [
-      "Quel est le devenir de PMV dans la mention Physique fondamentale et applications ?",
-      "Quelles règles s’appliqueront au M2 partagé entre les deux mentions et aux cohortes déjà engagées ?",
-      "Quelles UE appliquées au vivant seront maintenues et quels motifs ont conduit à la décision dans la mention Mécanique ?"
+      "Quelles règles de transition s’appliqueront au M2 partagé entre les deux mentions et aux cohortes déjà engagées ?",
+      "Quelles UE appliquées au vivant seront maintenues et quels motifs ont conduit à la décision ?"
+    ],
+    "effects": [
+      {
+        "text": "Les deux annexes signalent un effectif moyen inférieur ou égal à 10 sur 2023–2024, 2024–2025 et 2025–2026. Ces marqueurs ne donnent ni les inscriptions année par année ni le motif individuel de la fermeture.",
+        "refs": [
+          "cfvu-2026-99",
+          "cfvu-2026-100"
+        ]
+      },
+      {
+        "text": "Session Mon Master 2025. PMV sous Mécanique : 63 candidatures confirmées en phase principale, 37 personnes ayant reçu une proposition, 7 acceptations et 11 COL. Sous Physique fondamentale et applications : 69, 42, 8 et 18. Les acceptations mesurent le processus d’admission sur la plateforme.",
+        "refs": [
+          "mesre-monmaster-2024-2025"
+        ]
+      }
     ]
   },
   {
@@ -531,6 +558,15 @@
       "Quels départements portent la mention et ses parcours ?",
       "Quelles seront les maquettes, les capacités d’accueil et les conditions d’admission ?",
       "Quels rapports éventuels avec les parcours existants sont documentés par les équipes pédagogiques ?"
+    ],
+    "motives": [
+      {
+        "type": "institution",
+        "text": "La note stratégique prévoit que la mention accueille le parcours international Trustworthy AI qui porte le volet formation du cluster ANITI.",
+        "refs": [
+          "ca-2026-130"
+        ]
+      }
     ]
   },
   {
@@ -569,6 +605,13 @@
         "refs": [
           "ca-2026-103",
           "ca-2026-128"
+        ]
+      },
+      "tracks": {
+        "text": "L’annexe présente Immunologie et maladies infectieuses (IMI) en M1 et M2 et annote les transferts d’Immunologie–Immunopathologie–Infections et de GIZMAT vers la nouvelle mention. La note stratégique évoque deux parcours au niveau de la mention, dont un coaccrédité avec l’ENVT.",
+        "refs": [
+          "cfvu-2026-101",
+          "ca-2026-130"
         ]
       }
     },
@@ -609,6 +652,15 @@
       "Quel département ou groupement de départements porte la mention ?",
       "Quel est le calendrier de mise en œuvre et quelles seront les capacités ?",
       "Un lien avec des parcours existants est-il explicitement documenté dans les maquettes ou les décisions de la FSI ?"
+    ],
+    "motives": [
+      {
+        "type": "institution",
+        "text": "La note stratégique vise à rendre plus visible l’immunologie dans l’offre de master, au carrefour de la recherche médicale, de la recherche clinique et de l’innovation thérapeutique.",
+        "refs": [
+          "ca-2026-130"
+        ]
+      }
     ]
   }
 ]
